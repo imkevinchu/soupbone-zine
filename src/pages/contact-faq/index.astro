@@ -1,0 +1,47 @@
+---
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
+
+import * as contact from "./contact.md";
+import * as faq from "./faq.md";
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <style>
+      ul {
+        list-style-type: none;
+        padding: unset;
+      }
+      ul li {
+        display: flex;
+      }
+      ul li time {
+        flex: 0 0 130px;
+        font-style: italic;
+        color: #595959;
+      }
+      ul li a:visited {
+        color: #8e32dc;
+      }
+    </style>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <section>
+        <h1>{contact.frontmatter.title}</h1>
+        <Fragment set:html={contact.compiledContent()} />
+      </section>
+      <section>
+        <h1>{faq.frontmatter.title}</h1>
+        <Fragment set:html={faq.compiledContent()} />
+      </section>
+    </main>
+    <Footer />
+  </body>
+</html>
