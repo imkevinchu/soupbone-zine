@@ -1,25 +1,14 @@
-# Astro Starter Kit: Blog
+# soupbone zine collective website
 
-```
-npm create astro@latest -- --template blog
-```
+Soupbone is a distributed humanities collective. This website makes use of the Astro static site framework, stores content in Markdown, and is deployed to Vercel.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/blog)
+## Features
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-
-![blog](https://user-images.githubusercontent.com/4677417/186189140-4ef17aac-c3c9-4918-a8c2-ce86ba1bb394.png)
-
-Features:
-
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+- 100/100 Lighthouse performance
+- SEO-friendly with canonical URLs and OpenGraph data
+- Sitemap support
+- RSS Feed support
+- Markdown & MDX support
 
 ## 🚀 Project Structure
 
@@ -46,6 +35,13 @@ The `src/content/` directory contains "collections" of related Markdown and MDX 
 
 Any static assets, like images, can be placed in the `public/` directory.
 
+## Getting started
+
+- Edit the home page in `src/pages/index.astro`
+- Edit the site header items in `src/components/Header.astro`
+- Change the footer in `src/components/Footer.astro`
+- Customize the blog post page layout in `src/layouts/BlogPost.astro`
+
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
@@ -59,10 +55,6 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## Astro documentation
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+Check out [the Astro documentation](https://docs.astro.build) or [Discord server](https://astro.build/chat).
