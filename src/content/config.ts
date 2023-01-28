@@ -26,4 +26,17 @@ const members = defineCollection({
 	}),
 });
 
-export const collections = { blog, members };
+const zine = defineCollection({
+	schema: z.object({
+		title: z.string(),
+		author: z.string(),
+		// Transform string to Date object
+		pubDate: z
+			.string()
+			.or(z.date())
+			.transform((val) => new Date(val)),
+		heroImage: z.string().optional(),
+	}),
+});
+
+export const collections = { blog, members, zine };
