@@ -3,48 +3,20 @@ import BaseHead from "../../components/BaseHead.astro";
 import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
-import { getCollection } from "astro:content";
 
-const members = await getCollection("members");
+import Members from "../../components/Members.astro";
 ---
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-    <style>
-      ul {
-        list-style-type: none;
-        padding: unset;
-      }
-      .member {
-        display: flex;
-      }
-      .member img {
-        object-fit: contain;
-      }
-    </style>
+    <style></style>
   </head>
   <body>
     <Header />
     <main>
-      <section>
-        <ul>
-          {
-            members.map((member) => (
-              <li class="member">
-                <div class="image">
-                  <img src={member.data.image} alt="" />
-                </div>
-                <div>
-                  <h3>{member.data.name}</h3>
-                  <p>{member.data.description}</p>
-                </div>
-              </li>
-            ))
-          }
-        </ul>
-      </section>
+      <Members />
     </main>
     <Footer />
   </body>

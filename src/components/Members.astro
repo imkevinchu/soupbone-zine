@@ -1,0 +1,42 @@
+---
+import { getCollection } from "astro:content";
+
+const members = await getCollection("members");
+---
+
+<style>
+  ul {
+    list-style-type: none;
+    padding: unset;
+  }
+  .grid-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1.6em;
+    row-gap: 1em;
+  }
+  .member {
+    display: flex;
+  }
+  .member img {
+    object-fit: contain;
+  }
+</style>
+
+<section>
+  <ul class="grid-wrapper">
+    {
+      members.map((member) => (
+        <li class="member">
+          <div class="image">
+            <img src={member.data.image} alt="" />
+          </div>
+          <div>
+            <h3>{member.data.name}</h3>
+            <p>{member.data.description}</p>
+          </div>
+        </li>
+      ))
+    }
+  </ul>
+</section>
