@@ -16,10 +16,9 @@ const members = await getCollection("members");
     row-gap: 1em;
   }
   .member {
-    display: flex;
-  }
-  .member img {
-    object-fit: contain;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 0.3em;
   }
 </style>
 
@@ -28,7 +27,7 @@ const members = await getCollection("members");
     {
       members.map((member) => (
         <li class="member">
-          <div class="image">
+          <div>
             <img src={member.data.image} alt="" />
           </div>
           <div>
