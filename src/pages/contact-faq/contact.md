@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-You can reach us [by email](mailto:soupbonecollective@gmail.com) or drop a note [here](https://soupbonecollective.com/contact-form).
+You can reach us [by email](mailto:soupbonecollective@gmail.com).
 
 We are a leaderless collective and make decisions as a group. That said, we do have several organizational roles for the purpose of accountability:
 
