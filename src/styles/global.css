@@ -4,7 +4,7 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 body {
-  font-family: Verdana, sans-serif;
+  font-family: Georgia, serif;
   margin: auto;
   padding: 20px;
   max-width: 65ch;
@@ -14,6 +14,11 @@ body {
   overflow-wrap: break-word;
   line-height: 1.5;
   color: #444;
+}
+h1,
+h2,
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1,
 h2,
