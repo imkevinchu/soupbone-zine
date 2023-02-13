@@ -1,5 +1,5 @@
 ---
 name: "Thalia Taylor"
 description: "Lake Michigan"
-image: "/members/thalia.png"
+image: "/assets/images/members/thalia.png"
 ---

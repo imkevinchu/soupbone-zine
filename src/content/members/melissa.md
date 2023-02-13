@@ -1,5 +1,5 @@
 ---
 name: "Melissa Frateantonio"
 description: "Malacala Cove in Sicily, Italy"
-image: "/members/melissa.png"
+image: "/assets/images/members/melissa.png"
 ---

@@ -1,5 +1,5 @@
 ---
 name: "Margaret Schnabel"
 description: "Indiana Central Canal"
-image: "/members/margaret.png"
+image: "/assets/images/members/margaret.png"
 ---

@@ -1,5 +1,5 @@
 ---
 name: "Clark Gudas"
 description: "Charles River as viewed from the Esplanade"
-image: "/members/clark.png"
+image: "/assets/images/members/clark.png"
 ---

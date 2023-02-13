@@ -1,5 +1,5 @@
 ---
 name: "Kate Fishman"
 description: "The Atlantic Ocean"
-image: "/members/kate.png"
+image: "/assets/images/members/kate.png"
 ---

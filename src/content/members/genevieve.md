@@ -1,5 +1,5 @@
 ---
 name: "Genevieve Marvin"
 description: "Lake Michigan"
-image: "/members/genevieve.png"
+image: "/assets/images/members/genevieve.png"
 ---

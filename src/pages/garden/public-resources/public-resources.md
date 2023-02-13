@@ -8,15 +8,15 @@ These documents began as mini syllabi for our internal discussions and have been
 
 ---
 
-🎬 [QUEER FILMS](/discussion-guides/Queer-Cinema-Guide-_-Soupbone.pdf) 🎬
+🎬 [QUEER FILMS](/assets/discussion-guides/Queer-Cinema-Guide-_-Soupbone.pdf) 🎬
 
-🍎 [FOOD & FAMILY](/discussion-guides/Food-and-Family-Syllabus-_-Soupbone.pdf) 🍎
+🍎 [FOOD & FAMILY](/assets/discussion-guides/Food-and-Family-Syllabus-_-Soupbone.pdf) 🍎
 
-👾 [VIDEO GAMES](/discussion-guides/Video-Games-Syllabus.pdf) 👾
+👾 [VIDEO GAMES](/assets/discussion-guides/Video-Games-Syllabus.pdf) 👾
 
-🌀 [AFROFUTURISM](/discussion-guides/Afrofuturism_-Syllabus.pdf) 🌀
+🌀 [AFROFUTURISM](/assets/discussion-guides/Afrofuturism_-Syllabus.pdf) 🌀
 
-📓 [CRITICAL PEDAGOGY](/discussion-guides/Critical-Pedagogy-Syllabus.pdf) 📓
+📓 [CRITICAL PEDAGOGY](/assets/discussion-guides/Critical-Pedagogy-Syllabus.pdf) 📓
 
 ---
 

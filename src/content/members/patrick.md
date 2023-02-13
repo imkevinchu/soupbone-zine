@@ -1,5 +1,5 @@
 ---
 name: "Patrick Powers"
 description: "Wallowa Lake in Joseph, Oregon"
-image: "/members/patrick.png"
+image: "/assets/images/members/patrick.png"
 ---

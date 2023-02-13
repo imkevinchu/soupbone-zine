@@ -5,7 +5,7 @@ title: "The impulse of a line"
 Interview with Kathrina Espinosa\
 Resident, November-December 2020
 
-![](/line-impulse.jpg)
+![](/assets/images/garden/line-impulse.jpg)
 
 _Phoebe: You mention that you work a day job of programming and web design. How does art fit into your daily schedule? Would you consider yourself an artist?_
 
