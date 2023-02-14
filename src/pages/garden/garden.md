@@ -16,4 +16,4 @@ Check out some of our offerings below! If you are able, we'd love to hear from y
 
 ☀️ Summer Jam [workshops](/garden/summer-jam) (2021)
 
-⚡️ [Wrong Biennale](http://youtube.com/watch?v=QK1JcmdWfwU) collaboration (2021-22)
+⚡️ [Wrong Biennale](/garden/wrong-biennale) pavilion (2021-22)
