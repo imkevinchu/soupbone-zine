@@ -7,34 +7,26 @@ const { pathname } = Astro.url;
 const isActive = href === pathname || href === pathname.replace(/\/$/, "");
 ---
 
-<div class="header-button">
-  <a href={href} class:list={[className, { active: isActive }]} {...props}>
-    <slot />
-  </a>
-</div>
+<a href={href} class:list={[className, { active: isActive }]} {...props}>
+  <slot />
+</a>
 <style>
   a {
     display: inline-block;
     text-align: center;
     text-decoration: none;
     color: black;
+    border: 0.1rem solid black;
+    box-shadow: 3px 3px #bbb;
+    padding: 0.15rem 0.5rem;
   }
   a.active {
     color: white;
-  }
-  .header-button:has(a.active) {
     background-color: black;
   }
-  .header-button {
-    border: 0.08333rem solid;
-    box-shadow: 3px 3px #bbb;
-    padding: 0.15rem 0.45rem;
-  }
-  .header-button:hover {
+  a:hover {
     background-color: black;
-    cursor: pointer;
-  }
-  .header-button:hover a {
     color: white;
+    cursor: pointer;
   }
 </style>
