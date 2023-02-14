@@ -1,6 +1,5 @@
----
-title: "Contact"
----
+<h3>Contact</h3>
+
 
 You can reach us [by email](mailto:soupbonecollective@gmail.com).
 

@@ -1,14 +1,24 @@
----
-title: "FAQ"
----
+<h3>FAQ</h3>
+
+_What's Soupbone?_
+
+Soupbone is founded on the belief that a supportive community can foster creative thought. To that end, we make zines, host workshops, and share work that excites us among ourselves and with the public at large. We are particularly focused on engaging with emerging scholars and artists, as well as those with limited access to a humanities education.
+
+We ponder and play with the humanities. We cultivate digital gardens in virtual spaces. We hold the lenses of the humanities up to everyday life and the world at large. Our members brainstorm, experiment, and make things with others. We see the collaborative study of the humanities as a way to empower and educate, as a space which leaves us open to wonder.
+
+<br>
 
 _How can I get involved with Soupbone?_
 
 If you would like to become a member, you can [email us](mailto:soupbonecollective@gmail.com) with a letter of interest! We are looking especially for members with a committment to (or strong interest in) scholarship, creative methodologies, and thinking about the humanities in a collaborative and public context.
 
+<br>
+
 _Are you funded or supported by an institute or university?_
 
 Nope! We are currently an independent group of friends and peers, scattered across countries, functioning out of our own pockets and spare time.
+
+<br>
 
 _Where did Soupbone come from?_
 
