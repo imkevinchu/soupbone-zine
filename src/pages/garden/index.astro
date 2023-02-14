@@ -17,7 +17,7 @@ import * as content from "./garden.md";
     <Header />
     <main>
       <section>
-        <h1>{content.frontmatter.title}</h1>
+        <h3>{content.frontmatter.title}</h3>
         <Fragment set:html={content.compiledContent()} />
         <!-- Like innerHTML, set:html injects the HTML from compiledContent (compiles Markdown to an HTML string) -->
       </section>

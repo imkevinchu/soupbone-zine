@@ -17,10 +17,11 @@ import * as content from "./artists-note.md";
   <body>
     <Header />
     <main>
+      <h3>Our Members</h3>
       <Members />
       <hr />
       <section>
-        <h1>{content.frontmatter.title}</h1>
+        <h3>{content.frontmatter.title}</h3>
         <Fragment set:html={content.compiledContent()} />
         <!-- Like innerHTML, set:html injects the HTML from compiledContent (compiles Markdown to an HTML string) -->
       </section>
