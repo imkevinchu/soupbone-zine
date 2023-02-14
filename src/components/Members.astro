@@ -18,7 +18,15 @@ const members = await getCollection("members");
   .member {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    column-gap: 0.3em;
+    column-gap: 0.25em;
+  }
+  @media (max-width: 768px) {
+    .grid-wrapper {
+      display: grid;
+      grid-template-columns: 1fr;
+      column-gap: 0em;
+      row-gap: 1em;
+    }
   }
 </style>
 
