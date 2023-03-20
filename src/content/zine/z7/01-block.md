@@ -4,12 +4,34 @@ author: "Phoebe Pan"
 ordering: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+> **Block** is a letter-writing role-playing game (RPG) about moving through a creative block with tarot cards as your guide; think of it as a cross between a farm life simulator and an artist's residency. A source of inspiration for the letter-writing system that I'm using is Tyler Crumrine's [Grandpa's Farm](https://possible-worlds-games.itch.io/grandpas-farm).
+>
+> This game can be many things to whoever plays it, but for whatever it's worth, the reason I made **Block** was because I wanted to make a game for my faraway friends, a game that we could play together without needing to be together in the same space and time. It is intended to be a slow game, a long-distance game, a game about sharing your thoughts & dreams & failures with others through intimate spaces of communication.
+>
+> 🎲️ Note: below is the one-page version of Block. Rules are brief and open to interpretation. For a more robust version with additional resources and features, [check out the expanded game on itch.io](https://pebblezone.itch.io/block-rpg).
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+**Block** is an _interstitial, playful, spooky, tender, sad, magic, zesty, maddening_ space where you are invited to work on a project that you've been trying to realize for some time: a story, a film, a song, a poem, a painting, a garden, a gadget, a bicycle, a dish, etc. Through a series of letters to a friend or close companion, you will move through your block and focus on the *process* rather than the end result of your journey.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+To play **Block**, you'll need:
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+- one or two players
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+- letter-writing implements
+
+- a deck of tarot cards (per player)
+
+**Preparation**:
+
+Establish the setting of your game: a quiet residency, a haunted cabin, an intergalactic romp, etc. If playing as a pair, determine together if you will share the same setting or have individual settings. Separate the Major Arcana and Minor Arcana cards of your tarot deck, and place them in two piles. Shuffle each pile and place them face-down.
+
+**Turn**:
+
+1.  Before starting a letter, **draw one Major Arcana card**. This card will frame the overall theme or atmosphere of your letter.
+
+2.  In addition to a Major Arcana card, **draw two Minor Arcana cards**. These will provide smaller prompts for everyday details that might fill out your letters: people you meet, events that happen, objects you encounter, etc.
+
+3.  **Write a letter based on the three cards you selected**. You can refer to the full version of this game for prompts, or refer to your preferred tarot guides.
+
+4.  **Completing a letter is considered one turn**. If you're playing with someone else, you can either wait until you've received their letter to begin your turn, or agree upon a time when you will both share your turn's letters simultaneously, or play at your own polyrhythmic paces.
+
+5.  After each turn, place the cards you used in a discard pile and redraw from the Major and Minor Arcana decks, repeating from step one. Based on the number of Major Arcana cards in a tarot deck, you should end up with a total of 22 letters. Have fun!
