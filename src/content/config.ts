@@ -30,11 +30,7 @@ const zine = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		author: z.string(),
-		// Transform string to Date object
-		pubDate: z
-			.string()
-			.or(z.date())
-			.transform((val) => new Date(val)),
+		ordering: z.number(),
 		heroImage: z.string().optional(),
 	}),
 });

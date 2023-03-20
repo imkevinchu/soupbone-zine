@@ -11,22 +11,23 @@ const posts = await getCollection("zine", ({ id }) => {
   return id.startsWith(zineIssue);
 });
 
-posts.sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
+posts.sort((a, b) => a.data.ordering.valueOf() - b.data.ordering.valueOf());
 ---
+
+<style>
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+</style>
 
 <section>
   <ul>
     {
       posts.map((post) => (
         <li>
-          <time datetime={post.data.pubDate.toISOString()}>
-            {post.data.pubDate.toLocaleDateString("en-us", {
-              year: "numeric",
-              month: "short",
-              day: "numeric",
-            })}
-          </time>
           <a href={`/zine/${post.slug}/`}>{post.data.title}</a>
+          by {post.data.author}
         </li>
       ))
     }
