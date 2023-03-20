@@ -4,12 +4,34 @@ author: "Calla Norman"
 ordering: 4
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+**Executive Summary**
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+The concept for Youth Group has been bouncing around in my head for a while, just because of how ridiculous it is, yet also how genius. Whenever I talk to people who were a part of the youth group I attended in high school, after a good amount of trauma-bonding and asking ourselves, "what the hell was that about?", we always reminisce over the games we played. So, I wondered, how come we never get the chance to play those games as an adult?
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+But, it's also about far more than the games. It's about having a community of people bonded by something---maybe it was God, maybe it was the awfulness of being a teenager, who knows. I wanted to come up with something that replicated the experience of a youth group lock-in, complete with games, moments for introspection, and team building exercises that somehow don't suck. Also, you can drink, so there's that. Or not, if that's also your vibe.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+**Company Description**
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+Youth Group is a bar and entertainment center for young people to come together and enjoy the fun parts of belonging to a community, steeped in nostalgia and void of uncomfortable nights sleeping on the floor of the social hall or rug burn for sitting on the floor worshipping for hours.
+
+Situated in an old church, preferably one built in the late mid-century whose congregation has petered out into nonexistence, Youth Group breathes new life into these spaces creating a laid-back, vibrant, and welcoming atmosphere. Just picture a mid-90s church, all beige walls and carpets that maybe were once maroon at one point in the past.
+
+For many young people, the memories of times in middle school and high school spent attending youth group or going to church are complicated. While they might look back fondly on the games played, friendships formed, hours spent around others, they might also have experienced ostracization by the church or their peers because of their gender or sexual identity, pressure to conform to the group's dogma, or judgement based on other aspects of their life they have no control over.
+
+At its core, Youth Group is a bar. Picture the opposite of the "trendy" coffee shop in your town that's secretly a front for a megachurch. It has a vaguely grungy vibe, much like "The Couch" that every youth group seemed to have which has definitely seen some things. The kitchen serves a elevated dive bar menu. It will serve a limited food menu at first, mostly riffs on classic Youth Group snacks. Grocery store doughnuts, Rice Krispie treats, Lofthouse cookies, Capri Suns, Sun Chips.
+
+As far as games, there will be a rotating schedule of group games every night. Sardines, Ghosts in the Graveyard, Human Battleship, Ultimate Spoons, Grog, Elbow Tag, and more. To account for regional differences in games, there will be opportunities for patrons to suggest their favorite games growing up to be played by groups. Patrons can join games pick-up style, or reserve a session for their own crew---perfect for work team-building, bachelor/ette parties, and or just a night out.
+
+**Moodboard**
+
+![](/assets/images/zine/z7/youth-group-moodboard.png)
+
+**Competitive Analysis**
+
+Other bars that provide entertainment and bands would be the primary competition for Youth Group. However, most bars have the standard assortment of bar games---pool, darts, cornhole, or perhaps electronic gambling machines. In addition, there are niche bars such as arcade bars which offer arcade and video games that can be played as groups. There are also other venues which combine fun activities with a social drinking such as bowling alleys or similar venues. As of my knowledge, no bars offer organized group games of the genre that Youth Group will.
+
+**Market Analysis**
+
+As of now, [29% of millennials have no religious affiliation](https://www.cnbc.com/2021/12/29/millennials-lead-shift-away-from-organized-religion-as-pandemic-tests-faith.html), an increase of 6 points since 2016. This shows a growing number of the population of people who may have grown up in the church, participating in youth groups and games, but have since left.
+
+However, the market of people missing out on "youth group games" extends beyond current and former church-goers. The types of group games played in youth groups across the country often overlap with other childhood activities such as scout troups and summer camps. This gives Youth Group a valuable opportunity to provide a place for adults to reconnect with their inner child.
