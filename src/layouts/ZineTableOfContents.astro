@@ -42,6 +42,7 @@ const { zineIssue, zineTitle } = Astro.props;
     <Header />
     <main>
       <h3>{zineTitle}</h3>
+      <slot />
       <TableOfContents zineIssue={zineIssue} />
     </main>
     <Footer />
