@@ -20,7 +20,7 @@ This is a book you will forget.
 
 - [ ] Y
 - [ ] N
-- [ ] Doubt
+- [ ] doubt
 
 You left your bookmark on the kitchen counter. Gently, you dog-ear the first page that you fell in love with.
 
@@ -56,6 +56,7 @@ This is a book about survival.
 
 - [ ] Y
 - [ ] N
+- [ ] hold
 
 A birthday party for the old man. Pea soup, salad, sautéed mushrooms, pilaf with chicken, crumbly cake. The spaces between dishes decorated with dried herbs and wildflowers. You listen to the music box, its melody tickling your senses. You know you’re supposed to cry but cannot understand why.
 
@@ -106,4 +107,4 @@ This is a book about memory.
 
 - [ ] Y
 - [ ] N
-- [ ] Close
+- [ ] close
