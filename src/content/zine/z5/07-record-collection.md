@@ -14,7 +14,7 @@ ordering: 7
         display: grid; 
         grid-template-columns: repeat(3, 1fr);
         grid-auto-rows: 1fr;
-    }`
+    }
 </style>
 
 <div class="container">
