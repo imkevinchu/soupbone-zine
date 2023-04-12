@@ -8,7 +8,7 @@ Sometimes, while I walk through the woods in the summer or the fall, light filte
 
 *With muscles artificially tight, (from minutes and hours cramped inside a metal-plastic box hurtling down the highway) the cobwebs across my soul stretch and blow away. The air outside the car is clean and different-smelling, and all I can see are leaves and trees and green and brown—and it is not concrete and grey—and I see the sun and feel the wind and track the clouds and think that *this* is baptism.*
 
-![](/assets/images/zine/z4/influence-of-earth/1.jpg)
+![](/assets/zine/z4/influence-of-earth/1.jpg)
 
 For me, the momentary transcendence of being outside in the wilderness is essential. To live without it almost does not seem like living at all. Being outside allows me to be a different, simpler person for the duration of my hike or walk. I have room to think out loud and my concerns become more basic: how far can I go before sunset? Do I have enough water and food for the hike? Where am I going to use the bathroom? It allows me to get back to basics, to remember that living is more than achievement, employment, academics, and success.
 
@@ -20,7 +20,7 @@ _On a sunny winter day, walking through trails, traced and cleared by the ghost 
 
 In many ways, we created the natural sanctuaries that I love in order to assuage our guilt for displacing the human life that had always been there. Scholars have suggested that post-revolutionary Americans displaced Native peoples to create national parks throughout the 19th century for a wide variety of economic reasons—among them, to create better sport hunting opportunities, increase access to logging—but also because they thought that the 'wilderness' was closest to the way God willed it to be without human intervention. That philosophy permitted Europeans and Americans to displace and dispossess American Indians from land throughout North America in order to 'protect the land.'
 
-![](/assets/images/zine/z4/influence-of-earth/2.jpg)
+![](/assets/zine/z4/influence-of-earth/2.jpg)
 
 The reality, however, is quite different. Most land dispossessed from American Indians was not converted into a National Park—most was bought or taken by white settlers for agricultural purposes. Europeans and Americans of European descent applied European farming methods across North American land without much concern as to the potential environmental impact. In Europe, clearcutting and deep tilling was necessary to aerate the soil and remove rocks. In the North American plains, European farming techniques compromised sensitive soil ecosystems and led to massive topsoil erosion. As settlers migrated west and brought their farming practices with them, they began to destroy the sensitive prairie ecosystems throughout the great plains and in Nebraska, Oklahoma, Kansas, Colorado, and North Texas. Settlers' clearing grasses with deep roots and small trees led to massive wind erosion, and ultimately caused the dust bowl and famine of the 1930s.[^2] It is not a coincidence that a large number of American Indian Nations were marched off fertile lands in the southeast and into Oklahoma and Nebraska in the decades preceding the dust bowl, which perfectly coincided with a Federal policy that allowed starving American Indians to sell their reservation land to settler farmers. The effects of the dust bowl persist—the majority of farming in that lower plains region is still conducted with large-scale soil tilling and clearcutting practices.
 
@@ -28,7 +28,7 @@ _Coming up upon a turn in the trail, I throw a glance to the forest floor and se
 
 American Indian farming styles were better suited to the land they inhabited. Pre-colonization, the lower plains regions (today Oklahoma, Kansas, Arkansas, and Nebraska) were mostly inhabited by a variety of Tribes and Nations that have been named Siouan due to similarities in their languages.[^3] Most Siouan communities had two or more seasonal camps, and almost all practiced farming to varying degrees, utilizing integrated farming methods that preserved root systems that prevented erosion, farming in the 'wilderness' rather than against it.[^4] Hunting, particularly bison, was vital for providing enough protein for large groups of people, as well as for providing skins for warmth during cold winters. Nations living farther south, like the Wichita, relied less heavily on large game, moved around less, and built their houses using strong grasses.[^5] Both women and men foraged over a relatively wide area—horses, once thought to not have been used by American Indians before the arrival of Europeans, were probably prevalent throughout this area pre-colonization.
 
-![](/assets/images/zine/z4/influence-of-earth/3.jpg)
+![](/assets/zine/z4/influence-of-earth/3.jpg)
 
 _Another time I was full of sun, exhausted, my skin slowly crisping alongside knee-high North Dakota desert grass, so, so thirsty under unrelenting yellow light. And the hills were striped like God took a giant paintbrush dipped in the vermillion of a thousand bloody deaths and painted memories across the hills in deft, whooshing strokes—right, left, right—_
 
@@ -38,7 +38,7 @@ For the Water Protectors, Indigenous activists protesting the construction of na
 
 American Indians used the structures of the natural world for sustenance, tools, and prayer. They were forcibly removed, not only from their land, but from the narrative of their land. The narrative that replaced it was that of 'god's gracious spaces.' The National Parks System is routinely considered to be the best idea the United States ever had, and our greatest treasure.
 
-![](/assets/images/zine/z4/influence-of-earth/4.jpg)
+![](/assets/zine/z4/influence-of-earth/4.jpg)
 
 And, like most Americans, I consider the protected lands of this continent to be breathtaking. It is not for no reason that philosophers worldwide and throughout the ages have thought of the 'wilderness' as perfect, created in God's image. They also posited that people were created in God's image, and some, like St. Francis, even went so far as to say that people living simply were living as close to God as is possible.[^7]
 

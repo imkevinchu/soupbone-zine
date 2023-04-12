@@ -24,7 +24,7 @@ the eyes in the waiting room, unblinking\
               counterclockwise & they resumed\
                                                                                        screaming. I tapped them for consolation.
 
-            I tapped the sky for good luck. It was still white.\
+I tapped the sky for good luck. It was still white.\
                                            Still made of glass. I pressed my palms against the mist\
                              ceiling, bargained my fingerprints, my sparkling\
                                                             purity for the right to remain\
@@ -36,7 +36,7 @@ the eyes in the waiting room, unblinking\
                                           *innocence, destiny*\
                                           the *death of me*, on & on.
 
-            At home, I shut the piano. Unfastened\
+At home, I shut the piano. Unfastened\
 my fingers. My ears            throbbed as if stifling\
                                 secrets. I played the red\
                 mahogany, over & over.                     My brain\
@@ -46,6 +46,6 @@ my fingers. My ears            throbbed as if stifling\
                                                              glass in an impossible vacuum. My hands\
                                                                                                                                                 still open, still mine.
 
-![](/assets/images/zine/z5/DSC_0034.jpg)
+![](/assets/zine/z5/DSC_0034.jpg)
 
-This piece contains formatting that may vary depending on screen size. To view the intended formatting, [please refer to this PDF](/assets/images/zine/z5/EverAfter-HZ.pdf).
+This piece contains formatting that may vary depending on screen size. To view the intended formatting, [please refer to this PDF](/assets/zine/z5/EverAfter-HZ.pdf).

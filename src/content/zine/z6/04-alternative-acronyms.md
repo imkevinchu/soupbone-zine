@@ -8,13 +8,13 @@ We met to speak about the woes of entering the workforce as young creatives and 
 
 #### Genevieve
 
-![](/assets/images/zine/z6/alternative-acronyms/acronym1.jpg)
+![](/assets/zine/z6/alternative-acronyms/acronym1.jpg)
 
 MQL is a marketing qualified lead, but Genevieve thinks it would be better off as many qualified lizards.
 
 Drip Campaign is a marketing term about communication strategy but Genevieve thinks it would be more fun as rain.
 
-![](/assets/images/zine/z6/alternative-acronyms/acronym2.jpg)
+![](/assets/zine/z6/alternative-acronyms/acronym2.jpg)
 
 Disco Calls, or discovery calls, are unfortunately not sudden phone calls that play out disco but the first conversation you have with a prospective customer.
 
@@ -22,19 +22,19 @@ Disco Calls, or discovery calls, are unfortunately not sudden phone calls that p
 
 So much of the early years of medical school focus on learning the language of medicine—for example, a heart attack becomes a myocardial infarction. Although this precision of language helps with treatment and diagnosis, I also feel that it creates distance between the patient and provider. A lot of the vocabulary is technical, bordering on jargon. And of course, there is an abundant enthusiasm for acronyms. These drawings help me think about how language in medicine could move away from gatekeeping and more toward collective decision-making.
 
-![](/assets/images/zine/z6/alternative-acronyms/acronym3.jpeg)
+![](/assets/zine/z6/alternative-acronyms/acronym3.jpeg)
 
 (NTND) Nontender nondistended means that the abdomen is soft and not bloated, but could also mean next time no dogs.
 
-![](/assets/images/zine/z6/alternative-acronyms/acronym4.jpeg)
+![](/assets/zine/z6/alternative-acronyms/acronym4.jpeg)
 
 (ABG) Arterial blood gas is a blood test that measures oxygen and carbon dioxide, but could also be an Asian baby girl.
 
-![](/assets/images/zine/z6/alternative-acronyms/acronym5.jpeg)
+![](/assets/zine/z6/alternative-acronyms/acronym5.jpeg)
 
 (HPI) The history of present illness is the doctor’s summary of why the patient came in, but it could also mean we have puppies inside.
 
-![](/assets/images/zine/z6/alternative-acronyms/acronym6.jpeg)
+![](/assets/zine/z6/alternative-acronyms/acronym6.jpeg)
 
 (CTA) Clear to auscultation means that the lungs are clear when listening with a stethoscope, but it could also mean cannot take anymore.
 
@@ -42,22 +42,22 @@ So much of the early years of medical school focus on learning the language of m
 
 When I first started my engineering day job, I was bewildered by all the acronyms people would throw around in meetings and in written correspondence. Some acronyms were internal to the company, others were broadly used in the industry, and yet others were used across both places to mean different things. I first worked on an advertising team, where it was jarring to learn how human actions were directly tied to monetary values. So many company resources were allocated toward building models to extract the most money from people, but all of this was abstracted into functions and metrics. As I doodled these images during meetings and after work, I freed myself from thinking about optimization and activation functions. Instead, I thought about eggs, Ikea sharks, and everything in between.
 
-![](/assets/images/zine/z6/alternative-acronyms/acronym7.png)
+![](/assets/zine/z6/alternative-acronyms/acronym7.png)
 
 SWE is a common acronym in the industry which means Software Engineer. Here, it means Sweet Wild Eggs.
 
-![](/assets/images/zine/z6/alternative-acronyms/acronym8.png)
+![](/assets/zine/z6/alternative-acronyms/acronym8.png)
 
 RL stands for Reinforcement Learning, which refers to a category of machine learning techniques that uses reward and/or punishment to optimize for a specific goal. It is named after negative and positive reinforcement from animal psychology. It could also mean Real Life.
 
-![](/assets/images/zine/z6/alternative-acronyms/acronym9.png)
+![](/assets/zine/z6/alternative-acronyms/acronym9.png)
 
 ReLU is another machine learning term that stands for Rectified Linear Unit. It's a function that transforms negative input to zero, thereby only keeping the positive values. It could also mean Refreshingly Laundered Undies.
 
-![](/assets/images/zine/z6/alternative-acronyms/acronym10.png)
+![](/assets/zine/z6/alternative-acronyms/acronym10.png)
 
 CPC is a common acronym used in advertising, which means Cost Per Click. It's usually used by the advertiser to refer to how much they are willing to pay for a single click on their ad. Another meaning for it is Cannot Please Cat.
 
-![](/assets/images/zine/z6/alternative-acronyms/acronym11.png)
+![](/assets/zine/z6/alternative-acronyms/acronym11.png)
 
 pCTR means predicted Click Through Rate, which in advertising is the probability someone will click an ad. Here, it means please Clean The Room.

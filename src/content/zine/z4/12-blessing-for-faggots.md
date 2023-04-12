@@ -56,12 +56,12 @@ In his recent exhibitions, *Morning* (2020) and *Come Softly To Me* (2019), L
 
 <div class="container">
 <figure>
-    <img src="/assets/images/zine/z4/blessing-for-faggots/blessing1.png">
+    <img src="/assets/zine/z4/blessing-for-faggots/blessing1.png">
     <figcaption>Getting Dressed, oil on canvas, 12 x 9 (2019)</figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/zine/z4/blessing-for-faggots/blessing2.png">
+    <img src="/assets/zine/z4/blessing-for-faggots/blessing2.png">
     <figcaption>Invitation, oil on canvas, 8 x 10 inches (2019)</figcaption>
 </figure>
 </div>
@@ -81,7 +81,7 @@ Cvetkovich's anecdote captures the ambiguous mixture of sadness, mania, and reli
 Despite the name calling, the belittling, and the sad violence, I find myself sneaking back to spirituality much like Cvetkovich does. As a teenager who feared the solitude of home, I disappeared among the boys who populated after-school religious programs. Bible studies, YoungLife, prayer groups. Their discussions of divine feeling and sacrifice melded marvelously with my hunger for "big questions" and homosexual flair. During prayer, I recall lifting my head as the other boys bowed theirs in holy meditation only to catch another face staring back at me. Exposed, lost, disinterested, our eyes meet for a brief moment. Why hadn't he prayed with the rest of the group? He seemed familiar with its participants, knowledgeable of the stories, and even a leader among the other boys. After seeing each other we said nothing. I later discovered he had been outed and removed from religious leadership weeks earlier.
 
 <figure>
-    <img src="/assets/images/zine/z4/blessing-for-faggots/blessing3.png">
+    <img src="/assets/zine/z4/blessing-for-faggots/blessing3.png">
     <figcaption>Angel Writing a Letter, oil on canvas, 12 x 9 inches (2019)</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Whenever we visit, I remember that moment and wonder if Tim had something to do 
 If Fratino offers the homosexual body as a channel through which spiritual energies progress, then visual artist Nguyen Tan Hoang shows how this progress is ultimately disrupted for queer bodies marked by racial violence and erasure. Unlike Fratino, whose work highlights the flow of spirituality through an everyday homoeroticism, Hoang emphasizes a spiritual practice of stops and skipages that upset the forward motion of time. His film, *K.I.P.* (2002), illustrates not only how erotic pleasure is tightly bound to grief, but how the spiritual turned spectral can disrupt and defamiliarize linear temporality.[^15]
 
 <figure>
-    <img src="/assets/images/zine/z4/blessing-for-faggots/kipstill.jpeg">
+    <img src="/assets/zine/z4/blessing-for-faggots/kipstill.jpeg">
     <figcaption>Still from K.I.P. (2002)</figcaption>
 </figure>
 
@@ -120,12 +120,12 @@ For Hoang, the spiritual—now turned spectral—not only confers disparate feel
 
 <div class="container">
 <figure>
-    <img src="/assets/images/zine/z4/blessing-for-faggots/blessing4.png">
+    <img src="/assets/zine/z4/blessing-for-faggots/blessing4.png">
     <figcaption>I keep my treasure in my ass, oil on canvas, 85.75 x 65 inches (2019)</figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/zine/z4/blessing-for-faggots/blessing5.jpeg">
+    <img src="/assets/zine/z4/blessing-for-faggots/blessing5.jpeg">
     <figcaption>photograph of myself with Amber, (c. 2006)</figcaption>
 </figure>
 </div>

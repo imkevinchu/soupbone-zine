@@ -27,10 +27,10 @@ As I write this, I’m listening to the Lofi Girl channel’s twenty-four-hour �
 The 24/7 live stream is flooded with warm earth tones, from Lofi Girl’s forest-green sweater to the red of her chair. Plants sit at her pleasantly cluttered desk. It’s clear that someone has taken pains to make the scene appear convincingly home-y.
 
 <div class="container">
-    <img src="/assets/images/zine/z6/lofi-girl/lofi1.jpg">
-    <img src="/assets/images/zine/z6/lofi-girl/lofi2.jpg">
-    <img src="/assets/images/zine/z6/lofi-girl/lofi3.jpg">
-    <img src="/assets/images/zine/z6/lofi-girl/lofi4.jpg">
+    <img src="/assets/zine/z6/lofi-girl/lofi1.jpg">
+    <img src="/assets/zine/z6/lofi-girl/lofi2.jpg">
+    <img src="/assets/zine/z6/lofi-girl/lofi3.jpg">
+    <img src="/assets/zine/z6/lofi-girl/lofi4.jpg">
 </div>
 
 <p class="caption">Fan-generated depictions of Lofi Girl in different countries. Clockwise from L: Morocco (<a href="https://www.reddit.com/r/Morocco/comments/in59yh/lofi_hip_hop_radio_moroccan_version_inspired_by/">@FreezerBil</a>), The Philippines (<a href="https://www.instagram.com/p/CMqo5QFFEEU/">@piropino.ig</a>), Taiwan (<a href="https://www.instagram.com/ameily_with_an_a/">@ameily_with_an_a</a>), Brazil (<a href="https://www.reddit.com/r/LofiGirl/comments/iluq67/brazilian_version_made_by_leticiaefing_on_twitter/">@Leticia_Efing</a>)</p>

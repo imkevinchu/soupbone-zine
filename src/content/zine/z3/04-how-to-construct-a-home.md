@@ -16,7 +16,7 @@ This report contains subjective instructions and patterns for preparing a set of
 - Tape
 
 <figure>
-    <img src="/assets/images/zine/z3/how-to-construct-a-home/pillowfort.png">
+    <img src="/assets/zine/z3/how-to-construct-a-home/pillowfort.png">
 </figure>
 
 The first model is based on an early childhood memory. Though the various styles of pillow forts have expanded due to an increase in popularity, the basis of a pillow fort remains the same. Blankets hang over the chairs to hold up the structure and provide a degree of separation between its occupants and the rest of the world. More blankets will fit the interior “carpeting” and old pillows along with any mish mash of trashy magazines, mystery novels, and small snacks will be scattered inside. In the 3-D model, additional paper pillows are provided to be stacked onto the given structure in any way with glue or tape.
@@ -32,20 +32,20 @@ _Books and magazines_: Cut out and fold carefully down the spine.
 _Snacks_: Cut carefully and attach to create a box shape for each.
 
 <figure>
-    <img src="/assets/images/zine/z3/how-to-construct-a-home/townhome.png">
+    <img src="/assets/zine/z3/how-to-construct-a-home/townhome.png">
     <figcaption>This model’s structure is sourced from <a href="http://www.papermodelkiosk.com/shop/item-detail.php?item_id=440&category_id=167">Paper Model Kiosk</a> and has been adapted for this exercise.</figcaption>
 </figure>
 
 The second model is meant to reveal only a small amount of information. These townhomes are usually made of brick or vinyl siding and wood and exist in a larger ecosystem of other townhomes. Named after the city homes for the wealthy, the name townhouse or townhome was later used to describe non-uniform units in suburban areas designed to mimic detached or semi-detached homes. Townhomes are everywhere and nowhere and are almost like a transplant into a suburbia you do not actually know but are familiar with. Did you grow up in a townhome? Me too. A townhome is dry and detached so if you are handling with moisturized hands, return with dry, almost cracked hands that may be easily cut by the paper.
 
 <figure>
-    <img src="/assets/images/zine/z3/how-to-construct-a-home/georgianmansion.png">
+    <img src="/assets/zine/z3/how-to-construct-a-home/georgianmansion.png">
 </figure>
 
 The third model is what all mass-produced dollhouses look like. Named after the period of English architecture from the 18th century, these houses are square, symmetrical, and a bit odd in their specific measurements. Georgian mansions belong to Jane Austen movie adaptations and middle school parties on the other side of town where you have to bring a small gift so you do not look like an ungrateful guest. There are so many windows, through which one can sometimes see a little curtain pulled back to reveal a home inside.
 
 <figure>
-    <img src="/assets/images/zine/z3/how-to-construct-a-home/hanok.png">
+    <img src="/assets/zine/z3/how-to-construct-a-home/hanok.png">
     <figcaption>This model’s structure is sourced from <a href="http://han-ok-story.com/class.html">Hanok Story</a> and has been adapted for this exercise.</figcaption>
 </figure>
 

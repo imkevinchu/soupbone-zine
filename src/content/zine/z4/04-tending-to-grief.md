@@ -4,7 +4,7 @@ author: "Melissa Frateantonio"
 ordering: 4
 ---
 
-![](/assets/images/zine/z4/cenotes/1.jpg)
+![](/assets/zine/z4/cenotes/1.jpg)
 
 _All stills from Cenote, 2019_
 
@@ -12,7 +12,7 @@ A cenote (sɪˈnəʊteɪ) is a natural underground reservoir of water that occur
 
 <center>✦</center>
 
-![](/assets/images/zine/z4/cenotes/2.jpg)
+![](/assets/zine/z4/cenotes/2.jpg)
 
 Back in January, we stood around a phone that Mama held up. On the other end, my aunt hovered her phone towards my grandfather's body so that we could see him. The room light was a harsh white against his hollowed cheeks. But the flowers! 花束は綺麗だよ。[^1] My aunt let us say our final goodbyes before he was cremated. Ten minutes later, the screen was dark and, just like that, he was gone. The last time I saw my *ojīchan* was five years ago in Japan.[^2]
 
@@ -34,11 +34,11 @@ As I write, I hear a swoosh of wind just outside my window on a still spring day
 
 I have often felt fraught thinking about whether there is a framework for grief and healing that 'works' at all. Nonreligious, Western forms of tending to these emotional and sociocultural time-spaces seem stunted. We lack language that allows us to be honest and vulnerable; we lack rituals and practices that allow this sprawling thing called grief to pulse through us in a way that doesn't feel 'wrong.' We have stereotypes of grieving and healing as temporally and emotionally linear experiences. They're not.
 
-![](/assets/images/zine/z4/cenotes/3.jpg)
+![](/assets/zine/z4/cenotes/3.jpg)
 
 <center>✦</center>
 
-![](/assets/images/zine/z4/cenotes/4.jpg)
+![](/assets/zine/z4/cenotes/4.jpg)
 
 In *Cenote* (2020), queer Japanese filmmaker, Kaori Oda, documents cenotes in Northern Yucatán, Mexico, and their sociocultural entanglements with traditional Mayan communities. Her immersive ethnographic documentary film is void of linearity, but brimming with life, sound, feeling and movement. I was captivated by the film immediately. Its first spoken words whisper, "This is our story. And here we are."
 
@@ -46,15 +46,15 @@ Cenotes are puzzling. They can be hard to get into and out of. Made up of an uni
 
 The film's form mimics the complexity and sacredness of Mayan myths that understand these holy springs to be the way "present life and [the] hereafter" are connected. For much of the film, we are slowly taken through these serene subaquatic environments, accompanied only by the sound of a body moving through water and its steady breathing—so much so, that the aimless swimming scenes become the parts of the film where I feel most there. Sometimes, the handheld underwater shots are guided by whispered voice-overs, creating an immersive world that lingers far past the film's running time. Some of the narrations tell us stories of offerings that have been made in cenotes; some are poetic passages that bring us closer to the soul of the cenotes. In between these whispers, there are moments which flash from the dark, rippling pools of a cenote to fireworks, candles being lit on a hillside, intimate close-ups of the faces of local villagers. Sometimes, we emerge from the water.
 
-![](/assets/images/zine/z4/cenotes/5.jpg)
+![](/assets/zine/z4/cenotes/5.jpg)
 
-![](/assets/images/zine/z4/cenotes/6.jpg)
+![](/assets/zine/z4/cenotes/6.jpg)
 
 The montages in Oda's film speak to how deeply intertwined Maya culture, community and tradition are with cenotes. She composes an otherworldly audiovisual embodiment of liminality through cenotes, exploring what it is to exist in-between. Cenotes are devoid of the kind of linear, commodified time-spaces that make up capitalist frameworks of living. In this sense, cenotes—as things that sprawl and can't be entirely understood—are refreshingly beyond our comprehension. Unlike what I initially thought cenotes were like—disorientating, dark and thick—Oda's account marks their liminality with a vivid sense of liveliness.
 
 <center>✦</center>
 
-![](/assets/images/zine/z4/cenotes/7.jpg)
+![](/assets/zine/z4/cenotes/7.jpg)
 
 Much like cenotes are understood through forms of collective consciousness and storytelling that spans generations of Mayan culture, my grieving also yearns to occupy similar spaces in order to somehow be grasped. Grief and mourning are difficult to verbalize; instead, they haunt and linger. Bodily lapses of grief move through me and arrive in fractured forms, like déjà vu. Through her distinct use of colour, sound, and movement, Oda creates a brave spectacle exploring, for me, the liminal spaces in which my mind now often ambles in living with and experiencing grief and healing. The film arrived as a comforting hug and became a way through which I could imagine and see the movement between life and the "hereafter." Existing in cenotes—the in-between existing—we are always connected to what we can no longer and not yet see.
 
@@ -64,7 +64,7 @@ As this trembling handheld camera shot ends, there is a voice that whispers "_su
 
 There is an opening and there is light.
 
-![](/assets/images/zine/z4/cenotes/8.jpg)
+![](/assets/zine/z4/cenotes/8.jpg)
 
 ---
 

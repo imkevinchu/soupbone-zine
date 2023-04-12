@@ -4,8 +4,8 @@ author: "Cindy Liu and Calvin Liu"
 ordering: 5
 ---
 
-<audio controls src="/assets/images/zine/z5/brahms.m4a">
-<a href="/assets/images/zine/z5/brahms.m4a">Download audio</a>
+<audio controls src="/assets/zine/z5/brahms.m4a">
+<a href="/assets/zine/z5/brahms.m4a">Download audio</a>
 </audio>
 
 Despite growing up under the same roof, and despite the fact that our instruments are divinely compatible, my brother and I seldom made music together. We often played for anyone but ourselves---a jury, a teacher, a parent, some arbitrary definition of achievement. We did not think of music as facilitating creative expression; the idea that it could reflect the deepest, most central aspects of ourselves felt foreign and elusive.

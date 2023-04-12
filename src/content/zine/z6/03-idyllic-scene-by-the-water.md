@@ -8,13 +8,13 @@ This painting was completed over the course of 1.5 months, and leans on the conc
 
 I’m planning on gifting this piece to my mother for Mother’s Day this year (though she doesn’t know it yet!). My mom has long dreamt of her life beyond labor, and I want to give her a vista she can gaze upon in her home office—an escape she can draw upon when completing the day to day minutiae of her tasks.
 
-<img src="/assets/images/zine/z6/idyllic/idyllic1.jpg">
+<img src="/assets/zine/z6/idyllic/idyllic1.jpg">
 
 <div class="container">
-    <img src="/assets/images/zine/z6/idyllic/idyllic2.jpg">
-    <img src="/assets/images/zine/z6/idyllic/idyllic3.jpg">
-    <img src="/assets/images/zine/z6/idyllic/idyllic4.jpg">
-    <img src="/assets/images/zine/z6/idyllic/idyllic5.jpg">
+    <img src="/assets/zine/z6/idyllic/idyllic2.jpg">
+    <img src="/assets/zine/z6/idyllic/idyllic3.jpg">
+    <img src="/assets/zine/z6/idyllic/idyllic4.jpg">
+    <img src="/assets/zine/z6/idyllic/idyllic5.jpg">
 </div>
 
 <style>

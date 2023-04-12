@@ -8,4 +8,4 @@ A [show](https://anchor.fm/soupbone-collective/) from Genevieve Marvin and Tif
 
 [Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/soupbone/id1542782477)
 
-![Soupbone podcast logo](/assets/images/garden/soupbonepodcast.png)
+![Soupbone podcast logo](/assets/garden/soupbonepodcast.png)

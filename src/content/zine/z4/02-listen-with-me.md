@@ -35,7 +35,7 @@ _LISTEN ALONG WITH ME_
 After an extended intro, Okay Kaya's voice emerges, gravelly and close, to alert us that "around 20 seconds have passed." In fact, exactly twenty seconds have passed—and I'm reminded of the meaning that that seemingly arbitrary unit of time has accrued over the course of the past year. Twenty seconds of hand-washing will keep us safe, protect us from each other.
 
 <figure>
-    <img src="/assets/images/zine/z4/hands.jpg">
+    <img src="/assets/zine/z4/hands.jpg">
 </figure>
 
 Twenty is virtuous, now—another entry in our ever-fluctuating array of numbers made meaningful. We seek out holy trinities, lucky sevens; we refuse to build thirteenth floors. But our very human insistence on drawing patterns, on telling a story, can hurt us. In her newsletter *Griefbacon*, Helena Fitzgerald writes that anniversaries are only happy because we will them to be so:

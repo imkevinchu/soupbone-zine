@@ -1,5 +1,5 @@
 ---
 name: "Tiffany Xie"
 description: "The Great Lakes"
-image: "/assets/images/members/tiffany.png"
+image: "/assets/members/tiffany.png"
 ---

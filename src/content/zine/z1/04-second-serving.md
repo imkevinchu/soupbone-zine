@@ -4,7 +4,7 @@ author: "Lauren Ehrmann and Tiffany Xie"
 ordering: 4
 ---
 
-![](/assets/images/zine/z1/tomato.jpg)
+![](/assets/zine/z1/tomato.jpg)
 
 Illustration by Melissa Frateantonio
 

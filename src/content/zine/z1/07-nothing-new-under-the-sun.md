@@ -24,9 +24,9 @@ _Original photographs by Vivian Maier, presented by the [Maloof Collection, Ltd
 
 _Further reading: Elizabeth Newton's "[Fierce Attachments](https://reallifemag.com/fierce-attachments/)," on citation as a form of attachment._
 
-<img src="/assets/images/zine/z1/nothing-new-under-the-sun/Scan1.jpg">
-<img src="/assets/images/zine/z1/nothing-new-under-the-sun/Scan2v2.jpg">
-<img src="/assets/images/zine/z1/nothing-new-under-the-sun/Scan3v2.jpg">
-<img src="/assets/images/zine/z1/nothing-new-under-the-sun/Scan4.jpg">
-<img src="/assets/images/zine/z1/nothing-new-under-the-sun/Scan5.jpg">
-<img src="/assets/images/zine/z1/nothing-new-under-the-sun/Scan6.jpg">
+<img src="/assets/zine/z1/nothing-new-under-the-sun/Scan1.jpg">
+<img src="/assets/zine/z1/nothing-new-under-the-sun/Scan2v2.jpg">
+<img src="/assets/zine/z1/nothing-new-under-the-sun/Scan3v2.jpg">
+<img src="/assets/zine/z1/nothing-new-under-the-sun/Scan4.jpg">
+<img src="/assets/zine/z1/nothing-new-under-the-sun/Scan5.jpg">
+<img src="/assets/zine/z1/nothing-new-under-the-sun/Scan6.jpg">

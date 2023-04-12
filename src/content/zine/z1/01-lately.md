@@ -14,7 +14,7 @@ Illustrations by Melissa Frateantonio.
 
 \+ I've been thinking about all the friendships that could have blossomed if we had next term; the term which would have been the one to conclude my four years at Durham University. I can't explain how I feel about it, because I don't exactly feel upset. It's more knowing that there was an opportunity that was precedented, taken for granted, and it managed to slip away.
 
-![](/assets/images/zine/z1/lately/reading.png)
+![](/assets/zine/z1/lately/reading.png)
 
 #### Adrian
 
@@ -24,7 +24,7 @@ Illustrations by Melissa Frateantonio.
 
 3. How short my college career has been. Four years? That’s it? I’m quite unready to graduate.
 
-![](/assets/images/zine/z1/lately/adrianlately.png)
+![](/assets/zine/z1/lately/adrianlately.png)
 
 #### Kate
 
@@ -34,7 +34,7 @@ Illustrations by Melissa Frateantonio.
 
 — “Lachebekje,” a Dutch word which translates loosely to smiley, or little laughing mouth (adding “je” to any word makes it little). I pride myself on laughing easily, though it’s something I’ve been insecure about in the past, and I feel like this word celebrates that.
 
-![](/assets/images/zine/z1/lately/katelately.png)
+![](/assets/zine/z1/lately/katelately.png)
 
 #### Kevin
 
@@ -44,7 +44,7 @@ Something I've been thinking about a lot lately: "You are the only authority on 
 
 I've been coming back to my time in Bath, England—what it was like to create a home in an entirely new place so far from everything I'd known before, and how much that place is still a home for me. I've also been circling back to some modernist literature to consider how authors like Woolf, Mansfield, and Joyce portrayed identity through tools such as stream of consciousness. Lastly, I've been trying to hold onto tiny moments of happiness: feeling my cat purr when she's curling up to nap with me; hearing summer breezes through leaves and watching their shadows move on the ground; watching the stars on a clear night sky.
 
-![](/assets/images/zine/z1/lately/cat.jpg)
+![](/assets/zine/z1/lately/cat.jpg)
 
 #### Lauren
 
@@ -69,13 +69,13 @@ The podcast "The Poetry Gods" (in particular [Episode 6 with Paul Tran](https:/
 - The looming question of grad school
 - The food in Israel
 
-![](/assets/images/zine/z1/lately/cindylately2.png)
+![](/assets/zine/z1/lately/cindylately2.png)
 
 #### Margaret
 
 1\. This placard from the bug section of the natural history museum that is also an entire poem:
 
-![](/assets/images/zine/z1/lately/plaque.png)
+![](/assets/zine/z1/lately/plaque.png)
 
 2\. This gem from Susan Sontag in conversation wtith Tony Kushner on art and politics: '"You can call people's attention to injustice—that's a very important thing to do. But even more important now, I think, is the job of keeping alive people's capacity for feeling, feeling in a responsible rather than a facile way."'
 
@@ -93,7 +93,7 @@ The podcast "The Poetry Gods" (in particular [Episode 6 with Paul Tran](https:/
 
 Céline Sciamma!!, Sufjan Stevens, and meditation.
 
-![](/assets/images/zine/z1/lately/hollylately.png)
+![](/assets/zine/z1/lately/hollylately.png)
 
 #### Phoebe
 

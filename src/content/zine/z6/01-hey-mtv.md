@@ -8,7 +8,7 @@ ordering: 1
 
 The scene: a wall of shelves, stuffed and neatly lined with vinyl records. A leather armchair, vaguely Scandinavian in design. A thin, long desk (maple? oak? either way, the grain is pretty). A wooden foot with a spider image engraved in it from Laos. A Swiss flag mug. Stubby pencils kept in shot glasses. A bobblehead figure of Yasuhiro “Ryan” Ogawa.
 
-![](/assets/images/zine/z6/hey-mtv/murakami-workspace.png)
+![](/assets/zine/z6/hey-mtv/murakami-workspace.png)
 
 [Haruki Murakami’s workspace](https://www.harukimurakami.com/homepage_tile/desk-of-murakami/) has gained something of a cult following: rewind back to 2015, at the height of Tumblr days, when [his website won a Webby award](https://winners.webbyawards.com/2015/websites-and-mobile-sites/general-websites-and-mobile-sites/self-promotionportfolio/159437/haruki-murakami) for best self-promotion/portfolio. I remember my own obsession with it, as well as my vain attempts to imitate his aesthetic, from keeping a mug of stubby pencils nearby to lining the corners of my desk with swim meet pins and beaded prayer bracelets. (The record library, of course, was a pipe dream, so I stuck to building my iTunes library of YouTube videos converted to mp3s.) Though I can’t say that it helped me write any better, poring over Murakami’s workspace inaugurated a practice that involved hours of compiling digital folders overloaded with clipped #deskinspo content, scouring Japanese stationery sites for organizational tips, searching for… well, the perfect workspace.
 
@@ -18,19 +18,19 @@ A part of me wonders if this casual obsession with workspaces is really an inter
 
 To start, I’ll turn, in particular, to Ghibli films, of which I am often mulling over, and the way that they aestheticize labor to make the act of working seem somehow _alluring_. I grew up watching many of these films as necessary comforts, and I did not realize until recently how much I had subsumed their philosophies into my life, especially the way that they portray characters being “immersed” with regards to one’s work. These fictional workspaces shuttled me back and forth between various characters’ deep absorption in their environment and my own encounters with a type of studious calm, observed in real-life counterparts—
 
-![](/assets/images/zine/z6/hey-mtv/porco-rosso.png)
+![](/assets/zine/z6/hey-mtv/porco-rosso.png)
 
 —the garage where my dad worked on his car, the space where he could blast music on speakers and wrench bolts and wipe the grime off his hands with old t-shirts repurposed into rags, and would sometimes pop his head through the front door and ask if I could get him a glass of iced water on the warmer summer days—
 
-![](/assets/images/zine/z6/hey-mtv/whisper-heart.png)
+![](/assets/zine/z6/hey-mtv/whisper-heart.png)
 
 —my junior year dorm room, wedged into the shape of a 15-foot U-haul truck, with my desk at the window and bookshelves along the wall behind my chair, where I would scribble essays and cry silently about crushes and ponder purchasing my own electric kettle so I wouldn’t have to walk down the hall to the communal kitchen for a cup of hot tea—
 
-![](/assets/images/zine/z6/hey-mtv/kiki-delivery.png)
+![](/assets/zine/z6/hey-mtv/kiki-delivery.png)
 
 —art classes, my sister’s sewing space, visiting open studios and marveling at the scrolls of paper, brushes, bottles, mugs with paint water & mugs with drinkable water (all indistinguishably brackish), drawers and buckets of supplies, drafts taped up on white walls, desks, some of the most beautiful, wide wooden desks I’ve ever come across—
 
-![](/assets/images/zine/z6/hey-mtv/totoro.png)
+![](/assets/zine/z6/hey-mtv/totoro.png)
 
 —the personal libraries of mentors, professor’s offices, crammed with books and old lamps, shelves separated by genre, shelves crowded with genres, zine piles, newspaper stacks, my grandpa’s study where he keeps his spiral notebooks that are puffed up from years of Bic ink pressed into their pages.
 
@@ -38,7 +38,7 @@ A few zines ago, Lauren and H.Z. [made a piece](https://soupbonecollective.com/S
 
 Even when a workspace might not have a readily discernible center of gravity, the allure of its environment seems to shine through the intimate object relations of one’s surroundings: consider the International Space Station, its labyrinth-like interior and its writhing masses of wires and cables, cluttered to the untrained eye and yet carefully organized to those who inhabit it day by day. There is, perhaps, something beautiful about a space that appears clunky and unattractive to anyone but yourself: an eros enacted through space, through your own orientation toward objects, through transparent relations that can only surface as secrets to others.
 
-![](/assets/images/zine/z6/hey-mtv/space-station.png)
+![](/assets/zine/z6/hey-mtv/space-station.png)
 
 I’ve recently started the process of building my own bicycle from the frame up, and with that, have transformed one corner of my apartment into a mess of bike tools piled in a little multipurpose Ikea bucket. No fancy bike stand, no work station—just my bike leaned against the wall, and the bucket of tools, and the occasions where I have drawn up a stool, fiddled with parts, played Charli XCX in the background. I’ve always dreamt of what it’d be like to work in my own garage space for tinkering and building, or even a shared, dingy basement shop like a college bike co-op. Yet even the scattered, cramped nature of my makeshift bike station in the apartment has its charms, for reasons that only I can articulate from the hours I have spent hunched over, assembling brake parts, disassembling bottom brackets, installing pedals.
 
@@ -76,7 +76,7 @@ For me, the problem with spaces such as Apple Park is their lack of integration 
 
 Circling back to the nuances of private-public workspaces, I wonder if it would be more helpful to think of the workspace, in general, as a mobile conception; the workspace as hybrid monstrosity that _collapses_ the public and private. Returning to Ghibli spaces, I have in mind Howl’s Moving Castle, visualized as both home and workplace for Howl’s magical exploits. What fascinates me is the aspect of mobility in his castle: that his door can open up to a number of different geographical locations, that his castle is cobbled together in such a haphazard, junkyard way such that magic is the only thing holding it together.
 
-![](/assets/images/zine/z6/hey-mtv/howl-castle.png)
+![](/assets/zine/z6/hey-mtv/howl-castle.png)
 
 There are fantasy workspaces, too, of the [lo-fi beats](https://www.youtube.com/watch?v=5qap5aO4i9A) and [ambient](https://www.youtube.com/watch?v=38zi6aqnoAU) variety. As with many internet phenomena, these vids exist in the murky space where the personal meets the collective: they are nobody’s and everybody’s workspaces. Time stretches into Sisyphean dimensions. The lo-fi girl (who began as Shizuku from Studio Ghibli’s _Whisper of the Heart_) works in an endless loop of studying, turning page after page in some infinity journal and every so often glancing out the window (at what? for who?). These spaces thrive on borrowed desire, assuming that the more you study with them in the background, the more likely it will be that their diligence will rub off on you.
 

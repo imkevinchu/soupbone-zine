@@ -24,7 +24,7 @@ As far as games, there will be a rotating schedule of group games every night. S
 
 **Moodboard**
 
-![](/assets/images/zine/z7/youth-group-moodboard.png)
+![](/assets/zine/z7/youth-group-moodboard.png)
 
 **Competitive Analysis**
 

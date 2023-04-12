@@ -24,4 +24,4 @@ Name: <ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 5. The sounds in this worksheet, in the room around us: list them. There are at least 3 but no more than 5.
 
-[Download a PDF of this worksheet](/assets/images/zine/z5/Listen-Genevieve-Marvin.pdf)
+[Download a PDF of this worksheet](/assets/zine/z5/Listen-Genevieve-Marvin.pdf)

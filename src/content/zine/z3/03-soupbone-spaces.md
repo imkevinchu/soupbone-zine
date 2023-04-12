@@ -34,27 +34,27 @@ Below, we’ve included examples of some spaces from Soupbone members along with
 
 <figure>
     <figcaption>Color this by paying special attention to what items draw you in most strongly.</figcaption>
-    <img src="/assets/images/zine/z3/soupbone-spaces/Margaret.jpg">
+    <img src="/assets/zine/z3/soupbone-spaces/Margaret.jpg">
 </figure>
 
 <figure>
     <figcaption>Color this image from the perspective of the frog.</figcaption>
-    <img src="/assets/images/zine/z3/soupbone-spaces/Calla.jpg">
+    <img src="/assets/zine/z3/soupbone-spaces/Calla.jpg">
 </figure>
 
 <figure>
     <figcaption>Color this like you would with spices to soup.</figcaption>
-    <img src="/assets/images/zine/z3/soupbone-spaces/Phoebe.jpg">
+    <img src="/assets/zine/z3/soupbone-spaces/Phoebe.jpg">
 </figure>
 
 <figure>
     <figcaption>Color this page like you’re cuddling with the stuffed animals in it.</figcaption>
-    <img src="/assets/images/zine/z3/soupbone-spaces/Holly.jpg">
+    <img src="/assets/zine/z3/soupbone-spaces/Holly.jpg">
 </figure>
 
 <figure>
     <figcaption>Color this with the feeling of getting into bed after a long day.</figcaption>
-    <img src="/assets/images/zine/z3/soupbone-spaces/Kate.jpg">
+    <img src="/assets/zine/z3/soupbone-spaces/Kate.jpg">
 </figure>
 
 <style>

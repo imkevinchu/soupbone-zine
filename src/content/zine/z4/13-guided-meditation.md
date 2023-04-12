@@ -6,8 +6,8 @@ ordering: 13
 
 A 15-minute meditation that guides the individual towards a more elevated and clarified state of being that cultivates awareness, self-love and gratitude, and compassion for all beings. This practice emphasizes the deep listening typically attributed to musicians in the midst of their craft, using musical interludes to allow the listener to enter a state of heightened meditative flow. Deep listening in music involves listening from a receptive, empathetic, and attentive place to complex and subtle textures of sound and meaning. This meditation is suitable for individuals of all experience levels, and includes suggestions for plants that the listener may practice next to.
 
-<audio controls src="/assets/images/zine/z4/Guided Meditation for Mindful Listening to the Self.mp3">
-<a href="/assets/images/zine/z4/Guided Meditation for Mindful Listening to the Self.mp3">Download audio</a>
+<audio controls src="/assets/zine/z4/Guided Meditation for Mindful Listening to the Self.mp3">
+<a href="/assets/zine/z4/Guided Meditation for Mindful Listening to the Self.mp3">Download audio</a>
 </audio>
 
 **_Musical selections_**

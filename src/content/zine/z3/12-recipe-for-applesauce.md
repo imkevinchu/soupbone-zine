@@ -4,8 +4,8 @@ author: "Calla Norman"
 ordering: 12
 ---
 
-<audio controls src="/assets/images/zine/z3/Applesauce.m4a">
-<a href="/assets/images/zine/z3/Applesauce.m4a">Download audio</a>
+<audio controls src="/assets/zine/z3/Applesauce.m4a">
+<a href="/assets/zine/z3/Applesauce.m4a">Download audio</a>
 </audio>
 
 ##### SERVES:

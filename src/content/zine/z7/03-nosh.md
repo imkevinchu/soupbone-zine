@@ -24,7 +24,7 @@ ordering: 3
 |             | asparagus | prosciutto     |                         | goat cheese             |
 |             |           |                |                         | roasted garlic          |
 
-![](/assets/images/zine/z7/nosh.jpg)
+![](/assets/zine/z7/nosh.jpg)
 
 **Objective**: Be the first player to nosh your way to the center of the board!
 
