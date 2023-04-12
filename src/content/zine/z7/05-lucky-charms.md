@@ -10,13 +10,13 @@ My partner (who goes by Lucky) has recently amassed a steady following on his Tw
 
 Cursive L with blue marble accents. I was playing around with colors and landed with this one---it reminded me so much of the 3D scales in *The Rainbow Fish*, which I loved reading in elementary school.
 
-![](/assets/zine/z7/fancy-l.png)
+![](/assets/zine/z7/fancy-l.jpg)
 
 2) **"Four-Leaf Clover"**
 
 Clover with asparagus green airbrushing and gold glitter accents. One of the aspects of my creative process I'm working on is letting go of perfectionism. This was the ideal sandbox to be more free experimenting with textures and layers.
 
-![](/assets/zine/z7/lucky-four-leaf-clover.png)
+![](/assets/zine/z7/lucky-four-leaf-clover.jpg)
 
 3) **"Piplup"**
 

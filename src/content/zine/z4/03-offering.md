@@ -14,11 +14,11 @@ ordering: 3
 
 <div class="container">
 <figure>
-    <img src="/assets/zine/z4/offering/Ehrmann--Offering-1.JPG">
+    <img src="/assets/zine/z4/offering/Ehrmann--Offering-1.jpg">
 </figure>
 
 <figure>
-    <img src="/assets/zine/z4/offering/Ehrmann--Offering-2.JPG">
+    <img src="/assets/zine/z4/offering/Ehrmann--Offering-2.jpg">
 </figure>
 </div>
 

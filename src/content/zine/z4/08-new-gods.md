@@ -27,7 +27,7 @@ Traditional religion in America is dying out, and with it the communal spirit of
 </figure>
 
 <figure>
-    <img src="/assets/zine/z4/new-gods/newgods2.jpeg">
+    <img src="/assets/zine/z4/new-gods/newgods2.jpg">
     <figcaption>Bassnectar performing at Coachella</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ The banal churches and civic spaces of American suburbia, quartered and time-sha
 </figure>
 
 <figure>
-    <img src="/assets/zine/z4/new-gods/newgods4.png">
+    <img src="/assets/zine/z4/new-gods/newgods4.jpg">
 </figure>
 
 Stagnating wages and skyrocketing hours overtook workers’ tenuous hold on labor power and working and middle class stability. An ever-increasing sense of precarity meant more and more people could no longer justify investing time that used to go toward volunteering with the local Kiwanis club, or pitching in for the church bake sale, in anything but labor. For shift workers “lucky” enough to get four hours working Sunday morning for minimum wage, what choice is there but to forego attending service? Any remaining free time must be invested in the service of self-improvement or escapist recovery from the indignities of the day’s work.
@@ -75,7 +75,7 @@ Contrary to firebrand commentators’ worst fears, America is not exactly turnin
 And increasingly, that fleeting feeling can be purchased. This unsettled spiritual anxiety has been swiftly productized into highly Instagrammable experiences that promise a quick hit of transcendence or awe. ClassPass and Barry’s Bootcamp memberships, corporate-produced EDM festivals, Burning Man and Coachella—the entire experience economy has popped up to provide manufactured novelty and packaged glimpses of the sublime, distractions from having to acknowledge a creeping emptiness in the abyss of modern, commoditized existence.
 
 <figure>
-    <img src="/assets/zine/z4/new-gods/newgods9.png">
+    <img src="/assets/zine/z4/new-gods/newgods9.jpg">
     <figcaption>American Legion Post 54; 615 SW 7th Ave, Amarillo, TX 79101</figcaption>
 </figure>
 
