@@ -4,6 +4,13 @@ author: "Clark Gudas"
 ordering: 6
 ---
 
+<style>
+    hr:not(:first-of-type):not(:last-of-type) {
+        margin-top: 12rem;
+        margin-bottom: 28rem;
+    }
+</style>
+
 _During the pandemic, I taught myself how to ride a bike. This interactive story takes from that experience, inviting you on a ride through the streets of Boston, Massachusetts, as you learn to cycle anew._
 
 <a name="1"></a>
