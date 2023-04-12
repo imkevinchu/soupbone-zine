@@ -13,6 +13,10 @@ For the January-February 2021 residency, Irene featured a set of poems centered 
 
 - A reading of "Dispatches," with audio accompaniment and editing by Damon Pham
 
+<audio controls src="/assets/images/garden/Dispatches.mp3">
+<a href="/assets/images/garden/Dispatches.mp3">Download audio</a>
+</audio>
+
 - [An IG Live conversation with Margaret Schnabel](https://www.instagram.com/p/CLhV36GBExW/)
 
 <br>
