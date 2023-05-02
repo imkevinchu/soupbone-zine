@@ -15,6 +15,38 @@ ordering: 9
         grid-template-columns: repeat(2, 1fr);
         grid-auto-rows: 1fr;
     }
+    /* derived from this codepen: https://codepen.io/mubangadv/pen/rXrOQa 
+    and joy
+    */
+    .messages {
+    padding: 0.5rem;
+    background: #ffffff;
+    font-family: "Trebuchet MS";
+    font-size: 1em;
+        font-style: normal;
+        font-weight: 400;
+    }
+    .messages .message {
+    box-sizing: border-box;
+    padding: 0.5rem 1rem;
+    min-height: 2.25rem;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    max-width: 60%;
+    }
+    .messages .message.left {
+    margin: 1rem;
+    border-radius: 1.25rem 1.25rem 1.25rem 0;
+    color: black;
+    background-color: #ededed;
+    }
+    .messages .message.right {
+    margin: 1rem 1rem 1rem auto;
+    border-radius: 1.25rem 1.25rem 0 1.25rem;
+    color: black;
+    background-color: #ededed;
+    }
 </style>
 
 <div class="messages">
@@ -273,6 +305,6 @@ Additional things to check out:
 
 You can download a text-only PDF version of this convo below:
 
-> [text-only PDF version!](assets/zine/z4/disorderly-marvelous/pdf)
+> [text-only PDF version!](/assets/zine/z4/disorderly-marvelous/disorderly-marvelous-text-only.pdf)
 
 Thank you Thalia, Clark, Damon, Katherine, Kevin, and Lauren for helpful feedback and comments! Thank you Katherine for sharing the codepen for the chat bubbles!
