@@ -31,7 +31,7 @@ ordering: 9
 </div>
 
 <figure>
-    <img src="/assets/zine/z4/disorderly-marvelous/image1.jpeg">
+    <img src="/assets/zine/z4/disorderly-marvelous/image1.jpg">
     <figcaption>photo by yeeseon, sent to phoebe on 1/6/21 with the following text: “a dry cold and a wind that really wanted to bite my face but thankfully the sun was out 🌞 i don't think this is new but it was the first time i saw this bunny garden deco! it's slightly freaky like all good garden sculptures should be”</figcaption>
 </figure>
 
@@ -59,11 +59,11 @@ ordering: 9
 
 <div class="container">
 <figure>
-    <img src="/assets/zine/z4/disorderly-marvelous/image2.jpeg">
+    <img src="/assets/zine/z4/disorderly-marvelous/image2.jpg">
     <figcaption>photos by phoebe, sent to yeeseon on 1/15/21, with the following text: “last bits of california light. listened to some gillian welch and had to stop folding my clothes at these lyrics:"</figcaption>
 </figure>
 <figure>
-    <img src="/assets/zine/z4/disorderly-marvelous/image3.jpeg">
+    <img src="/assets/zine/z4/disorderly-marvelous/image3.jpg">
     <figcaption>"What will sustain us through the winter? / Where did last year’s lessons go? / Walk me out into the rain and snow / I dream a highway back to you"</figcaption>
 </figure>
 </div>
@@ -119,42 +119,42 @@ ordering: 9
 
 <div class="container">
 <figure>
-<img src="/assets/zine/z4/disorderly-marvelous/set1.jpeg">
+<img src="/assets/zine/z4/disorderly-marvelous/set1.jpg">
 <figcaption>yeeseon, 3/3/21</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/zine/z4/disorderly-marvelous/set2.jpeg">
+<img src="/assets/zine/z4/disorderly-marvelous/set2.jpg">
 <figcaption>phoebe, 3/4/21</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/zine/z4/disorderly-marvelous/set3.jpeg">
+<img src="/assets/zine/z4/disorderly-marvelous/set3.jpg">
 <figcaption>phoebe, 3/8/21</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/zine/z4/disorderly-marvelous/set4.jpeg">
+<img src="/assets/zine/z4/disorderly-marvelous/set4.jpg">
 <figcaption>yeeseon, 3/9/21</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/zine/z4/disorderly-marvelous/set5.jpeg">
+<img src="/assets/zine/z4/disorderly-marvelous/set5.jpg">
 <figcaption>phoebe, 3/12/21</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/zine/z4/disorderly-marvelous/set6.jpeg">
+<img src="/assets/zine/z4/disorderly-marvelous/set6.jpg">
 <figcaption>yeeseon, 3/19/21</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/zine/z4/disorderly-marvelous/set7.jpeg">
+<img src="/assets/zine/z4/disorderly-marvelous/set7.jpg">
 <figcaption>phoebe, 3/22/21</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/zine/z4/disorderly-marvelous/set8.jpeg">
+<img src="/assets/zine/z4/disorderly-marvelous/set8.jpg">
 <figcaption>yeeseon, 3/23/21</figcaption>
 </figure>
 </div>
@@ -194,7 +194,7 @@ ordering: 9
 <br>
 
 <figure>
-    <img src="/assets/zine/z4/disorderly-marvelous/image4.jpeg">
+    <img src="/assets/zine/z4/disorderly-marvelous/image4.jpg">
     <figcaption>photo by yeeseon, sent to phoebe on 1.18.21 with the following text: "today was a slow day. it was cloudy all day and then cleared up just before the sun set. the ice from a couple of days ago are still hugging the tree limbs and branches. i admire their resilience ❄️ here is a little branch stretching out to boop the moon!”</figcaption>
 </figure>
 
@@ -238,7 +238,7 @@ ordering: 9
 </div>
 
 <figure>
-    <img src="/assets/zine/z4/disorderly-marvelous/image5.jpeg">
+    <img src="/assets/zine/z4/disorderly-marvelous/image5.jpg">
     <figcaption>photo by phoebe, sent to yeeseon on 3/20/21, with the following text: “went for a late afternoon jog for the first time in a long time and found this burst of light along the docks - the past week has been shittier than usual but i am so grateful for the ways you have held me and i can’t say enough thanks <3”</figcaption>
 </figure>
 
@@ -246,17 +246,17 @@ ordering: 9
 
 **FOOTNOTES**
 
-We borrow our title from the last line of Ada Limón’s poem, “[What It Looks Like To Us and the Words We Use](https://www.poetryfoundation.org/poems/56379/what-it-looks-like-to-us-and-the-words-we-use).” Our avatars were customized in Stardew Valley’s [character creator](https://stardewvalleywiki.com/The_Player). 
+We borrow our title from the last line of Ada Limón’s poem, “[What It Looks Like To Us and the Words We Use](https://www.poetryfoundation.org/poems/56379/what-it-looks-like-to-us-and-the-words-we-use).” Our avatars were customized in Stardew Valley’s [character creator](https://stardewvalleywiki.com/The_Player).
 
 <sup>1</sup> [ABBA pope meme](https://i.pinimg.com/originals/db/ac/f3/dbacf395f2c8c6ca629b9ee484423181.jpg)<br>
 <sup>2</sup> [Galaxy brain meme](https://files.cargocollective.com/c829515/galaxymeme1.jpg)<br>
 <sup>3</sup> Referring to [these](https://www.arirangusa.net/wp-content/uploads/2018/04/4970014100224-f.jpg) biscuits, which we snacked on throughout the convo<br>
-<sup>4</sup> Referring to Aristotle’s Poetics & Derrida’s [trace theory](https://en.wikipedia.org/wiki/Trace_(deconstruction))<br>
+<sup>4</sup> Referring to Aristotle’s Poetics & Derrida’s [trace theory](<https://en.wikipedia.org/wiki/Trace_(deconstruction)>)<br>
 <sup>5</sup> Ordinary Corner [archive](https://buttondown.email/ordinarycorner/archive)<br>
 <sup>6</sup> Heraclitus’s [theory of flux](https://plato.stanford.edu/entries/heraclitus/#Flu)<br>
-<sup>7</sup> Invisible Cities, [p.20](assets/zine/z4/disorderly-marvelous/calvino_invisible_cities.jpeg)<br>
+<sup>7</sup> Invisible Cities, [p.20](assets/zine/z4/disorderly-marvelous/calvino_invisible_cities.jpg)<br>
 
-Other references: 
+Other references:
 
 —Mary Oliver, Upstream: Selected Essays, 2016.<br>
 —Jenny Odell, How To Do Nothing: Resisting the Attention Economy, 2019.<br>
@@ -271,7 +271,7 @@ Additional things to check out:
 —Moomin wisdom on uncertainty<br>
 —A New Nothing: image-based conversations<br>
 
-You can download a text-only PDF version of this convo below: 
+You can download a text-only PDF version of this convo below:
 
 > [text-only PDF version!](assets/zine/z4/disorderly-marvelous/pdf)
 
