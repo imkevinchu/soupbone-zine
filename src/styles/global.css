@@ -101,3 +101,39 @@ and joy
   color: black;
   background-color: #ededed;
 }
+
+/*chatbox design for margaret and holly's piece*/
+
+.chatbox {
+  padding: 0.5rem;
+  background: white;
+  font-family: sans-serif;
+}
+
+.chatbox .chat {
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+  min-height: 2.25rem;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  max-width: 60%;
+}
+
+.chatbox .chat.right {
+  margin: 1rem 1rem 1rem auto;
+  border-radius: 1.25rem 1.25rem 0 1.25rem;
+  color: #52853c;
+  border: solid #6aa84f;
+  background-color: #FFFFFF;
+  text-align: right;
+}
+
+.chatbox .chat.left {
+  margin: 1rem;
+  border-radius: 1.25rem 1.25rem 1.25rem 0;
+  color: #674ea7;
+  border: solid #674ea7;
+  background-color: #FFFFFF;
+  text-align: left;
+}
