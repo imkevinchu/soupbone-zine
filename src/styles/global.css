@@ -2,7 +2,7 @@
 
 body {
   font-family: "Gentium Book Basic", serif;
-  font-size: x-large;
+  font-size: 1.4em;
   margin: auto;
   padding: 24px;
   max-width: 78ch;
@@ -74,8 +74,9 @@ and joy
 */
 .messages {
   padding: 0.5rem;
-  background: #fffbf0;
-  font-family: "Alegreya Sans", Icons;
+  background: #ffffff;
+  font-family: "Trebuchet MS";
+  font-size: 1em;
 	font-style: normal;
 	font-weight: 400;
 }
