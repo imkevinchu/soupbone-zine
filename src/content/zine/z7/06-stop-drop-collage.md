@@ -5,39 +5,80 @@ ordering: 6
 ---
 
 <style>
-    .chatbox {
-    padding: 0.5rem;
-    background: white;
-    font-family: sans-serif;
-    }
+  .chatbox {
+  padding: 0.5rem;
+  background: white;
+  font-family: sans-serif;
+  }
 
-    .chatbox .chat {
-    box-sizing: border-box;
-    padding: 0.5rem 1rem;
-    min-height: 2.25rem;
-    width: -webkit-fit-content;
-    width: -moz-fit-content;
-    width: fit-content;
-    max-width: 60%;
-    }
+  .chatbox .chat {
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+  min-height: 2.25rem;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  max-width: 60%;
+  }
 
-    .chatbox .chat.right {
-    margin: 1rem 1rem 1rem auto;
-    border-radius: 1.25rem 1.25rem 0 1.25rem;
-    color: #52853c;
-    border: solid #6aa84f;
-    background-color: #FFFFFF;
-    text-align: right;
-    }
+  .chatbox .chat.right {
+  margin: 1rem 1rem 1rem auto;
+  border-radius: 1.25rem 1.25rem 0 1.25rem;
+  color: #52853c;
+  border: solid #6aa84f;
+  background-color: #FFFFFF;
+  text-align: right;
+  }
 
-    .chatbox .chat.left {
+  .chatbox .chat.left {
+  margin: 1rem;
+  border-radius: 1.25rem 1.25rem 1.25rem 0;
+  color: #674ea7;
+  border: solid #674ea7;
+  background-color: #FFFFFF;
+  text-align: left;
+  }
+
+  .row {
     margin: 1rem;
-    border-radius: 1.25rem 1.25rem 1.25rem 0;
-    color: #674ea7;
-    border: solid #674ea7;
-    background-color: #FFFFFF;
-    text-align: left;
+  }
+  
+  .column2 {
+    float: left;
+    width: 35%;
+    padding: 5px;
+  }
+  .column3 {
+    float: left;
+    width: 28%;
+    padding: 5px;
+  }
+  .column4 {
+    float: left;
+    width: 23%;
+    padding: 4px;
+  }
+
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  /* Responsive layout - makes columns stack */
+  @media screen and (max-width: 500px) {
+    .column2 {
+      width: 80%;
     }
+    .column3 {
+      width: 80%;
+    }
+    .column4 {
+      width: 80%;
+    }
+  }
+
 </style>
 
 <div class="chatbox">
@@ -60,28 +101,35 @@ ordering: 6
 <br>
  <div class="chat right">one of my first introductions to it was through tumblr, actually! i was a part of the “art journal” crowd &amp; remember seeing a lot of really beautiful &amp; innovative spreads</div>
   <div class="chat right">now my collaging practice most often takes place outside of journals, but there was a span of 3-4 years where i kept art journals &amp; posted them online!</div>
-  <p><br>
-<i></i></p><div class="image-gallery">
-<img width="400" height="510" width_o="400" height_o="510" src="/assets/zine/z7/feb1.jpg" border="0" />
-<img width="1113" height="1426" width_o="1113" height_o="1426" src="/assets/zine/z7/june1.jpg" border="0" />
-<img width="931" height="1132" width_o="931" height_o="1132" src="/assets/zine/z7/yikes.jpg" border="0" />
-</div><p></p><div style="text-align: center"><small><i>Margaret’s art journal photos hii</i></small></div>
-<br>
+
+<div class="row">
+  <div class="column3" style='float:right;'>
+    <img src="/assets/zine/z7/feb1.jpg" alt="Feb 1" style="width:100%">
+  </div>
+  <div class="column3" style='float:right;'>
+    <img src="/assets/zine/z7/june1.jpg" alt="June 1" style="width:100%">
+  </div>
+  <div class="column3" style='float:right;'>
+    <img src="/assets/zine/z7/yikes.jpg" alt="Yikes" style="width:100%">
+  </div>
+</div>
+<div style="text-align: center"><small><i>Margaret’s art journal photos</i></small></div>
 
   <div class="chat right">i was also an early fan of Rookie Mag’s collage kits</div>
   <div class="chat right">i remember being in awe of how they all got the “best stuff” for collaging, since so much of collaging ~au natural~ involves hours of flipping through old books &amp; magazines that might turn up nothing of interest, or not quite what you’d hoped for aesthetically</div>
   <div class="chat right">having a ready-made collage kit felt a little bit like cheating actually</div>
   
-  <p></p><div style="text-align: center;"><br>
-<i><div class="image-gallery">
-<img width="768" height="994" width_o="768" height_o="994" src="/assets/zine/z7/1542076636CollageKit-V1b-768x994.png" border="0" />
-<img width="768" height="994" width_o="768" height_o="994" src="/assets/zine/z7/1542066928Backgrounds-V3-768x994.png" border="0" />
-</div><br>
-<small><i><a href="https://www.rookiemag.com/2018/11/collage-kit-38/" target="_blank">Rookie Mag collage kits</a></i></small><br></i>
-<br>
-</div><p></p>
-    
-   <div class="chat right">when did you first hear abt collaging??</div>
+<div class="row">
+  <div class="column2" style='float:right;'>
+    <img src="/assets/zine/z7/1542076636CollageKit-V1b-768x994.png" style="width:100%">
+  </div>
+  <div class="column2" style='float:right;'>
+    <img src="/assets/zine/z7/1542066928Backgrounds-V3-768x994.png" style="width:100%">
+  </div>
+</div>
+<div style="text-align: center"><small><i><a href="https://www.rookiemag.com/2018/11/collage-kit-38/" target="_blank">Rookie Mag collage kits</a></i></small></div>
+
+<div class="chat right">when did you first hear abt collaging??</div>
 <br>
 <div class="chat left">Woahh now that I think about it, my first intro was also probably through tumblr! Maybe spreads with moody song lyrics…
 </div>
@@ -116,14 +164,22 @@ ordering: 6
   <div class="chat right">I happened to stumble upon a veritable TREASURE TROVE of collaging material about a month ago—someone had left a box of old gardening/photography/gemstone/outer space books on the sidewalk outside their house for anyone to take</div>
   <div class="chat right">so i of course scooped them right up</div>
   <div class="chat right">&amp; then had a collage-themed party w some friends which was excellent :)</div>
-  <p><br>
-</p><div class="image-gallery">
-<img width="1512" height="2016" width_o="1512" height_o="2016" src="/assets/zine/z7/IMG_3974.jpg" border="0" />
-<img width="1640" height="1230" width_o="1640" height_o="1230" src="/assets/zine/z7/IMG_3975.jpg" border="0" />
-<img width="1512" height="2016" width_o="1512" height_o="2016" src="/assets/zine/z7/IMG_3977.jpg" border="0" />
-<img width="1512" height="2016" width_o="1512" height_o="2016" src="/assets/zine/z7/IMG_3979.jpg" border="0" />
-</div><div style="text-align: center"><small><i>photos from the collage party</i></small></div>
-<br>
+
+<div class="row">
+  <div class="column4" style='float:right;'>
+    <img src="/assets/zine/z7/IMG_3974.jpg" style="width:100%">
+  </div>
+  <div class="column4" style='float:right;'>
+    <img src="/assets/zine/z7/IMG_3975.jpg" style="width:100%">
+  </div>
+  <div class="column4" style='float:right;'>
+    <img src="/assets/zine/z7/IMG_3977.jpg" style="width:100%">
+  </div>
+  <div class="column4" style='float:right;'>
+    <img src="/assets/zine/z7/IMG_3979.jpg" style="width:100%">
+  </div>
+</div>
+<div style="text-align: center"><small><i>photos from the collage party</i></small></div>
 
   <div class="chat right">what do you most often do with your collages once you’ve made them? &amp; do you have any tips for someone just venturing into the ✨world of collage✨?</div>
 <br> 
@@ -135,13 +191,23 @@ ordering: 6
 <div class="chat left">Once I made a zine with them!!! But that was a very involved effort where i had to take photos of all the collages, resize/edit them in illustrator, and then figure out how to print them as a booklet</div>
   <div class="chat left">As for tips, I’m someone who finds it helpful to have a prompt to work with—for collaging, i make a prompt for myself by sifting through magazines/other texts and seeing if there are any words or phrases that stand out to me</div>
   <div class="chat left">One time i also made a collage based on one of ocean vuong’s poems (<a href="https://mmm.page/hz.ocean">https://mmm.page/hz.ocean</a>). Poems are nice because they’re already filled with imagery!</div>
-<br>
-  <p></p><div class="image-gallery">
-<img width="2013" height="2048" width_o="2013" height_o="2048" src="/assets/zine/z7/ocean1.jpg" border="0" />
-<img width="2017" height="2048" width_o="2017" height_o="2048" src="/assets/zine/z7/ocean2.jpg" border="0" />
-<img width="1923" height="2048" width_o="1923" height_o="2048" src="/assets/zine/z7/ocean3.jpg" border="0" />
-<img width="1916" height="2048" width_o="1916" height_o="2048" src="/assets/zine/z7/ocean4.jpg" border="0" />
-</div><p></p><div style="text-align: center"><small><i><a href="https://hz.mmm.page/ocean" target="_blank">Ocean Vuong collages</a></i></small></div><br>
+
+<div class="row">
+  <div class="column4">
+    <img src="/assets/zine/z7/ocean1.jpg" style="width:100%">
+  </div>
+  <div class="column4">
+    <img src="/assets/zine/z7/ocean2.jpg" style="width:100%">
+  </div>
+  <div class="column4">
+    <img src="/assets/zine/z7/ocean3.jpg" style="width:100%">
+  </div>
+  <div class="column4">
+    <img src="/assets/zine/z7/ocean4.jpg" style="width:100%">
+  </div>
+</div>
+<p></p><div style="text-align: center"><small><i><a href="https://hz.mmm.page/ocean" target="_blank">Ocean Vuong collages</a></i></small></div>
+
   <div class="chat left">What’s your process like for getting started with collaging? Do you usually have a specific idea in mind before you begin?</div>
   <div class="chat left">I’ve noticed that a lot of your pieces have a playful tone—i think it’s partially due to the recurring motifs of stars and hearts and other fun stickers. Are you intentional about that, like do you make something with the desire to have a certain kind of playful aesthetic?</div>
 <br> 
@@ -153,13 +219,24 @@ ordering: 6
   <div class="chat right">we humans r so simple &amp; soft</div>
   <div class="chat right">but yeah! one time i made a series using texts from a person with whom i had/have a deeply complicated relationship &amp; ended up showing them—they loved the collages, which was a sweet &amp; confusing feeling. like in my head i’d made these sort-of-damning collages laying their words bare, &amp; then they loved the art.</div>
   <div class="chat right">that sounds SO angsty teen of me</div>
-<br>
-<div style="text-align: right"><img width="888" height="1280" width_o="888" height_o="1280" src="/assets/zine/z7/sorry.JPG" border="0" data-scale="100"/><img width="1061" height="744" width_o="1061" height_o="744" src="/assets/zine/z7/texts.JPG" data-mid="162161523" border="0" data-scale="94"/></div><p>
-</p><div class="chat right">re: the playful tone, i definitely love not taking things too seriously or being too precious about my collages—i love humor and irony and playful dissonance, so my collages very often end up reflecting those predilections (biases?)</div>
-  <br>
 
-<div style="text-align: right"><img width="1277" height="1822" width_o="1277" height_o="1822" src="/assets/zine/z7/fig5nakedginger.jpg" border="0" /></div>
-<br>   
+<div class="row">
+  <div class="column2" style='float:right;'>
+    <img src="/assets/zine/z7/sorry.JPG" style="width:100%">
+  </div>
+  <div class="column2" style='float:right;'>
+    <img src="/assets/zine/z7/texts.JPG" style="width:100%">
+  </div>
+</div>
+
+</p><div class="chat right">re: the playful tone, i definitely love not taking things too seriously or being too precious about my collages—i love humor and irony and playful dissonance, so my collages very often end up reflecting those predilections (biases?)</div>
+
+<div class="row">
+  <div class="column2" style='float:right;'>
+    <img src="/assets/zine/z7/fig5nakedginger.jpg" style="width:100%">
+  </div>
+</div>
+ 
   <div class="chat right">i was thrilled one time when i found a recipe for “naked ginger cake” in a food magazine to pair with a nude painting of a ginger in a book of klimt’s work</div>
   <div class="chat right">i love making little jokes out of the juxtaposition/proximity of different images</div>
   <div class="chat right">which reminds me!</div>
@@ -183,14 +260,22 @@ ordering: 6
   <div class="chat left">there’s this one neural network from openAI that got a lot of publicity called dallE, and i tried feeding it a collage prompt because i was curious</div>
   <div class="chat left">my prompt was “a collage with a recipe for ginger cake and a woman with ginger hair in the style of klimt”</div>
   <div class="chat left">these are the model outputs!</div>
-<br>  
-  <p></p><div class="image-gallery">
-<img width="1024" height="1024" width_o="1024" height_o="1024" src="/assets/zine/z7/IMG_4113.JPG" border="0" />
-<img width="1024" height="1024" width_o="1024" height_o="1024" src="/assets/zine/z7/IMG_4114.JPG" border="0" />
-<img width="1024" height="1024" width_o="1024" height_o="1024" src="/assets/zine/z7/IMG_4115.JPG" border="0" />
-<img width="640" height="640" width_o="640" height_o="640" src="/assets/zine/z7/IMG_4116.JPG" border="0" />
-</div><p></p><div style="text-align: center"><small><i>dallE outputs</i></small></div>
-<br>
+
+<div class="row">
+  <div class="column4">
+    <img src="/assets/zine/z7/IMG_4113.JPG" style="width:100%">
+  </div>
+  <div class="column4">
+    <img src="/assets/zine/z7/IMG_4114.JPG" style="width:100%">
+  </div>
+  <div class="column4">
+    <img src="/assets/zine/z7/IMG_4115.JPG" style="width:100%">
+  </div>
+  <div class="column4">
+    <img src="/assets/zine/z7/IMG_4116.JPG" style="width:100%">
+  </div>
+</div>
+<div style="text-align: center"><small><i>dallE outputs</i></small></div>
 
   <div class="chat left">thinking about collaging as surrealism, how it blurs the lines between what’s real and what’s not, and how these models add another level of surrealism to it for the viewer—did a real person make these? does it matter?</div>
 <br> 
