@@ -121,10 +121,10 @@ ordering: 6
   
 <div class="row">
   <div class="column2" style='float:right;'>
-    <img src="/assets/zine/z7/1542076636CollageKit-V1b-768x994.png" style="width:100%">
+    <img src="/assets/zine/z7/1542076636CollageKit-V1b-768x994.jpg" style="width:100%">
   </div>
   <div class="column2" style='float:right;'>
-    <img src="/assets/zine/z7/1542066928Backgrounds-V3-768x994.png" style="width:100%">
+    <img src="/assets/zine/z7/1542066928Backgrounds-V3-768x994.jpg" style="width:100%">
   </div>
 </div>
 <div style="text-align: center"><small><i><a href="https://www.rookiemag.com/2018/11/collage-kit-38/" target="_blank">Rookie Mag collage kits</a></i></small></div>
