@@ -1,7 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@0;1&display=swap");
+@font-face {
+  font-family: 'Avara';
+  src: url('/fonts/Avara-Black.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 body {
-  font-family: "Sorts Mill Goudy", serif;
+  font-family: "Avara", serif;
   font-size: 1.4em;
   margin: auto;
   padding: 24px;
