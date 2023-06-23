@@ -1,17 +1,11 @@
-@font-face {
-  font-family: 'Avara';
-  src: url('/fonts/Avara-Black.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400;1,600&display=swap');
 
 body {
-  font-family: "Avara", serif;
-  font-size: 1.4em;
+  font-family: "IBM Plex Mono", serif;
+  font-size: 1.2em;
   margin: auto;
   padding: 24px;
-  max-width: 78ch;
+  max-width: 68ch;
   text-align: left;
   background-color: #fff;
   word-wrap: break-word;
@@ -27,6 +21,7 @@ h5,
 h6,
 header {
   font-family: "Inter", sans-serif;
+  font-size: 1.3em;
 }
 h1,
 h2,
