@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&display=swap');
 
 @font-face {
   font-family: 'w95fa';
@@ -10,6 +10,13 @@
 @font-face {
   font-family: 'avara';
   src: url('/fonts/avara.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'FT88-Gothique';
+  src: url('/fonts/FT88-Gothique.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -28,15 +35,17 @@ body {
   line-height: 1.5;
   color: #373737;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-header {
-  font-family: "avara", sans-serif;
+h2 {
+  font-family: "FT88-Gothique", sans-serif;
   font-size: 1.1em;
+}
+h1, h3, h4, h5, h6 {
+  font-family: "Inter", sans-serif;
+  font-size: 1.1em;
+}
+header {
+  font-family: "Inter", sans-serif;
+  font-size: 1em;
 }
 h1,
 h2,
