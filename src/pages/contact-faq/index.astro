@@ -21,10 +21,12 @@ import * as faq from "./faq.md";
         <h3>{contact.frontmatter.title}</h3>
         <Fragment set:html={contact.compiledContent()} />
       </section>
-      <hr />
+      <br>
+      <br>
       <section>
         <h3>{faq.frontmatter.title}</h3>
         <Fragment set:html={faq.compiledContent()} />
+        <br>
       </section>
     </main>
     <Footer />
