@@ -155,12 +155,3 @@ and joy
   background-color: #FFFFFF;
   text-align: right;
 }
-
-.chatbox .chat.left {
-  margin: 1rem;
-  border-radius: 1.25rem 1.25rem 1.25rem 0;
-  color: #674ea7;
-  border: solid #674ea7;
-  background-color: #FFFFFF;
-  text-align: left;
-}
