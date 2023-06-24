@@ -3,4 +3,4 @@ title: "Our Collective Statement"
 description: ""
 ---
 
-Soupbone is an online humanities collective founded in 2019. We are a group of lifelong students exploring the intersections of scholarship, lived experience, and creativity. Currently, Soupbone takes the form of a collaborative studio and workshop for sharing ongoing academic and artistic projects that engage with and reimagine the humanities.
+> Soupbone is a distributed humanities collective founded in 2019. It is a group of friends who get together once in a while and make things at the intersections of research and lived experience.
