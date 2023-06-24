@@ -10,9 +10,6 @@ ordering: 8
         margin-top: 3rem;
         margin-bottom: 3rem;
     }
-    figcaption {
-        font-style: italic;
-    }
 </style>
 
 In any society, political theorist Samuel Goldman observed, there exists a constant, fixed supply of religious energy. It may show up in different places from time to time, but it cannot ever simply dissipate into nothing.

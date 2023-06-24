@@ -8,9 +8,6 @@ ordering: 12
     figure {
         text-align: center;
     }
-    figcaption {
-        font-style: italic;
-    }
     .container {
         display: grid; 
         grid-template-columns: repeat(2, 1fr);

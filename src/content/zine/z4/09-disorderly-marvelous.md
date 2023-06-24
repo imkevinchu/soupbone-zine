@@ -5,11 +5,6 @@ ordering: 9
 ---
 
 <style>
-    figcaption {
-        font-style: italic;
-        font-size: smaller;
-        text-align: center;
-    }
     .container {
         display: grid; 
         grid-template-columns: repeat(2, 1fr);
