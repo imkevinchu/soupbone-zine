@@ -18,7 +18,7 @@ Nope! We are currently an independent group of friends and peers, scattered acro
 
 **Where did Soupbone come from?**
 
-An [email newsletter](https://tinyletter.com/soupbone/letters/soupbone-an-introduction) and this bell hooks quote (_Art On My Mind, Visual Politics)_:
+An [email newsletter](https://tinyletter.com/soupbone/letters/soupbone-an-introduction) and this bell hooks quote (Art On My Mind, Visual Politics):
 
 > "We need to theorize the meaning of beauty in our lives so that we can educate for critical consciousness, talking through the issues: how we acquire and spend money, how we feel about beauty, what the place of beauty is in our lives when we lack material privilege and even basic resources for living, the meaning and significance of luxury, and the politics of envy."
 
