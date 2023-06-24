@@ -1,11 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400;1,600&display=swap');
 
+@font-face {
+  font-family: 'w95fa';
+  src: url('/fonts/w95fa.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'avara';
+  src: url('/fonts/avara.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 body {
-  font-family: "IBM Plex Mono", serif;
-  font-size: 1.2em;
+  font-family: "w95fa", serif;
+  font-size: 1.3em;
   margin: auto;
   padding: 24px;
-  max-width: 68ch;
+  max-width: 70ch;
   text-align: left;
   background-color: #fff;
   word-wrap: break-word;
@@ -20,8 +35,8 @@ h4,
 h5,
 h6,
 header {
-  font-family: "Inter", sans-serif;
-  font-size: 1.3em;
+  font-family: "avara", sans-serif;
+  font-size: 1.2em;
 }
 h1,
 h2,
@@ -34,7 +49,7 @@ b {
   color: #171717;
 }
 a {
-  color: #3273dc;
+  color: #3d915b;
 }
 textarea {
   width: 100%;
@@ -64,12 +79,14 @@ pre > code {
   all: unset;
 }
 blockquote {
-  border: 1px solid #999;
+  border: 2px dotted #999;
+  border-radius: 5px;
   color: #171717;
-  padding: 2px 0px 2px 20px;
+  padding: 2px 20px 2px 20px;
   margin: 0px;
   font-style: italic;
 }
+
 /* derived from this codepen: https://codepen.io/mubangadv/pen/rXrOQa 
 and joy
 */
