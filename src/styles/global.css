@@ -8,13 +8,6 @@
   font-display: swap;
 }
 @font-face {
-  font-family: 'avara';
-  src: url('/fonts/avara.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
   font-family: 'FT88-Gothique';
   src: url('/fonts/FT88-Gothique.woff') format('woff');
   font-weight: normal;
@@ -23,13 +16,13 @@
 }
 
 body {
-  font-family: "w95fa", serif;
+  font-family: "Baskervville", serif;
   font-size: 1.3em;
   margin: auto;
   padding: 24px;
   max-width: 70ch;
   text-align: left;
-  background-color: #fff;
+  background-color: #ffffff;
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.5;
@@ -46,6 +39,9 @@ h1, h3, h4, h5, h6 {
 header {
   font-family: "Inter", sans-serif;
   font-size: 1em;
+}
+p {
+  text-align:justify;
 }
 h1,
 h2,
