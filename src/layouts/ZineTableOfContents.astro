@@ -33,7 +33,7 @@ const { zineIssue, zineTitle } = Astro.props;
       ul li a:visited {
         color: #8e32dc;
       }
-      h1 {
+      h3 {
         margin-bottom: 0;
       }
     </style>
@@ -41,7 +41,7 @@ const { zineIssue, zineTitle } = Astro.props;
   <body>
     <Header />
     <main>
-      <h1>{zineTitle}</h1>
+      <h3>{zineTitle}</h3>
       <slot />
       <TableOfContents zineIssue={zineIssue} />
     </main>
