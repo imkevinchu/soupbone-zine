@@ -26,7 +26,6 @@ body {
   background-color: #ffffff;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  hyphens: auto;
   line-height: 1.5;
   color: #373737;
 }
@@ -43,7 +42,7 @@ header {
   font-size: 1em;
 }
 p {
-  text-align:justify;
+  text-align:none;
 }
 h1,
 h2,
