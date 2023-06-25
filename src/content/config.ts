@@ -43,4 +43,4 @@ const zine = defineCollection({
 	}),
 });
 
-export const collections = { blog, members, zine };
+export const collections = { blog, members, friends, zine };
