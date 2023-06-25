@@ -20,7 +20,7 @@ Allow me to introduce you: this is Lofi Girl, the focal point of hundreds of hou
 As I write this, I’m listening to the Lofi Girl channel’s twenty-four-hour “lofi hip hop radio - beats to study/relax to.” It is precisely the entanglement of those two modes—“study” and “relax”—that intrigues me, and that, I’ll wager, has contributed in no small part to the channel’s 10.3 million subscribers. The channel, originally named “Chilled Cow,” started a 24/7 livestream of lofi hip-hop music in February 2017. Its owner Dimitri, a Paris native, lifted a GIF from the Studio Ghibli movie _Whisper of the Heart_, whose protagonist Shizuku Tsukishima spends her free time writing in her bedroom. After copyright concerns, Dimitri put out a call in September 2017 for a replacement image: “a student busy revising for her classes with Miyazaki-esque visuals.”[^1] Colombian artist Juan Pablo Machado sent in the winning design, bringing Lofi Girl into her present incarnation.
 
 The 24/7 live stream is flooded with warm earth tones, from Lofi Girl’s forest-green sweater to the red of her chair. Plants sit at her pleasantly cluttered desk. It’s clear that someone has taken pains to make the scene appear convincingly home-y.
-
+<figure>
 <div class="container">
     <img src="/assets/zine/z6/lofi-girl/lofi1.jpg">
     <img src="/assets/zine/z6/lofi-girl/lofi2.jpg">
@@ -29,6 +29,7 @@ The 24/7 live stream is flooded with warm earth tones, from Lofi Girl’s forest
 </div>
 <br>
 <figcaption>Fan-generated depictions of Lofi Girl in different countries. Clockwise from L: Morocco (<a href="https://www.reddit.com/r/Morocco/comments/in59yh/lofi_hip_hop_radio_moroccan_version_inspired_by/">@FreezerBil</a>), The Philippines (<a href="https://www.instagram.com/p/CMqo5QFFEEU/">@piropino.ig</a>), Taiwan (<a href="https://www.instagram.com/ameily_with_an_a/">@ameily_with_an_a</a>), Brazil (<a href="https://www.reddit.com/r/LofiGirl/comments/iluq67/brazilian_version_made_by_leticiaefing_on_twitter/">@Leticia_Efing</a>)</figcaption>
+</figure>
 
 This homey, unassuming aesthetic belies Lofi Girl's wild popularity; the channel has a total viewership of nearly one billion,[^2] and at least five people have [tattooed her likeness on their body](https://www.instagram.com/p/CbLM2TwgNOc/). In fact, curated intimacy might be the key to her cult following. "I'd assumed that the video stream was important to a small but dedicated group of people," recounts Sophie Atkinson in an essay for *Dazed*. "It was like finding out that the weird noise band I liked was actually the Beatles."[^3] Indeed, the Lofi Girl account encourages viewers to see themselves as part of an exclusive group: the description for a "4AM Study Session" video reads "It's that time of the night again, when everyone is asleep, except for a selected few who are still studying, vibing, and thinking about life."
 
@@ -42,7 +43,7 @@ Ngai theorizes cute objects as inciting a desire to *consume*: to make them our
 
 Lofi Girl does not experiment; she does not get frustrated with her work or herself; she dutifully continues. She is not doing groundbreaking research; she is *maintaining*. Her work will never be done but instead continue in an endlessly looping GIF of obedient writing and reading. The Lofi Girl aesthetic might be said to be about maintaining sanity in the face of never-ending pressure to produce. Insidiously, it might also make those demands *seem* more humane when in fact they eat away at the boundaries between work and personal life. Why, dear reader, would you need work-life balance when the most aestheticized, desirable version of yourself brings work *into* your home? The cult of "music to work to" makes bleeding those boundaries into one another seem palatable, desirable, and, most importantly, safe. It's for, to return to the video description mentioned earlier, "a select few who work and chill"—both, together.
 
-[^1]: Japan Nakama, “The Evolution of Lofi Girl” 
+[^1]: Japan Nakama, “The Evolution of Lofi Girl” \
 https://www.japannakama.co.uk/the-evolution-of-lofi-girl/
 [^2]: YouTube official blog, “The Rise of the Lofi Girl”
 [^3]: Sophie Atkinson, “The ‘24/7 lo-fi hip hop beats’ girl is our social distancing role model,” _Dazed_
