@@ -15,6 +15,13 @@
   font-style: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: 'Trickster Regular';
+  src: url('/fonts/Trickster-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 body {
   font-family: "Baskervville", serif;
@@ -35,7 +42,7 @@ h2 {
 }
 
 h1, h3, h4, h5, h6 {
-  font-family: "w95fa", sans-serif;
+  font-family: "Trickster Regular", sans-serif;
 }
 
 header {
