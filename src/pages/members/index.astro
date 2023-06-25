@@ -5,6 +5,7 @@ import Footer from "../../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
 
 import Members from "../../components/Members.astro";
+import SoupboneFriends from "../../components/SoupboneFriends.astro";
 import * as content from "./artists-note.md";
 ---
 
@@ -17,8 +18,10 @@ import * as content from "./artists-note.md";
   <body>
     <Header />
     <main>
-      <h3>Our Members</h3>
+      <h3>Current Members</h3>
       <Members />
+      <h3>Soupbone Friends</h3>
+      <SoupboneFriends />
       <hr />
       <section>
         <h3>{content.frontmatter.title}</h3>

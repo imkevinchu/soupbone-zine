@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 
-const members = await getCollection("members");
+const soupbonefriends = await getCollection("soupbonefriends");
 ---
 
 <style>
@@ -15,7 +15,7 @@ const members = await getCollection("members");
     column-gap: 1.6em;
     row-gap: 1em;
   }
-  .member {
+  .soupbonefriends {
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 0.25em;
@@ -36,14 +36,14 @@ const members = await getCollection("members");
 <section>
   <ul class="grid-wrapper">
     {
-      members.map((member) => (
-        <li class="member">
+      soupbonefriends.map((soupbonefriends) => (
+        <li class="soupbonefriends">
           <div>
-            <img src={member.data.image} alt="" />
+            <img src={soupbonefriends.data.image} alt="" />
           </div>
           <div>
-            <h5>{member.data.name}</h5>
-            <figcaption>{member.data.description}</figcaption>
+            <h5>{soupbonefriends.data.name}</h5>
+            <figcaption>{soupbonefriends.data.description}</figcaption>
           </div>
         </li>
       ))
