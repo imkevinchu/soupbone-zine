@@ -26,6 +26,14 @@ const members = defineCollection({
 	}),
 });
 
+const friends = defineCollection({
+	schema: z.object({
+		name: z.string(),
+		description: z.string(),
+		image: z.string().optional(),
+	}),
+});
+
 const zine = defineCollection({
 	schema: z.object({
 		title: z.string(),
@@ -35,4 +43,4 @@ const zine = defineCollection({
 	}),
 });
 
-export const collections = { blog, members, zine };
+export const collections = { blog, members, friends, zine };

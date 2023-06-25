@@ -5,7 +5,7 @@ import Footer from "../../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
 
 import Members from "../../components/Members.astro";
-import SoupboneFriends from "../../components/SoupboneFriends.astro";
+import Friends from "../../components/Friends.astro";
 import * as content from "./artists-note.md";
 ---
 
@@ -20,9 +20,12 @@ import * as content from "./artists-note.md";
     <main>
       <h3>Current Members</h3>
       <Members />
+      <br>
       <h3>Soupbone Friends</h3>
-      <SoupboneFriends />
+      <Friends />
+      <br>
       <hr />
+      <br>
       <section>
         <h3>{content.frontmatter.title}</h3>
         <Fragment set:html={content.compiledContent()} />

@@ -1,9 +1,27 @@
 ---
 import ZineTableOfContents from "../../../layouts/ZineTableOfContents.astro";
 ---
-
+<style>
+body {
+  background-color: #fff;
+}
+.button {
+  background-color: #fff;
+  border: #D22B2B solid 2px;
+  border-radius: 5px;
+  color: #D22B2B;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Inter, sans-serif;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+</style>
 <ZineTableOfContents zineIssue="z2" zineTitle="Zine 2: Summer 2020">
+<br>
   <img src="/assets/zine/z2/z2-cover.jpg" alt="" srcset="" />
   <p>An impromptu print issue.</p>
-  <a href="/assets/zine/z2/Soupbone-Summer-2020-Zine.pdf">CLICK HERE TO READ</a>
+  <a href="/assets/zine/z2/Soupbone-Summer-2020-Zine.pdf" class="button">CLICK HERE TO READ</a> 
 </ZineTableOfContents>

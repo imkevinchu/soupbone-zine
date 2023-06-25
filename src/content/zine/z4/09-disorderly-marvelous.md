@@ -5,19 +5,23 @@ ordering: 9
 ---
 
 <style>
+    body {
+    background: #fcece1;
+    }
     .container {
         display: grid; 
         grid-template-columns: repeat(2, 1fr);
         grid-auto-rows: 1fr;
+        background: #fcece1;
     }
     /* derived from this codepen: https://codepen.io/mubangadv/pen/rXrOQa 
     and joy
     */
     .messages {
     padding: 0.5rem;
-    background: #ffffff;
+    background: #fcece1;
     font-family: "Trebuchet MS";
-    font-size: 1em;
+    font-size: 0.9em;
         font-style: normal;
         font-weight: 400;
     }
@@ -34,13 +38,13 @@ ordering: 9
     margin: 1rem;
     border-radius: 1.25rem 1.25rem 1.25rem 0;
     color: black;
-    background-color: #ededed;
+    background-color: #fff;
     }
     .messages .message.right {
     margin: 1rem 1rem 1rem auto;
     border-radius: 1.25rem 1.25rem 0 1.25rem;
     color: black;
-    background-color: #ededed;
+    background-color: #fff;
     }
 </style>
 
@@ -268,10 +272,10 @@ ordering: 9
     <img src="/assets/zine/z4/disorderly-marvelous/image5.jpg">
     <figcaption>photo by phoebe, sent to yeeseon on 3/20/21, with the following text: “went for a late afternoon jog for the first time in a long time and found this burst of light along the docks - the past week has been shittier than usual but i am so grateful for the ways you have held me and i can’t say enough thanks <3”</figcaption>
 </figure>
-
+<br>
 <hr>
-
-**FOOTNOTES**
+<br>
+<h2>Footnotes</h2>
 
 We borrow our title from the last line of Ada Limón’s poem, “[What It Looks Like To Us and the Words We Use](https://www.poetryfoundation.org/poems/56379/what-it-looks-like-to-us-and-the-words-we-use).” Our avatars were customized in Stardew Valley’s [character creator](https://stardewvalleywiki.com/The_Player).
 
@@ -303,3 +307,7 @@ You can download a text-only PDF version of this convo below:
 > [text-only PDF version!](/assets/zine/z4/disorderly-marvelous/disorderly-marvelous-text-only.pdf)
 
 Thank you Thalia, Clark, Damon, Katherine, Kevin, and Lauren for helpful feedback and comments! Thank you Katherine for sharing the codepen for the chat bubbles!
+<br>
+<hr>
+<br>
+←  retrace / contents / onward  →
