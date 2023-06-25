@@ -9,16 +9,18 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
-  font-family: 'Trickster Regular';
-  src: url('/fonts/Trickster-Regular.woff') format('woff');
+  font-family: 'strokeWeight-160right';
+  src: url('/fonts/strokeweight.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
-  font-family: 'strokeWeight-160right';
-  src: url('/fonts/strokeweight.woff') format('woff');
+  font-family: 'avara';
+  src: url('/fonts/avara.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -43,7 +45,7 @@ h2 {
 }
 
 h1, h3, h4, h5, h6 {
-  font-family: "strokeWeight-160right", sans-serif;
+  font-family: "avara", serif;
 }
 
 header {
