@@ -12,12 +12,12 @@ Check out some of our offerings below! If you are able, we'd love to hear from y
 
 📓 [Public Commonplace Book](https://www.notion.so/soupbone/Commonplace-3e7cb1f697ec4b3490ee526e4c7bb552)
 
-🗂 Public Resources: [Discussion Guides & Syllabi](/garden/public-resources) (2020-21)
+📚 Public Resources: [Discussion Guides & Syllabi](/garden/public-resources) (2020-21)
 
 🎙 Soupbone [Podcast](/garden/podcast) (2020)
 
 📝 Soupbone [Residency Program](/garden/residency) (2020-21)
 
-☀️ Summer Jam [workshops](/garden/summer-jam) (2021)
+🍓 Summer Jam [workshops](/garden/summer-jam) (2021)
 
-⚡️ [Wrong Biennale](/garden/wrong-biennale) pavilion (2021-22)
+📺 [Wrong Biennale](/garden/wrong-biennale) pavilion (2021-22)
