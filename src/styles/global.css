@@ -16,6 +16,13 @@
   font-style: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: 'strokeWeight-160right';
+  src: url('/fonts/strokeweight.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 body {
   font-family: "Baskervville", serif;
@@ -36,7 +43,7 @@ h2 {
 }
 
 h1, h3, h4, h5, h6 {
-  font-family: "Trickster Regular", sans-serif;
+  font-family: "strokeWeight-160right", sans-serif;
 }
 
 header {
