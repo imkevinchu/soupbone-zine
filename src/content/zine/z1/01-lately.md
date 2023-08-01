@@ -111,8 +111,8 @@ Céline Sciamma!!, Sufjan Stevens, and meditation.
 <hr>
 <br>
 <div>
-← <a href="/src/content/zine/z1/01-lately.md">back</a> ~
-<a href="/src/pages/zine/z1/index.astro">contents</a> ~
-<a href="/src/content/zine/z1/02-lonely-little-orbit.md">forth</a> →
+← <a href="/zine/z1/01-lately.md">back</a> ~
+<a href="/zine/z1/index.astro">contents</a> ~
+<a href="/zine/z1/02-lonely-little-orbit.md">forth</a> →
 </div>
 <br>
