@@ -3,6 +3,11 @@ title: "“A Tenuous ‘We’ of Us All”: Performance, Identity, and Community
 author: "Margaret Schnabel"
 ordering: 9
 ---
+<style>
+body {background: rgb(255, 254, 245);}
+h1, h3, h4 {color: rgb(245, 173, 29);}
+div {text-align: center;}
+</style>
 
 > _All of us have some notion of what it is to have lost somebody. Loss has made a tenuous "we" of us all._
 > — Judith Butler, *Precarious Life* (2004)
@@ -73,6 +78,18 @@ In calling attention to—and then thwarting our expectations of—various modes
 
 Indeed, as these authors highlight, the process of grieving reveals just how much our own senses of self build upon those of others—whether a sense of normality constructed in opposition to a "psychotic" other (as in Kushner's Hannah), a collective identity shared with others who have been similarly marginalized (Prior and Belize), or, indeed, the mutually dependent relationship between the witnessing community of the audience and the individual speaker or narrator. We are not, as these authors reveal, the faceless and blameless "general public" we pretend to be; we demand from those around us that they perform the social roles we bestow upon them, and we are implicated, too, in their suffering.
 
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z1/07-nothing-new-under-the-sun">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/09-tenuous-we">forth</a> →
+</div>
+<br>
+<hr>
+<br>
+
 ## Bibliography
 
 Austin, J.L. *How to Do Things with Words*, ed. by J. O. Urmson and Marina Sbisá. Cambridge: Harvard University Press. 1962.
@@ -92,6 +109,8 @@ Sedgwick, Eve Kosofsky. 'White Glasses' in *Tendencies*. Durham: Duke Universit
 Sontag, Susan. "Illness as Metaphor" in *Illness as Metaphor and AIDS and its Metaphors*. London: Penguin. 1991.
 
 Zorn, Eric. "22 Years Later, the Follow-Up Question." Chicago Tribune Blogs. 31 March 2005, accessed 21 March 2020.
+
+<br>
 
 [^1]: “History of HIV and AIDS Overview,” Avert: Global Information and Education on HIV and AIDS, 10 Oct 2019, accessed 21 March 2020, <https://www.avert.org/professionals/history-hiv-aids/overview#footnoteref2_u4aks36>
 [^2]: Ibid.

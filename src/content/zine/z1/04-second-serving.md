@@ -38,8 +38,8 @@ _Wake and walk downstairs to catch your father rolling rice flour and water into
 <hr>
 <br>
 <div>
-← <a href="/zine/z1/01-lately.md">back</a> ~
-<a href="/zine/z1/index.astro">contents</a> ~
-<a href="/zine/z1/02-lonely-little-orbit.md">forth</a> →
+← <a href="/zine/z1/03-verisimilitude">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/05-scrope-purvis">forth</a> →
 </div>
 <br>

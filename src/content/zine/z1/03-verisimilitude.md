@@ -72,8 +72,8 @@ When I die, if death comes to me as a memory, it will be me as a young girl, wal
 <hr>
 <br>
 <div>
-← <a href="/zine/z1/01-lately.md">back</a> ~
-<a href="/zine/z1/index.astro">contents</a> ~
-<a href="/zine/z1/02-lonely-little-orbit.md">forth</a> →
+← <a href="/zine/z1/02-lonely-little-orbit">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/04-second-serving">forth</a> →
 </div>
 <br>

@@ -39,8 +39,8 @@ Maybe you need it—here is your permission. Eat the torta. Walk through the nei
 <hr>
 <br>
 <div>
-← <a href="/src/content/zine/z1/01-lately.md">back</a> ~
-<a href="/src/pages/zine/z1/index.astro">contents</a> ~
-<a href="/src/content/zine/z1/02-lonely-little-orbit.md">forth</a> →
+← <a href="/zine/z1/02-lonely-little-orbit">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/03-verisimilitude">forth</a> →
 </div>
 <br>

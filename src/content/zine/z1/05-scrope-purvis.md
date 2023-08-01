@@ -24,8 +24,8 @@ People's identities are constructed in the minds of others, our own included, an
 <hr>
 <br>
 <div>
-← <a href="/zine/z1/01-lately.md">back</a> ~
-<a href="/zine/z1/index.astro">contents</a> ~
-<a href="/zine/z1/02-lonely-little-orbit.md">forth</a> →
+← <a href="/zine/z1/04-second-serving">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/05-humanities-in-russia">forth</a> →
 </div>
 <br>
