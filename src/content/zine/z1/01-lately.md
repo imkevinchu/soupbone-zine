@@ -1,6 +1,6 @@
 ---
 title: "Lately"
-author: ""
+author: "Soupbone Collective"
 ordering: 1
 ---
 
@@ -106,12 +106,13 @@ Céline Sciamma!!, Sufjan Stevens, and meditation.
 ‡ Joanna Newsom’s discography! Newsom is an artist who reworks lyric poetry into epic proportions; she manages to weave storytelling and melody in a way that feels Homeric in scale, Sapphic in atmosphere. Her lyrics possess the striking ability to conjure scenes that are deeply personal yet sprawling in scope, rife with encyclopedic references and intimate mythologies. Who else could rhyme “Ozymandian” with “Sapokanikan” and get away with it?
 
 ‡ “How many angels can dance on the head of a pin?”, which is a reduction to absurdity that summarizes, I think, a lot of mainstream attitudes toward academia and academic work, but also somehow captures the baffling allure of creating academic work, of reaching toward so useless and so enrapturing a question.
-<br><br>
+
+<br>
 <hr>
 <br>
 <div>
-← <a href="src/content/zine/z1/01-lately.md">back</a> ~
-<a href="src/pages/zine/z1/index.astro">contents</a> ~
-<a href="src/content/zine/z1/02-lonely-little-orbit.md">forth</a> →
+← <a href="/src/content/zine/z1/01-lately.md">back</a> ~
+<a href="/src/pages/zine/z1/index.astro">contents</a> ~
+<a href="/src/content/zine/z1/02-lonely-little-orbit.md">forth</a> →
 </div>
 <br>
