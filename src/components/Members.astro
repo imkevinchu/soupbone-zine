@@ -20,6 +20,9 @@ const members = await getCollection("members");
     grid-template-columns: 1fr 1fr;
     column-gap: 0.25em;
   }
+  img {
+    mix-blend-mode: multiply;
+  }
   @media (max-width: 768px) {
     .grid-wrapper {
       display: grid;
