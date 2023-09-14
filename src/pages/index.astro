@@ -11,6 +11,9 @@ import * as statement from "./statement.md";
   img {
     mix-blend-mode: multiply;
   }
+  #statement {
+    font-size: larger;
+  }
 </style>
 
 <html lang="en">
@@ -21,8 +24,7 @@ import * as statement from "./statement.md";
     <Header title={SITE_TITLE} />
     <main>
       <section>
-        <!-- <h1>{statement.frontmatter.title}</h1> -->
-        <h3>{statement.frontmatter.description}</h3>
+        <p id="statement">{statement.frontmatter.description}</p>
         <img src="/assets/home-collage.png" alt="" srcset="" />
       </section>
     </main>
