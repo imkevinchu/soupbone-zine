@@ -8,7 +8,7 @@ Soupbone is a distributed humanities collective founded in 2019. It is a group o
 
 **How can I get involved with Soupbone?**
 
-If you would like to become a member, you can [email us](mailto:soupbonecollective@gmail.com) with a letter of interest! We are looking especially for members with a committment to (or strong interest in) scholarship, creative methodologies, and thinking about the humanities in a collaborative and public context.
+If you would like to become a member, you can [email us](mailto:soupbonecollective@gmail.com) with a letter of interest. We are looking especially for members with a committment to (or strong interest in) scholarship, creative methodologies, and thinking about the humanities in a collaborative and public context. If you're interested in meeting the rest of the community, you can also join our Discord channel: just send us an email request! 
 
 **Are you funded or supported by an institute or university?**
 

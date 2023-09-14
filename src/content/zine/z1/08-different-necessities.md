@@ -3,7 +3,12 @@ title: "Different Necessities in Sorrow-Acre"
 author: "Adrian Liu"
 ordering: 8
 ---
-
+<style>
+body {background: rgb(243, 248, 255);}
+h1, h3, h4 {color: rgb(20, 46, 133);}
+div {text-align: center;}
+</style>
+<body>
 The constitutions of our identities are wrapped up in our relationships to necessities: in the people we must be and the things that we must do and the events that must befall us. At the center of Danish author Isak Dinesen's 1940 short story "Sorrow-Acre" is a striking case of necessity, and it is on a short confrontation in this story that my essay focuses.
 
 On a plot of land in Denmark a lord has lost a barn to arson. When a boy is hauled in by two putative eyewitnesses and accused of the crime, it is only the boy's testimony against the eyewitnesses. The lord thus cannot judge if the boy is innocent. "If I did believe the one thing or the other," he says, "it would be merely a matter of chance, or maybe of sympathy." When the boy's mother appears and pleads with the lord to save her boy, the lord is standing in one of his rye fields and has an idea. He says to her: "If in one day, between sunrise and sunset, with your own hands you can mow this field, and it be well done, I will let the case drop and you shall keep your son. But if you cannot do it, he must go, and it is not likely that you will then ever see him again."[^1]
@@ -76,11 +81,25 @@ I will not have space to thoroughly examine the implications of such a conclusio
 
 Indeed, the power inherent in theistic necessity is an egregious breach of enlightenment freedom, for it is completely unjustified. The enlightenment theorist can accept scenarios in which one reasonably gives up some of their freedom in order to secure greater safety or benefit, or can be expected to sacrifice their freedom for some greater good, but freedom is to be the default, and each encroachment upon freedom must be justifiable to the one encroached upon. This means that the lack of freedom inherent in theistic necessity has no place in an enlightenment ideal: for not only is it completely unjustifiable to the person it binds, but it *must be* completely unjustifiable to the person it binds, or else, as we saw with Anne-Marie, the meaning would be lost. The two simple facts—that meaningful activity from theistic necessity requires unjustifiable power, and enlightenment freedom cannot allow unjustifiable power—imply the following: an enlightenment worldview cannot appreciate the value of theistic necessity, and conversely a worldview that holds theistic necessity as a central value cannot appreciate the categorical value of enlightenment freedom. When it comes to the value of freedom and the value of necessity, the worldviews of the lord and the nephew are thus, to this extent, incommensurable.
 
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z1/07-nothing-new-under-the-sun">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/09-tenuous-we">forth</a> →
+</div>
+<br>
+<hr>
+<br>
+
 ## Bibliography
 
 Cohen, G. A. *Rescuing Justice and Equality.* Cambridge: Harvard UP, 2008.\
 Dinesen, Isak. "Sorrow-Acre." In *Winter's Tales*, 27--68. New York: Random House, 1942.\
 Williams, Bernard. *Shame and Necessity.* Berkeley: University of California Press, 1993.
+
+<br>
 
 [^1]: Isak Dinesen, “Sorrow-Acre,” in _Winter’s Tales_ (New York: Random House, 1942), 41.
 [^2]: Ibid., 55-56.

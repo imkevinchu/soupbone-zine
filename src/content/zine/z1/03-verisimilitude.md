@@ -4,6 +4,12 @@ author: "H. Z."
 ordering: 3
 ---
 
+<style>
+body {background: #faf2ff;}
+h1, h3, h4 {color: #8811a6;}
+div {text-align: center;}
+</style>
+
 I've been taking walks for as long as I can remember. When I was much younger, in elementary school, it would be with my parents every night after dinner. It was a ritual in our daily routine: dinner, dessert, and a walk. My mother spent hours cooking food for us, sometimes waking up early to buy the freshest tofu at the market or starting in the afternoon to prepare shells of fried gluten that my father and I would help stuff with ground pork. While I set the table, my parents would prepare dessert—they would grip a thin, sharp knife and strip the skin off of apples, pears, peaches, and plums. They did this patiently and deliberately, holding the fruit in their left hands, rotating it counterclockwise as the skin shed a spiral staircase into the sink.
 
 In Italian, a *passeggiata* is a stroll, usually taken after dinner, in which the whole town often participates. The word connotes leisure and the feeling of having all the time in the world. My parents would declare that it was time to 散步 (sàn bù), the Southern Chinese verb meaning "take a stroll." On its own, the first character means "loose" or "free" and is the same character used to describe loose sheets of paper or to illustrate a state of disarray. Back then, what we had was something in between a *passeggiata* and 散步. We would trace the same long loop through the neighborhood, where we'd greet familiar faces: the lady with the white poodle, the mother who taught swim classes in the community pool, the man who lived by the mailboxes.
@@ -61,3 +67,13 @@ My mother helped me move into university that August. The last day of move-in, w
 There are still nights that feel like nothing. I still daydream about cities that don't exist and the person that I might be. But I am getting better at filling up the vacancy, at soldering back into place the shards of myself that I had tried so hard to destroy. When I listen to My Chemical Romance, it is as the memory of the girl I once was. In my empty apartment, I am transported back to those years I spent walking up and down the rows of muted houses, coping with the pain of becoming. When I sing the words, "I am not afraid to keep on living / I am not afraid to walk this world alone," I remember how it felt to be afraid. Before I shut the lights off and go to bed, I call my mother. I tell her, *Yes, I have already eaten dinner,* and *yes, I am already home from work.* She asks if I am doing okay.
 
 When I die, if death comes to me as a memory, it will be me as a young girl, walking up the hills near my house, alone. I will stop at the grassy outlook near the peak like I always do and look out onto the city. The blinking cars will hustle down Main Street, the buildings downtown will fade into the simmering horizon, and I will stand there watching until the clouds fold their velvet wings over the sinking sun.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z1/02-lonely-little-orbit">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/04-second-serving">forth</a> →
+</div>
+<br>

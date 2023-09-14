@@ -4,6 +4,12 @@ author: "Patrick Powers"
 ordering: 6
 ---
 
+<style>
+body {background: #fff6fb;}
+h1, h3, h4 {color: #ff91a4;}
+div {text-align: center;}
+</style>
+
 [Listen to this conversation on SoundCloud.](https://soundcloud.com/patrick-powers-238280332/conversation-with-dasha)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/794972626&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/patrick-powers-238280332" title="Patrick Powers" target="_blank" style="color: #cccccc; text-decoration: none;">Patrick Powers</a> · <a href="https://soundcloud.com/patrick-powers-238280332/conversation-with-dasha" title="Conversation With Dasha" target="_blank" style="color: #cccccc; text-decoration: none;">Conversation With Dasha</a></div>
@@ -99,3 +105,13 @@ DASHA: So, I can say that worries about choosing my field of study haunt me almo
 PATRICK: Well, it's amazing to talk with you also. Dasha, thank you so much, спасибо большое за разговор. *(Thanks so much for the conversation.)*
 
 DASHA: Спасибо тебе, Патрик, за это очень интересное интервью. *(Thank you, Patrick, for such an interesting interview.)*
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z1/05-scrope-purvis">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/07-nothing-new-under-the-sun">forth</a> →
+</div>
+<br>

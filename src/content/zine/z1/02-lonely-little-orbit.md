@@ -3,6 +3,11 @@ title: "Lonely Little Orbit: A Letter"
 author: "Kate Fishman"
 ordering: 2
 ---
+<style>
+body {background: #fffbf3;}
+h1, h3, h4 {color: #ebc428;}
+div {text-align: center;}
+</style>
 
 03/25/2020
 
@@ -29,3 +34,13 @@ As an introvert, I don't hate being in my house by any stretch of the imaginatio
 There are things I don't know how to do right by myself. I don't know how to do the readings. I don't know how to make the presentation. I don't know how to write the essay. I don't know how to celebrate alone, most of all—I'm too old for imaginary friends. My house has turned into a tiny world I'm learning to live in—a world where finishing a novel or registering for next year's classes are monolithic accomplishments—while the real world powers down around me. We're used to the world never ever closing down around our tiny pieces of it—part of heartbreak is knowing that tragically, inevitably, life is going on and gives not a flying fuck. In this, though, we are all profoundly together: profoundly alone in our homes, staying away from everyone and everything, and stricken by a realization that it's harder to be ourselves.
 
 Maybe you need it—here is your permission. Eat the torta. Walk through the neighborhood saying nothing to no one. Binge the TV show. You're heartbroken. Be that. Do that, for awhile, pretending it's a choice, and be you, still, because you still are.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z1/02-lonely-little-orbit">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/03-verisimilitude">forth</a> →
+</div>
+<br>

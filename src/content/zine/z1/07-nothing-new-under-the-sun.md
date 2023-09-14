@@ -3,14 +3,19 @@ title: "Nothing New Under the Sun"
 author: "Phoebe Pan"
 ordering: 7
 ---
+<style>
+body {background: rgb(255, 254, 254);}
+h1, h3, h4 {color: rgb(191, 111, 19);}
+div {text-align: center;}
+</style>
 
-_“We have to make room for other people. It’s a wheel: you get on, you go to the end, and someone else has the same opportunity to go to the end, and so on, and somebody else takes their place. There’s nothing new under the sun.”_
+<blockquote><p>“We have to make room for other people. It’s a wheel: you get on, you go to the end, and someone else has the same opportunity to go to the end, and so on, and somebody else takes their place. There’s nothing new under the sun.”
 —Vivian Maier
 
-_“You don't make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.”_
-—Ansel Adams
+“You don't make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.”
+—Ansel Adams</p></blockquote>
 
-Despite her eminent presence in the photography community, Vivian Maier (1926-2009) has remained something of an enigma. The facts are sparse: she was born in New York City and worked most of her life as a nanny and care-giver in Chicago. She never married and had no children. Her first camera was a Kodak Brownie box, and it was not until 1952 that she began shooting with the twin-lens Rolleiflex that has become a signature in her self-portraits. She processed rolls of film in her bathroom and never showed them to anyone. Her work was discovered only two years before her death.
+Despite her admired presence in the photography community, Vivian Maier (1926-2009) has remained something of an enigma. The facts are sparse: she was born in New York City and worked most of her life as a nanny and care-giver in Chicago. She never married and had no children. Her first camera was a Kodak Brownie box, and it was not until 1952 that she began shooting with the twin-lens Rolleiflex that has become a signature in her self-portraits. She processed rolls of film in her bathroom and never showed them to anyone. Her work was discovered only two years before her death.
 
 Contemporary biographies of Maier rely on speculation and interpretation; collectors run the risk of distorting and mythologizing her. As it stands, it seems that the truest way of getting to know Maier is by examining the negatives she left behind. We glimpse her through the people she photographed and the places she frequented, and her self-portraits reveal a distinct visual language of the body situated in specific physical and temporal environments: a face half-obscured on a New York City street in 1953, a reflection idling on the sidewalks of Bangkok in 1959. Nearly all of these images involve mirrors or shadows of some kind. When Maier took a photo of herself, what resulted was not simply a vanity shot—there was always too much of the world in her photos for them to be solely about her.
 
@@ -30,3 +35,12 @@ _Further reading: Elizabeth Newton's "[Fierce Attachments](https://reallifemag.c
 <img src="/assets/zine/z1/nothing-new-under-the-sun/Scan4.jpg">
 <img src="/assets/zine/z1/nothing-new-under-the-sun/Scan5.jpg">
 <img src="/assets/zine/z1/nothing-new-under-the-sun/Scan6.jpg">
+<br><br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z1/06-humanities-in-russia">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/08-different-necessities">forth</a> →
+</div>
+<br>

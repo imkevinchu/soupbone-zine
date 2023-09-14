@@ -4,6 +4,12 @@ author: "Lauren Ehrmann and Tiffany Xie"
 ordering: 4
 ---
 
+<style>
+body {background: #f5fff0;}
+h1, h3, h4 {color: #18851b}
+div {text-align: center;}
+</style>
+
 ![](/assets/zine/z1/tomato.jpg)
 
 Illustration by Melissa Frateantonio
@@ -27,3 +33,13 @@ I was so sure that\
 his arms echoed through mine.
 
 _Wake and walk downstairs to catch your father rolling rice flour and water into marbles, the dough drying out his hands so that they look powdery. See the balls arrayed on the cutting board. See boiling brown sugar and water on the stove, in the pot where sometimes you make ramen. Carry the cutting board with both hands and push each marble, gently, into the bubbles. Boil until they float. Serve with your favorite ceramic spoon and so much sunlight._
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z1/03-verisimilitude">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/05-scrope-purvis">forth</a> →
+</div>
+<br>

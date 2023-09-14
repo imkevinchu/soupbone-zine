@@ -4,7 +4,12 @@ author: "Soupbone Collective"
 ordering: 1
 ---
 
-Illustrations by Melissa Frateantonio.
+<style>
+h1, h3, h4 {color: #32543d;}
+div {text-align: center;}
+</style>
+
+*Featuring the things to which we have returned consistently over past months—what we have kept on our minds and close to our hearts. Illustrations by Melissa Frateantonio.*
 
 #### Melissa
 
@@ -67,7 +72,6 @@ The podcast "The Poetry Gods" (in particular [Episode 6 with Paul Tran](https:/
 - How people grow apart and grow back together, like a boxspring
 - Why the textures of noodles and rice are so fabulous
 - The looming question of grad school
-- The food in Israel
 
 ![](/assets/zine/z1/lately/cindylately2.png)
 
@@ -102,3 +106,13 @@ Céline Sciamma!!, Sufjan Stevens, and meditation.
 ‡ Joanna Newsom’s discography! Newsom is an artist who reworks lyric poetry into epic proportions; she manages to weave storytelling and melody in a way that feels Homeric in scale, Sapphic in atmosphere. Her lyrics possess the striking ability to conjure scenes that are deeply personal yet sprawling in scope, rife with encyclopedic references and intimate mythologies. Who else could rhyme “Ozymandian” with “Sapokanikan” and get away with it?
 
 ‡ “How many angels can dance on the head of a pin?”, which is a reduction to absurdity that summarizes, I think, a lot of mainstream attitudes toward academia and academic work, but also somehow captures the baffling allure of creating academic work, of reaching toward so useless and so enrapturing a question.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z1/01-lately">back</a> ~
+<a href="/zine/z1">contents</a> ~
+<a href="/zine/z1/02-lonely-little-orbit">forth</a> →
+</div>
+<br>
