@@ -1,7 +1,7 @@
 {
-  "name": "@example/blog",
+  "name": "@soupbone/blog",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "astro dev",
@@ -11,11 +11,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/image": "^0.13.0",
     "@astrojs/mdx": "^0.15.1",
     "@astrojs/rss": "^2.1.0",
     "@astrojs/sitemap": "^1.0.0",
-    "astro": "^2.0.10",
+    "astro": "^3.1.0",
     "sharp": "^0.31.3"
   },
   "devDependencies": {
