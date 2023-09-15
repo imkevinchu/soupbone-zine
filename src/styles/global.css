@@ -1,18 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&display=swap");
 
 @font-face {
-  font-family: 'FT88-Gothique';
-  src: url('/fonts/FT88-Gothique.woff') format('woff');
+  font-family: "FT88-Gothique";
+  src: url("/fonts/FT88-Gothique.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'avara';
-  src: url('/fonts/avara.woff') format('woff');
+  font-family: "avara";
+  src: url("/fonts/avara.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -25,27 +24,32 @@ body {
   padding: 24px;
   max-width: 70ch;
   text-align: left;
-  background-color: #FAF9F6;
+  background-color: #faf9f6;
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.5;
   color: #373737;
 }
 h2 {
-  font-family: "FT88-Gothique", sans-serif;
-  font-size: 1.1em;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 1.5em;
+  font-weight: lighter;
 }
 
-h1, h3, h4, h5, h6 {
+h1,
+h3,
+h4,
+h5,
+h6 {
   font-family: "avara", serif;
 }
 
 header {
-  font-family: "Inter", sans-serif;
-  font-size: 1em;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.9em;
 }
 p {
-  text-align:none;
+  text-align: none;
 }
 h1,
 h2,
@@ -61,7 +65,7 @@ a {
   color: #3d915b;
 }
 a:hover {
-  color: #851C1C;
+  color: #851c1c;
 }
 textarea {
   width: 100%;
