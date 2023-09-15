@@ -22,6 +22,11 @@ const zine = defineCollection({
 		author: z.string(),
 		ordering: z.number(),
 		heroImage: z.string().optional(),
+		pubDate: z
+			.string()
+			.or(z.date())
+			.transform((val) => new Date(val))
+			.optional(),
 	}),
 });
 

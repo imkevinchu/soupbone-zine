@@ -1,6 +1,7 @@
 ---
 title: "Rites of Passage / Sunday Service"
 author: "Calla Norman"
+pubDate: "May 2021"
 ordering: 7
 ---
 

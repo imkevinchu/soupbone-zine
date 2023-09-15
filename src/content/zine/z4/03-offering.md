@@ -1,6 +1,7 @@
 ---
 title: "Offering"
 author: "Lauren Ehrmann"
+pubDate: "May 2021"
 ordering: 3
 ---
 

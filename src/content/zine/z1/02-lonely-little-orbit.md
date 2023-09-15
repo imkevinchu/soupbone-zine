@@ -1,8 +1,10 @@
 ---
 title: "Lonely Little Orbit: A Letter"
 author: "Kate Fishman"
+pubDate: "April 2020"
 ordering: 2
 ---
+
 <style>
 body {background: #fffbf3;}
 h1, h3, h4 {color: #ebc428;}

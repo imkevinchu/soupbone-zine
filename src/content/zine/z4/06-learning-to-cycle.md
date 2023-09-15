@@ -1,6 +1,7 @@
 ---
 title: "Learning to Cycle"
 author: "Clark Gudas"
+pubDate: "May 2021"
 ordering: 6
 ---
 

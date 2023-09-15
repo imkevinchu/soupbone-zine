@@ -1,6 +1,7 @@
 ---
 title: "Cyborg Centos"
 author: "Tiffany Xie & Phoebe Pan"
+pubDate: "December 2022"
 ordering: 7
 ---
 

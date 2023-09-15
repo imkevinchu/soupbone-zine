@@ -1,6 +1,7 @@
 ---
 title: "Disorderly, & marvelous, & ours: a potluck conversation"
 author: "Phoebe Pan and Yeeseon Chae"
+pubDate: "May 2021"
 ordering: 9
 ---
 

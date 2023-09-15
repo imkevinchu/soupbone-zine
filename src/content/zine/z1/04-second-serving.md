@@ -1,6 +1,7 @@
 ---
 title: "Second Serving"
 author: "Lauren Ehrmann and Tiffany Xie"
+pubDate: "April 2020"
 ordering: 4
 ---
 

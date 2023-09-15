@@ -1,6 +1,7 @@
 ---
 title: "The Influence of the Earth"
 author: "Thalia Taylor"
+pubDate: "May 2021"
 ordering: 15
 ---
 

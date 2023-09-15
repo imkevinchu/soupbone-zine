@@ -1,6 +1,7 @@
 ---
 title: "Helpful Index Cards"
 author: "Melissa Frateantonio"
+pubDate: "December 2020"
 ordering: 9
 ---
 

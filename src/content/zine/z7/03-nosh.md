@@ -1,6 +1,7 @@
 ---
 title: "Nosh: The Board Game Where You Play With Your Food"
 author: "Calla Norman & Tiffany Xie"
+pubDate: "December 2022"
 ordering: 3
 ---
 

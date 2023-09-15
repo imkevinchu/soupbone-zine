@@ -1,6 +1,7 @@
 ---
 title: "Recipe for Applesauce"
 author: "Calla Norman"
+pubDate: "December 2020"
 ordering: 12
 ---
 

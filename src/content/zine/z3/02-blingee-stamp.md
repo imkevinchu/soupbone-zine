@@ -1,6 +1,7 @@
 ---
 title: "How to Make a Blingee Stamp"
 author: "Damon Pham"
+pubDate: "December 2020"
 ordering: 2
 ---
 
@@ -20,7 +21,7 @@ _this is a tutorial for making falling sparkles, drifting petals, hovering birds
   <figcaption><a href="https://blingee.com/stamp/view/76-White-Glitter-Pattern">White Glitter Pattern</a> by by blingee_team</figcaption>
 </figure>
 
-do you place the head of the week on Sunday or Monday? why January, and why midnight? if your quarantine has been like mine, these questions have become severely open-ended: weeks mash into a paste, months run through one another. my calendar looks like an acrylic pour painting of soymilk and oatmilk and almondmilk, and I lie on a bed of napkins, tilting its surface over in new ways, and honestly that kind of works. after all, what is texture if not a form of repetition? or: the same object can be made to feel different by altering the feeling apparatus. try Crest and then Tropicana. try playing the video backwards? squint your eyes and you can make out the shape of most kinds of gratitude. anyway, i'm getting ahead of myself. the first step for making a Blingee stamp (or PicMix sticker) is to discard immaterial beliefs of where it will start or end. just pick somewhere and make the incision---April, or 7 PM. lay down the first frame.
+do you place the head of the week on Sunday or Monday? why January, and why midnight? if your quarantine has been like mine, these questions have become severely open-ended: weeks mash into a paste, months run through one another. my calendar looks like an acrylic pour painting of soymilk and oatmilk and almondmilk, and I lie on a bed of napkins, tilting its surface over in new ways, and honestly that kind of works. after all, what is texture if not a form of repetition? or: the same object can be made to feel different by altering the feeling apparatus. try Crest and then Tropicana. try playing the video backwards? squint your eyes and you can make out the shape of most kinds of gratitude. anyway, i'm getting ahead of myself. the first step for making a Blingee stamp (or PicMix sticker) is to discard immaterial beliefs of where it will start or end. just pick somewhere and make the incision—April, or 7 PM. lay down the first frame.
 
 the next step is to make it move. float or fly or shimmer or just kind of appear here and there. it is the hardest and easiest part, for me at least, to act this action, to show up and work the thread between the previous and succeeding frame. sometimes, knowing where you want to end and savoring that mental image can be a dangerous barrier to actually getting there: allosteric inhibition by dream-product. should you get stuck, just try a unit translation, rotation, or expansion. a single wing-flap. thankfully, strangely, there is a satisfaction in cleaning your face, your cupboards, though you expect no visitors. while a single frame might be wholly skippable, the entire GIF is but an ordering of single frames, so there are no shortcuts ad infinitum. it's so possible to act faithfully, though, so why bother? snowfall is nothing more than many falling snow particles. but you knew that.
 

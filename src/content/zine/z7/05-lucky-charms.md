@@ -1,6 +1,7 @@
 ---
 title: "Lucky Charms: Emote Collection"
 author: "Cindy Liu"
+pubDate: "December 2022"
 ordering: 5
 ---
 

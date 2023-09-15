@@ -1,6 +1,7 @@
 ---
 title: "A Soupbone Questionnaire"
 author: "Soupbone Collective"
+pubDate: "December 2020"
 ordering: 1
 ---
 

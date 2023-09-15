@@ -1,6 +1,7 @@
 ---
 title: "Ode to the Slack Knock-Brush"
 author: "Calla Norman"
+pubDate: "November 2021"
 ordering: 1
 ---
 

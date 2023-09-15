@@ -1,6 +1,7 @@
 ---
 title: "Block: A Letter-Writing RPG"
 author: "Phoebe Pan"
+pubDate: "December 2022"
 ordering: 1
 ---
 

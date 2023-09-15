@@ -1,6 +1,7 @@
 ---
 title: "Soupbone Spaces"
 author: "Lauren Ehrmann and H. Z."
+pubDate: "December 2020"
 ordering: 3
 ---
 

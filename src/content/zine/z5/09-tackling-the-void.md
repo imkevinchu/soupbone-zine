@@ -1,6 +1,7 @@
 ---
 title: "Tackling the Void: Songs to Help You Face Your Feelings"
 author: "Maddy Klein"
+pubDate: "November 2021"
 ordering: 9
 ---
 

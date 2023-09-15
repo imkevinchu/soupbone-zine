@@ -1,6 +1,7 @@
 ---
 title: "The Humanities in Russia: A Conversation with Dasha Rudakova"
 author: "Patrick Powers"
+pubDate: "April 2020"
 ordering: 6
 ---
 

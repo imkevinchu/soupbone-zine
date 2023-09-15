@@ -1,6 +1,7 @@
 ---
 title: "RECORD COLLECTION"
 author: "Thalia Taylor"
+pubDate: "November 2021"
 ordering: 7
 ---
 

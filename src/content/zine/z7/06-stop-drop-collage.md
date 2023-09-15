@@ -1,6 +1,7 @@
 ---
 title: "Stop! Drop! Collage!"
 author: "H.Z. & Margaret Schnabel"
+pubDate: "December 2022"
 ordering: 6
 ---
 

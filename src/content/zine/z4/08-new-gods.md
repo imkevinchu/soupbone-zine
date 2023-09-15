@@ -1,6 +1,7 @@
 ---
 title: "New Gods"
 author: "Kevin Chu"
+pubDate: "May 2021"
 ordering: 8
 ---
 

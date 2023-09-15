@@ -1,6 +1,7 @@
 ---
 title: "Alternative Acronyms"
 author: "Genevieve Marvin, Tiffany Xie, and H.Z."
+pubDate: "May 2022"
 ordering: 4
 ---
 

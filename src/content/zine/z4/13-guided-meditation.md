@@ -1,6 +1,7 @@
 ---
 title: "Guided Meditation for Mindful Listening to the Self, with musical vignettes and suggested plant pairings"
 author: "Cindy Liu"
+pubDate: "May 2021"
 ordering: 13
 ---
 

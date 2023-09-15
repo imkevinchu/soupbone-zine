@@ -1,6 +1,7 @@
 ---
 title: "BLESSING FOR FAGGOTS"
 author: "Shawn Coughlin"
+pubDate: "May 2021"
 ordering: 12
 ---
 

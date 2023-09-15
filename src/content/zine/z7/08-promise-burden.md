@@ -1,6 +1,7 @@
 ---
 title: "Promise Burden Prompt Origin Defense Palette Call"
 author: "Damon Pham"
+pubDate: "December 2022"
 ordering: 8
 ---
 

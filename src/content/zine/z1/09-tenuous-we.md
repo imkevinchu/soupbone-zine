@@ -1,8 +1,10 @@
 ---
 title: "“A Tenuous ‘We’ of Us All”: Performance, Identity, and Community in the Literature of the AIDS Crisis"
 author: "Margaret Schnabel"
+pubDate: "April 2020"
 ordering: 9
 ---
+
 <style>
 body {background: rgb(255, 254, 245);}
 h1, h3, h4 {color: rgb(245, 173, 29);}
@@ -84,7 +86,6 @@ Indeed, as these authors highlight, the process of grieving reveals just how muc
 <div>
 ← <a href="/zine/z1/07-nothing-new-under-the-sun">back</a> ~
 <a href="/zine/z1">contents</a> ~
-<a href="/zine/z1/09-tenuous-we">forth</a> →
 </div>
 <br>
 <hr>

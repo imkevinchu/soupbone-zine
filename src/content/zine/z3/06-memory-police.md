@@ -1,6 +1,7 @@
 ---
 title: "Yoko Ogawa’s “The Memory Police”: An Interactive Review"
 author: "Phoebe Pan"
+pubDate: "December 2020"
 ordering: 6
 ---
 

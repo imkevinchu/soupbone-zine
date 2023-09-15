@@ -1,6 +1,7 @@
 ---
 title: "Bartleby, the Marketer: A Story of the Internet Economy"
 author: "Calla Norman"
+pubDate: "May 2022"
 ordering: 5
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Bending Time with Lucy Dacus’ Home Video"
 author: "Margaret Schnabel"
+pubDate: "November 2021"
 ordering: 11
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Different Necessities in Sorrow-Acre"
 author: "Adrian Liu"
+pubDate: "April 2020"
 ordering: 8
 ---
+
 <style>
 body {background: rgb(243, 248, 255);}
 h1, h3, h4 {color: rgb(20, 46, 133);}

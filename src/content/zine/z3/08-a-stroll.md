@@ -1,6 +1,7 @@
 ---
 title: "A Stroll"
 author: "Genevieve Marvin"
+pubDate: "December 2020"
 ordering: 8
 ---
 

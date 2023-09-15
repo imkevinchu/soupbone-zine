@@ -1,6 +1,7 @@
 ---
 title: "Wordplays"
 author: "Margaret Schnabel & Clark Gudas"
+pubDate: "December 2022"
 ordering: 2
 ---
 

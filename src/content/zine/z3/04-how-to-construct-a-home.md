@@ -1,6 +1,7 @@
 ---
 title: "How to Construct a Home"
 author: "Yeeseon Chae"
+pubDate: "December 2020"
 ordering: 4
 ---
 

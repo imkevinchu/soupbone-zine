@@ -1,6 +1,7 @@
 ---
 title: "Recipe for a Walk in Homewood Cemetery"
 author: "Calla Norman"
+pubDate: "December 2020"
 ordering: 7
 ---
 

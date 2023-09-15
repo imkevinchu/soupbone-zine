@@ -1,6 +1,7 @@
 ---
 title: "Lately"
 author: "Soupbone Collective"
+pubDate: "April 2020"
 ordering: 1
 ---
 
@@ -9,7 +10,7 @@ h1, h3, h4 {color: #32543d;}
 div {text-align: center;}
 </style>
 
-*Featuring the things to which we have returned consistently over past months—what we have kept on our minds and close to our hearts. Illustrations by Melissa Frateantonio.*
+_Featuring the things to which we have returned consistently over past months—what we have kept on our minds and close to our hearts. Illustrations by Melissa Frateantonio._
 
 #### Melissa
 
@@ -111,7 +112,6 @@ Céline Sciamma!!, Sufjan Stevens, and meditation.
 <hr>
 <br>
 <div>
-← <a href="/zine/z1/01-lately">back</a> ~
 <a href="/zine/z1">contents</a> ~
 <a href="/zine/z1/02-lonely-little-orbit">forth</a> →
 </div>

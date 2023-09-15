@@ -1,6 +1,7 @@
 ---
 title: "Circling Back to “Alternative R&B”"
 author: "Damon Pham"
+pubDate: "November 2021"
 ordering: 10
 ---
 

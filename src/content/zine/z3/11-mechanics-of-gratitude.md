@@ -1,6 +1,7 @@
 ---
 title: "The Mechanics of Gratitude"
 author: "Tiffany Xie"
+pubDate: "December 2020"
 ordering: 11
 ---
 

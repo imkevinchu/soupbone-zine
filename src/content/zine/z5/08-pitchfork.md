@@ -1,6 +1,7 @@
 ---
 title: "I Won’t Tell Anyone You Like Pitchfork"
 author: "Anushka Sen"
+pubDate: "November 2021"
 ordering: 8
 ---
 
