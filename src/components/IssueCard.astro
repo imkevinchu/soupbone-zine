@@ -1,0 +1,23 @@
+---
+const { volume, title, ...props } = Astro.props;
+---
+
+<style>
+  li {
+    border: 2px solid;
+    border-radius: 3px;
+    padding: 1rem;
+  }
+  p {
+    font-family: "IBM Plex Mono";
+    margin-top: 0;
+  }
+  a {
+    font-size: larger;
+  }
+</style>
+
+<li>
+  <p>No. {volume}</p>
+  <a href={`/zine/z${volume}/`}>{title}</a>
+</li>

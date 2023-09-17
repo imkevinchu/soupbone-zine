@@ -2,6 +2,7 @@
 import BaseHead from "../../components/BaseHead.astro";
 import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
+import IssueCard from "../../components/IssueCard.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
 
 interface Zine {
@@ -10,14 +11,14 @@ interface Zine {
 }
 
 const issues: Zine[] = [
-  { volume: 1, title: "Z1: Identities" },
-  { volume: 2, title: "Z2: Summer 2020" },
-  { volume: 3, title: "Z3: Gratitude" },
-  { volume: 4, title: "Z4: Spirituality" },
-  { volume: 5, title: "Z5: Sound" },
-  { volume: 6, title: "Z6: Work" },
-  { volume: 7, title: "Z7: Play" },
-  { volume: 8, title: "Z8: Apocalypse" },
+  { volume: 1, title: "Identities" },
+  { volume: 2, title: "Summer 2020" },
+  { volume: 3, title: "Gratitude" },
+  { volume: 4, title: "Spirituality" },
+  { volume: 5, title: "Sound" },
+  { volume: 6, title: "Work" },
+  { volume: 7, title: "Play" },
+  { volume: 8, title: "Apocalypse" },
 ];
 ---
 
@@ -29,6 +30,9 @@ const issues: Zine[] = [
       ul {
         list-style-type: none;
         padding: unset;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.6rem;
       }
       ul li {
         display: flex;
@@ -51,9 +55,7 @@ const issues: Zine[] = [
         <ul>
           {
             issues.map((issue) => (
-              <li>
-                <a href={`/zine/z${issue.volume}/`}>{issue.title}</a>
-              </li>
+              <IssueCard volume={issue.volume} title={issue.title} />
             ))
           }
         </ul>
