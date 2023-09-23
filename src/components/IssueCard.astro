@@ -6,19 +6,32 @@ const { volume, title, ...props } = Astro.props;
   li {
     border: 2px solid;
     border-radius: 3px;
-    padding: 1rem;
   }
   p {
     font-family: "IBM Plex Mono";
     font-size: smaller;
-    margin-top: 0;
   }
   a {
     font-size: larger;
   }
+  img {
+    display: inline-block;
+    vertical-align: bottom;
+  }
+  .title {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
 </style>
 
 <li>
-  <p>No. {volume}</p>
-  <a href={`/zine/z${volume}/`}>{title}</a>
+  <div class="title">
+    <p>No. {volume}</p>
+    <a href={`/zine/z${volume}/`}>{title}</a>
+  </div>
+  <a href={`/zine/z${volume}/`}
+    ><img src={`/assets/zine/cards/Card_Z${volume}.jpg`} alt="" /></a
+  >
 </li>
