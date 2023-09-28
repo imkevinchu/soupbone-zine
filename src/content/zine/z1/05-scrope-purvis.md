@@ -27,6 +27,6 @@ People's identities are constructed in the minds of others, our own included, an
 <div>
 ← <a href="/zine/z1/04-second-serving">back</a> ~
 <a href="/zine/z1">contents</a> ~
-<a href="/zine/z1/05-humanities-in-russia">forth</a> →
+<a href="/zine/z1/06-humanities-in-russia">forth</a> →
 </div>
 <br>
