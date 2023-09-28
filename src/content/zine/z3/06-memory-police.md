@@ -6,6 +6,12 @@ ordering: 6
 ---
 
 <style>
+    h1, h3, h4 {
+        color: rgb(70, 138, 112);
+    }
+    div {
+        text-align: center;
+    }
     ul {
         list-style-type: none;
     }
@@ -109,3 +115,13 @@ This is a book about memory.
 - [ ] Y
 - [ ] N
 - [ ] close
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z3/05-five-mini-film-reviews">back</a> /
+<a href="/zine/z3">contents</a> /
+<a href="/zine/z3/07-homewood-cemetery">forth</a> →
+</div>
+<br>

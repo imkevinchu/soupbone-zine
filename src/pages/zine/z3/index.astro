@@ -1,10 +1,13 @@
 ---
 import ZineTableOfContents from "../../../layouts/ZineTableOfContents.astro";
 ---
-@import url("https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&display=swap");
 
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&display=swap">
 <style>
-
+body {
+  font-family: "Baskervville", serif;
+} 
 p {
   font-family: "Baskervville", serif;
   font-size: 1.3em;
@@ -30,6 +33,7 @@ p {
   }
 }
 </style>
+</head>
 
 <ZineTableOfContents zineIssue="z3" zineTitle="Zine 3: Gratitude">
 <br>

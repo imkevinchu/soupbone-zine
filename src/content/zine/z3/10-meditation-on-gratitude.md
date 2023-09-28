@@ -5,6 +5,15 @@ pubDate: "December 2020"
 ordering: 10
 ---
 
+<style>
+    h1, h3, h4 {
+        color: rgb(227, 157, 66);
+    }
+    div {
+        text-align: center;
+    }
+</style>
+
 _Do you struggle with practicing gratitude? Do you believe, but don't quite dare to say, that the problem isn't you?_
 
 I'm not sure why I struggle with practicing gratitude as self-care. When I spell out my reasons for this difficulty, they seem hefty enough.
@@ -51,3 +60,13 @@ _Can you imagine a situation, where despite a leaden soul, your body might wake 
 Or,
 
 _Have you ever thought about why we hum? And why we sometimes hum a muddled original tune—not one of a song we ever heard? What makes the body sing, produce its own music? The next time it happens to you, do you think you will notice?_
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z3/09-helpful-index-cards">back</a> /
+<a href="/zine/z3">contents</a> /
+<a href="/zine/z3/11-mechanics-of-gratitude">forth</a> →
+</div>
+<br>

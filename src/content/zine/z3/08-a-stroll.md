@@ -22,6 +22,7 @@ _To keep walking, please go outside and find the crunchiest leaf on the ground a
 _To go back from whence you came, click [here](#1)._
 
 
+---
 
 
 <a name="1"></a>
@@ -32,6 +33,7 @@ _To continue walking back and back, click [here](#3)._
 _To sit in the forest on the fallen log and think more about where the deer could possibly have gotten cut, please feel free to stay on this page for as long as you need._
 
 
+---
 
 
 <a name="2"></a>
@@ -42,6 +44,7 @@ _If you choose to walk through the water, fill up a glass with ice and water fro
 _If you choose to turn around and go back and back, click [here](#1)._
 
 
+---
 
 
 <a name="3"></a>
@@ -53,6 +56,7 @@ click [here](#5)._
 _To walk along the porch and look for someone else, click [here](#6)._
 
 
+---
 
 
 <a name="4"></a>
@@ -63,6 +67,7 @@ _The necklace could be shined easily, and you can make out lettering on the lock
 _The necklace feels incorrect. The memories you have of this necklace are hidden in the back of your brain but feel heavy and dark. To throw the necklace as far as you can, to dampen those memories further, stick your hand into the cold icy water. Decide then, to keep moving forward beyond the creek. Click [here](#8)._
 
 
+---
 
 
 <a name="5"></a>
@@ -74,6 +79,7 @@ _To try the handle again, start this page over.
 Your hand will reach out down to the door handle, and as you are about to turn it, you will be flooded with a great sense of belonging. You will never turn the handle. Feel free to read this page for as long as it takes to accept. Stay stuck in this memory forever, please, choose not to turn the page._
 
 
+---
 
 
 <a name="6"></a>
@@ -82,6 +88,7 @@ The porch is empty. Trees rustle from the wind. It feels, in this moment, that t
 _To scream out and startle no one, here’s a thought puzzle from George Berkeley’s A Treatise Concerning the Principle of Human Knowledge: “If a tree falls in a forest and no one is around to hear it, does it make a sound?” Wonder about why you are alone in the woods on the porch of a cabin. Wonder why no animal comes here. Walk away from this place now and ponder the thought puzzle. Find a book and write down your thoughts and put them into an envelope and send it somewhere. If someone screamed in the forest, supposing that someone was alive, would any other living soul care to wonder why they were screaming? Click [here](#9)._
 
 
+---
 
 
 <a name="7"></a>
@@ -90,6 +97,7 @@ Annabelle is carved in a looping script along the locket. Your heart hurts for A
 _The warmth in your stomach darkens considerably. You have trouble remembering the good times you had with Annabelle. Suddenly there is the tangled hair and scraped knees and tears and screaming. So much screaming. It seems unlikely that a child could scream that much, that her throat might become barren after emitting such noise. Again, as you try to remember the counterpart that birthed her, you come up blank. You are left with the uncomfortable feeling that there was never a woman who Annabelle called mother. Or, at least, that that woman left when she was very young. Please take this information gently, or else find a book that holds all of your childhood memories and hope and tear up the pieces violently. I’m sorry it’s like this. I’m so sorry. Click [here](#9)._
 
 
+---
 
 
 <a name="8"></a>
@@ -100,6 +108,7 @@ _To tend to your hand, first find a good book and open it up and read it. Perhap
 Or, get up, keep walking, and click [here](#9).
 
 
+---
 
 
 <a name="9"></a>

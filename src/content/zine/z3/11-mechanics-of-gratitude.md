@@ -5,6 +5,15 @@ pubDate: "December 2020"
 ordering: 11
 ---
 
+<style>
+    h1, h3, h4 {
+        color: #000;
+    }
+    div {
+        text-align: center;
+    }
+</style>
+
 <center>
 
 ![](/assets/zine/z3/mechanics-of-gratitude/The-Mechanics-of-Gratitude-1-01.png)
@@ -34,3 +43,13 @@ ordering: 11
 ![](/assets/zine/z3/mechanics-of-gratitude/The-Mechanics-of-Gratitude-13-01.png)
 
 </center>
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z3/10-meditation-on-gratitude">back</a> /
+<a href="/zine/z3">contents</a> /
+<a href="/zine/z3/12-recipe-for-applesauce">forth</a> →
+</div>
+<br>

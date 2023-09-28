@@ -5,6 +5,15 @@ pubDate: "December 2020"
 ordering: 9
 ---
 
+<style>
+    h1, h3, h4 {
+        color: rgb(87, 173, 126);
+    }
+    div {
+        text-align: center;
+    }
+</style>
+
 ![](/assets/zine/z3/helpful-index-cards/holly.jpg)
 
 ![](/assets/zine/z3/helpful-index-cards/shawn-2.jpg)
@@ -34,3 +43,13 @@ ordering: 9
 ![](/assets/zine/z3/helpful-index-cards/shawn-3.jpg)
 
 ![](/assets/zine/z3/helpful-index-cards/kate.jpg)
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z3/08-a-stroll">back</a> /
+<a href="/zine/z3">contents</a> /
+<a href="/zine/z3/10-meditation-on-gratitude">forth</a> →
+</div>
+<br>
