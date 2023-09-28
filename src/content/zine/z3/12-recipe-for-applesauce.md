@@ -28,3 +28,12 @@ Don’t bother to peel the apples, just core in four swift movements circumnavig
 As the pot fills, add a quarter cup of water to the bottom so it doesn’t burn, and put it on to cook. While you continue chopping, stir every once in a while and notice the resistance of every tiny little cube get weaker and weaker, until they surrender with a poke. Break out the immersion blender, and notice how easy it is to dissipate cell walls into a liquid form. Is applesauce liquid, or is it still technically solid? You tell me, you’re the woman in STEM. This has got to be my hundredth apple, I’m getting delirious. This is fun though, next time we do this we should make kimchi!
 
 Now, ladle the hot applesauce into gallon-sized freezer bags and lay flat on a baking tray without burning your fingers. There’s gotta be a better way to do this. I got nothing, so I’ll keep chopping. I’ll take these home and freeze—I’ve got the space. Okay, good. Are your arms starting to hurt? YES! There’s a cooler left after this one. It’s been almost three hours, where did the time go?
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z3/11-mechanics-of-gratitude">back</a> /
+<a href="/zine/z3">contents</a>
+</div>
+<br>

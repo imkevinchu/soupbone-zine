@@ -101,3 +101,13 @@ This time, when you look at your hands, you are not shocked to see them withered
 _To hold your face and try to make these headstones and the reality of them disappear, cover your eyes with your jacket. Realize that your jacket is with the rest of your skin, and that you must look. You have no choice. I asked you not to turn to this page, my love. Annabelle lived a good life with you. You must forgive me, and you must stop coming here like this. Now lay you down to sleep and rest my darling. Climb your tired bones into the empty grave and be with us. Close these pages now._
 
 [Start over](#0)
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z3/07-homewood-cemetery">back</a> /
+<a href="/zine/z3">contents</a> /
+<a href="/zine/z3/09-helpful-index-cards">forth</a> →
+</div>
+<br>
