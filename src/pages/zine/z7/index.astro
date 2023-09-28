@@ -1,7 +1,12 @@
 ---
 import ZineTableOfContents from "../../../layouts/ZineTableOfContents.astro";
 ---
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&display=swap">
 <style>
+body {
+  font-family: "Baskervville", serif;
+}
 @-webkit-keyframes snowflakes-fall {
 		0% {
 			top: -10%
@@ -133,6 +138,7 @@ import ZineTableOfContents from "../../../layouts/ZineTableOfContents.astro";
     animation-delay: 4s, 2.5s
   }
   </style>
+  </head>
 
 <ZineTableOfContents zineIssue="z7" zineTitle="Zine 7: Play">
 <div class="snowflakes">
