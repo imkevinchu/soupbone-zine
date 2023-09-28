@@ -5,6 +5,15 @@ pubDate: "December 2020"
 ordering: 5
 ---
 
+<style>
+    h1, h3, h4 {
+        color: rgb(0, 123, 176);
+    }
+    div {
+        text-align: center;
+    }
+</style>
+
 **_Jojo Rabbit_**\
 chance connections
 
@@ -49,3 +58,11 @@ Glances, touch, and platters of fruit: the silent "I love you" I learn to expect
 _(2019, dir. Lulu Wang)_
 
 ---
+
+<br>
+<div>
+← <a href="/zine/z3/04-how-to-construct-a-home">back</a> /
+<a href="/zine/z3">contents</a> /
+<a href="/zine/z3/06-memory-police">forth</a> →
+</div>
+<br>

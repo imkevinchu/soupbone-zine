@@ -6,8 +6,12 @@ ordering: 12
 ---
 
 <style>
-h1, h3, h4 {color: rgb(10, 97, 0);}
-div {text-align: center;}
+    h1, h3, h4 {
+        color: rgb(10, 97, 0);
+    }
+    div {
+        text-align: center;
+    }
 </style>
 
 <audio controls src="/assets/zine/z3/Applesauce.m4a">
