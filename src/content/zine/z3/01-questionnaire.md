@@ -5,6 +5,11 @@ pubDate: "December 2020"
 ordering: 1
 ---
 
+<style>
+h1, h3, h4 {color: #7c89e6;}
+div {text-align: center;}
+</style>
+
 1.  What moves you?
 
 2.  What was the last delicious thing you ate?
@@ -47,7 +52,6 @@ ordering: 1
 † [44 Questions to Ask While Waiting](https://radfag.com/2017/04/10/44-questions-to-ask-while-waiting/) by Benji Hart\
 † *The Vertical Interrogation of Strangers* by Bhanu Kapil
 
-<br>
 <hr>
 <br>
 <div>
