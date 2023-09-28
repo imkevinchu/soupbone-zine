@@ -69,3 +69,13 @@ Below, we’ve included examples of some spaces from Soupbone members along with
         margin-bottom: 2rem;
     }
 </style>
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z3/02-blingee-stamp">back</a> /
+<a href="/zine/z3">contents</a> /
+<a href="/zine/z3/04-how-to-construct-a-home">forth</a> →
+</div>
+<br>

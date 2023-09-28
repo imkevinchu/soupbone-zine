@@ -46,3 +46,12 @@ ordering: 1
 † [The Audre Lorde Questionnaire to Oneself](https://divyavictor.com/the-audre-lorde-questionnaire-to-oneself/) ed. Divya Victor\
 † [44 Questions to Ask While Waiting](https://radfag.com/2017/04/10/44-questions-to-ask-while-waiting/) by Benji Hart\
 † *The Vertical Interrogation of Strangers* by Bhanu Kapil
+
+<br>
+<hr>
+<br>
+<div>
+<a href="/zine/z3">contents</a> /
+<a href="/zine/z3/02-blingee-stamp">forth</a> →
+</div>
+<br>
