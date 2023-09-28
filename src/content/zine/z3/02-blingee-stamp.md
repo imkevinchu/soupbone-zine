@@ -12,6 +12,8 @@ ordering: 2
     figcaption {
         font-style: italic;
     }
+h1, h3, h4 {color: #688200;}
+div {text-align: center;}
 </style>
 
 _this is a tutorial for making falling sparkles, drifting petals, hovering birds, etc. for use in Blingee or PicMix compositions. we refer readers unfamiliar with either website to [this interview](https://blog.geocities.institute/archives/5348) for an illuminating introduction._
@@ -65,3 +67,13 @@ the last two categories are comprised of seamless animated stamps for which no s
 you may be surprised by the moment you finish crafting all the frames in your stamp. press play: how does it look? when you are ready, string the beads onto the necklace and tie the knot. press submit, firmly. take pride as you release your stamp into the world, adorning photos of strangers' loved ones and sometimes themselves. maybe one day you will find your stamp in the wild, remixed and transformed, looking a bit wiser and taller than you remember. what have you learned?
 
 perhaps, like me, you've acquired a greater sensitivity to the Blingee stamps in your everyday environment: the swaying of a neighbor's tree, the stream of water from a kitchen faucet, the passage of cars across a freeway. there's an astonishing richness to these idle-pose animations. how can something develop when it ends where it began; how can it do work without displacement? the stamps presented here reveal an ecosystem of potential responses. for me at least, Blingee stamps have helped me foreground my present priorities and future ambitions in the context of the revolving hours, days, and months of quarantine. I hope for you they can do something similar.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z3/01-questionnaire">back</a> /
+<a href="/zine/z3">contents</a> /
+<a href="/zine/z3/03-soupbone-spaces">forth</a> →
+</div>
+<br>

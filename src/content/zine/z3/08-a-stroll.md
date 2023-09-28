@@ -10,6 +10,8 @@ ordering: 8
         margin-top: 12rem;
         margin-bottom: 28rem;
     }
+h1, h3, h4 {color: rgb(115, 0, 96);}
+div {text-align: center;}
 </style>
 
 <a name="0"></a>

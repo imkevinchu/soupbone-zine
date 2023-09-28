@@ -44,6 +44,7 @@ div {text-align: center;}
 
 17. If you had the words, what would you say to them?
 
+<br>
 <hr>
 
 **Notes**

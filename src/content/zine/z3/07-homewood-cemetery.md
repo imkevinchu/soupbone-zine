@@ -5,6 +5,11 @@ pubDate: "December 2020"
 ordering: 7
 ---
 
+<style>
+h1, h3, h4 {color: rgb(51, 51, 51);}
+div {text-align: center;}
+</style>
+
 <audio controls src="/assets/zine/z3/Homewood Cemetery.m4a">
 <a href="/assets/zine/z3/Homewood Cemetery.m4a">Download audio</a>
 </audio>
@@ -35,3 +40,13 @@ Cut in the moss until coated with the sound of gravel turning under the wheels o
 In another bowl, blend the polyester plush, the velvet from the stag's antlers, and crushed black walnut liqueur until just combined. Spoon into a piping bag. Pipe a long, thin strand down one end of the sheet of dough. Roll the dough lengthwise until the strand is enclosed and seal with water from your water bottle. Cut down the end and repeat until you run out or until you get tired. *LOVE TO ALL!*
 
 Twist your filled tubes of dough into the shape adorning the door of your favorite mausoleum. It may take some practice, and it may be impossible. Place on a lined baking sheet and place in the oven for 20 minutes. While they bake, sit on the pyramid tomb's steps and watch the group of girls smoking a joint a few tombs down, and wish you'd asked to join them. Maybe next time you'll come later in the day and watch the sun go down, maybe you'll see a few more people or a few less as you break out of routine. But first, take out those twists from the oven and glaze them while still hot with the powdered sugar mixed with drool from the dog that just passed by. Let cool and watch the glaze harden into the texture of glue pulled off one's fingers. *It's been a fun life.*
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z3/06-memory-police">back</a> /
+<a href="/zine/z3">contents</a> /
+<a href="/zine/z3/08-a-stroll">forth</a> →
+</div>
+<br>
