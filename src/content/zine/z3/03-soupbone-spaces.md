@@ -5,6 +5,24 @@ pubDate: "December 2020"
 ordering: 3
 ---
 
+<style>
+    h1, h3, h4 {
+        color: rgb(214, 93, 45);
+    }
+    div {
+        text-align: center;
+    }
+    figure {
+        text-align: center;
+    }
+    figcaption {
+        font-style: italic;
+        font-size: larger;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+</style>
+
 Many of us have found ourselves spending more time than usual inside our homes or apartments in the past several months. In this activity, we would like to invite you to take a closer look at spaces you occupy every day and think about them in a new way.
 
 Go to a space that you identify with or that you feel is an extension of yourself. There, view the space through a series of lenses:
@@ -57,18 +75,6 @@ Below, we’ve included examples of some spaces from Soupbone members along with
     <figcaption>Color this with the feeling of getting into bed after a long day.</figcaption>
     <img src="/assets/zine/z3/soupbone-spaces/Kate.jpg">
 </figure>
-
-<style>
-    figure {
-        text-align: center;
-    }
-    figcaption {
-        font-style: italic;
-        font-size: larger;
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-    }
-</style>
 
 <br>
 <hr>

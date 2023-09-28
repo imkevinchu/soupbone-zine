@@ -5,6 +5,25 @@ pubDate: "December 2020"
 ordering: 4
 ---
 
+<style>
+    h1, h3, h4 {
+        color: rgb(242, 166, 0);
+    }
+    div {
+        text-align: center;
+    }
+    figure {
+        text-align: center;
+    }
+    figcaption {
+        font-style: italic;
+        font-size: smaller;
+    }
+    ul {
+        list-style-type: none;
+    }
+</style>
+
 #### DESCRIPTION:
 
 This report contains subjective instructions and patterns for preparing a set of 4 homes: a pillow fort, contemporary townhome, Georgian mansion, and hanok. These homes are 3-D models of images and, as ideas of homes, are not meant to be physically occupied. While constructing these homes, recall points of comfort and contention in regards to place and especially in those called home.
@@ -93,15 +112,12 @@ First designed in the Joseon dynasty, these are traditional Korean homes that ha
 
 [10] Where are you most comfortable? Is it an actual physical place?
 
-<style>
-    figure {
-        text-align: center;
-    }
-    figcaption {
-        font-style: italic;
-        font-size: smaller;
-    }
-    ul {
-        list-style-type: none;
-    }
-</style>
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z3/03-soupbone-spaces">back</a> /
+<a href="/zine/z3">contents</a> /
+<a href="/zine/z3/05-five-mini-film-reviews">forth</a> →
+</div>
+<br>
