@@ -312,7 +312,6 @@ Thank you Thalia, Clark, Damon, Katherine, Kevin, and Lauren for helpful feedbac
 <br>
 <hr>
 <br>
-<br>
 <div>
 ← <a href="/zine/z4/08-new-gods">retrace</a> /
 <a href="/zine/z4">contents</a> /

@@ -79,7 +79,6 @@ There is an opening and there is light.
 [^2]: ‘Ojīchan’ [おじいちゃん] is ‘grandfather’ in Japanese.
 
 <br>
-<br>
 <div>
 ← <a href="/zine/z4/03-offering">retrace</a> /
 <a href="/zine/z4">contents</a> /

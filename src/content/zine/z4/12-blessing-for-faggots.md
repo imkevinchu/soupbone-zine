@@ -180,7 +180,6 @@ Blessed be He who builds Heaven in Darkness! Blessed Blessed Blessed be He! Bles
 [^17]: Freeman. pg 13.
 
 <br>
-<br>
 <div>
 ← <a href="/zine/z4/11-ear-to-ear">retrace</a> /
 <a href="/zine/z4">contents</a> /

@@ -55,9 +55,7 @@ I would argue for a 'wilderness' that is inclusive. I would argue that we should
 
 ---
 
-_Title taken after Thoreau._
-
-[^1]: Sagan, Carl. Pale Blue Dot, 1994.
+[^1]: Sagan, Carl. *Pale Blue Dot*, 1994.
 [^2]: Hornbeck, Richard. “The Enduring Impact of the American Dust Bowl: Short- and Long-Run Adjustments to Environmental Catastrophe.” American Economic Review, 102, no. 4 (June 2012): 1477-1507.
 [^3]: Siouan is an outdated term that I use because it is the only collective noun that encompasses American Indian Nations of the great plains, including the Lakota, Dakota, Omaha, Ponca, Wichita, and Nakoda. The closest alternative would be the ‘Great Sioux Nation,’ or Oceti Sakowin (The Seven Fires Council of the Dakota, Nakota, and Lakota), whose lands include the Dakotas, most of Minnesota, and parts of Montana, Nebraska, and Wyoming. The great plains, the ecosystem to which I refer, includes a lot of land outside this area, the homelands of other American Indian Nations who speak Siouan languages. To best include non-Oceti Sakowin peoples, I use the term Siouan though I acknowledge its problematic nature and history.
 [^4]: Gish Hill, Christina. “Regrowning Indigenous Agriculture could Nourish People, Cultures, and the Land”, In These Times, Nov 21, 2021.
@@ -65,7 +63,6 @@ _Title taken after Thoreau._
 [^6]: Zambelitch, Ariel. “In Their Own Words: The ‘Water Protectors’ of Standing Rock”, wbur, Dec 11, 2016.
 [^7]: Delio, Ila, OSF. “Francis of Asissi, nature’s mystic”, Washington Post, March 20, 2013.
 
-<hr>
 <br>
 <div>
 ← <a href="/zine/z4/14-lukang">retrace</a> /

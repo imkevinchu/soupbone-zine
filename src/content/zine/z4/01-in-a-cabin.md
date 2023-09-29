@@ -1,5 +1,5 @@
 ---
-title: ""In a Cabin" and "Moment in the Mourning""
+title: "'In a Cabin' and 'Moment in the Mourning'"
 author: "Genevieve Marvin"
 pubDate: "May 2021"
 ordering: 1
