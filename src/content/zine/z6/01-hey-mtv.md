@@ -5,6 +5,11 @@ pubDate: "May 2022"
 ordering: 1
 ---
 
+<style>
+    h1, h3, h4 {color: rgb(16, 11, 143);}
+    div {text-align: center;}
+</style>
+
 **i. tchotchkes galore**
 
 The scene: a wall of shelves, stuffed and neatly lined with vinyl records. A leather armchair, vaguely Scandinavian in design. A thin, long desk (maple? oak? either way, the grain is pretty). A wooden foot with a spider image engraved in it from Laos. A Swiss flag mug. Stubby pencils kept in shot glasses. A bobblehead figure of Yasuhiro “Ryan” Ogawa.
@@ -92,3 +97,12 @@ Do you need your own dedicated workspace, à la Mahler’s hut or Murakami’s w
 Perhaps your workspace is only as suitable as your aesthetic and ethical relation to the world around you, and the way you move through the world as such. Wherever it may be, the workspace becomes the place where our private thoughts and intentions meet and collaborate with the material, felt world around us. Now, I’m fortunate enough to have my own workspace: a long and wide dining table repurposed into a desk on which I can spread all my books and papers. Even so, I still think about relationality through the books that gather next to my keyboard, the figurines that others have given me on my desk, the pens collected over the years. The window nearby overlooks a parking garage and the back alleys of apartment complexes, framed by vines of telephone wires; the sunsets, even from this view, are lovely. There is a bit of every past workspace in my current one, from the library carrels, the cafe bar counters, the park benches, the dinner tables of friends, the seat trays on trains, down to the keyboard that I have kept since high school.
 
 A place to think, a place to gather, a place to share. What is the perfect workspace, after all, other than the desire to find, with others, a space in which one can make meaning out of work, and a space in which work can be, through the sheer will of fantasy, something akin to beautiful?
+
+<br>
+<hr>
+<br>
+<div>
+<a href="/zine/z6">contents</a> /
+<a href="/zine/z6/02-cult-of-music-to-work-to">forth</a> →
+</div>
+<br>

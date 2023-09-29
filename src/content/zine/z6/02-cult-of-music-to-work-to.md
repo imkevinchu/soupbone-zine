@@ -6,6 +6,9 @@ ordering: 2
 ---
 
 <style>
+    body {background: #fffcec;} 
+    h1, h3, h4 {color: #a60d91;}
+    div {text-align: center;}
     .container {
         display: grid; 
         grid-template-columns: repeat(2, 1fr);
@@ -44,9 +47,21 @@ Ngai theorizes cute objects as inciting a desire to *consume*: to make them our
 
 Lofi Girl does not experiment; she does not get frustrated with her work or herself; she dutifully continues. She is not doing groundbreaking research; she is *maintaining*. Her work will never be done but instead continue in an endlessly looping GIF of obedient writing and reading. The Lofi Girl aesthetic might be said to be about maintaining sanity in the face of never-ending pressure to produce. Insidiously, it might also make those demands *seem* more humane when in fact they eat away at the boundaries between work and personal life. Why, dear reader, would you need work-life balance when the most aestheticized, desirable version of yourself brings work *into* your home? The cult of "music to work to" makes bleeding those boundaries into one another seem palatable, desirable, and, most importantly, safe. It's for, to return to the video description mentioned earlier, "a select few who work and chill"—both, together.
 
+---
+
 [^1]: Japan Nakama, “The Evolution of Lofi Girl” \
 https://www.japannakama.co.uk/the-evolution-of-lofi-girl/
 [^2]: YouTube official blog, “The Rise of the Lofi Girl”
 [^3]: Sophie Atkinson, “The ‘24/7 lo-fi hip hop beats’ girl is our social distancing role model,” _Dazed_
 [^4]: https://indoor-voices.blogspot.com/2020/03/did-she-always-know.html
 [^5]: Despite Lofi Girl’s rigorous study routines, the kawaii aesthetic emerged from student protests in late-1960s Japan. “Rebelling against authority,” recounts Hui-Ying Kerr, “Japanese university students refused to go to lectures, reading children’s comics (_manga_) in protest against prescribed academic knowledge.” https://theconversation.com/what-is-kawaii-and-why-did-the-world-fall-for-the-cult-of-cute-67187
+
+<br>
+<div>
+← <a href="/zine/z6/01-hey-mtv">back</a> /
+<a href="/zine/z6">contents</a> /
+<a href="/zine/z6/03-idyllic-scene-by-the-water">forth</a> →
+</div>
+<br>
+<hr>
+<br>

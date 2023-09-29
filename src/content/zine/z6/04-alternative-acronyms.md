@@ -5,6 +5,10 @@ pubDate: "May 2022"
 ordering: 4
 ---
 
+<style>
+    div {text-align: center;}
+</style>
+
 We met to speak about the woes of entering the workforce as young creatives and what we thought these work specific acronyms could mean, rather than the technical terms they are. Jargon has a way of simplifying language, and acronyms are a useful “code,” but they can also be alienating and create artificial barriers in work—from marketing to medicine and software engineering. Reimagining acronyms we encounter in our everyday work helps us critique and better engage with the power of language in labor. Whether it’s doodling at a desk during working hours or making art afterward to relax, these pieces are meaningful to us for different reasons. Please enjoy.
 
 #### Genevieve
@@ -62,3 +66,13 @@ CPC is a common acronym used in advertising, which means Cost Per Click. It's us
 ![](/assets/zine/z6/alternative-acronyms/acronym11.png)
 
 pCTR means predicted Click Through Rate, which in advertising is the probability someone will click an ad. Here, it means please Clean The Room.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z6/03-idyllic-scene-by-the-water">back</a> /
+<a href="/zine/z6">contents</a> /
+<a href="/zine/z6/05-bartleby-the-marketer">forth</a> →
+</div>
+<br>

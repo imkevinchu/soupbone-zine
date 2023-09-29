@@ -5,6 +5,12 @@ pubDate: "May 2022"
 ordering: 5
 ---
 
+<style>
+    body {background: #fff3fd;} 
+    h1, h3, h4 {color: #1a7338;}
+    div {text-align: center;}
+</style>
+
 **Author's Note:** When we were brainstorming ideas for this zine as a collective, this idea of adapting Bartleby, the Scrivener into a modern retelling popped into my head. I had this vague idea that went something like "millennial burnout something something apathy something tech industry something something." When it came time to sit down and write, I was in the midst of final papers and projects for my penultimate semester of grad school, and since fiction has never been a strong suit of mine, I decided that I was going to pull up [Melville's story on Gutenberg](https://www.gutenberg.org/ebooks/11231) in one window, my blank Google Docs page in another, and write a line-by-line retelling.
 
 As I was writing, it occurred to me that I was basically doing what Bartleby does, with the added element of pausing to adapt to modern idiosyncrasies like references to Slack. But I wasn't really creating anything on my own, just working off of the work of Melville 169 years ago. In a way, I'm also transtextually incorporating the collaborative style of working in a small startup like the characters in the story here are into Melville's piece, taking his work and expanding it in a 2022 context. I don't know if I really accomplished my goal of something something burnout something, except for the fact that I feel like most people can relate in some level to Bartleby, and their proclivity to just do nothing in a world where we always feel the need to do something, even if that's just scrolling through TikTok or finding a new way to brew coffee.
@@ -263,3 +269,12 @@ The commissary manager came up to me to tell me my payment went through, and Bar
 I never found out who Bartleby really was after I left the prison. I did hear something though, after they died, but take it with a grain of salt—you know how fake news gets around. He used to work in the digital archive at Google, and was in charge of deleting information that was never claimed or searched. Could you imagine having the power to wipe something from history like that? Sometimes they're online memorial pages for someone who's passed—then what? The internet is so full of life, and death.
 
 Ah Bartleby! Ah humanity!
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z6/04-alternative-acronyms">back</a> /
+<a href="/zine/z6">contents</a> /
+</div>
+<br>
