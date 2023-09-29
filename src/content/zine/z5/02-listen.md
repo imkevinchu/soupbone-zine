@@ -5,6 +5,11 @@ pubDate: "November 2021"
 ordering: 2
 ---
 
+<style>
+    h1, h3, h4 {color: rgb(114, 135, 133);}
+    div {text-align: center;}
+</style>
+
 Name: <ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ins>
 
 > With this worksheet, find somewhere quiet where you can be alone for around 15 minutes. Don't think too hard about these questions; they are meant to carry ideas from one place to another. When you are done, you may flip the paper over and read quietly at your desk.
@@ -26,3 +31,13 @@ Name: <ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 5. The sounds in this worksheet, in the room around us: list them. There are at least 3 but no more than 5.
 
 [Download a PDF of this worksheet](/assets/zine/z5/Listen-Genevieve-Marvin.pdf)
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z5/01-slack-ode">back</a> /
+<a href="/zine/z5">contents</a> /
+<a href="/zine/z5/03-epicurus">forth</a> →
+</div>
+<br>

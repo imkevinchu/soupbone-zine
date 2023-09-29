@@ -6,6 +6,7 @@ ordering: 7
 ---
 
 <style>
+    div {text-align: center;}
     .container {
         display: grid; 
         grid-template-columns: repeat(3, 1fr);
@@ -123,3 +124,13 @@ I have lots and lots and lots of thoughts about Punk. There are a lot of rare Pu
 </figure>
 
 Brand New and unopened. We got this record a couple of days before the sexual assault allegations agains Brand New’s frontman, Jesse Lacey, came out. We never opened it, but also never got rid of it. Even if you can separate the artist from the art, can you separate the memory from the object?
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z5/06-tone-poem">back</a> /
+<a href="/zine/z5">contents</a> /
+<a href="/zine/z5/08-pitchfork">forth</a> →
+</div>
+<br>

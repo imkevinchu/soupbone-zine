@@ -5,6 +5,11 @@ pubDate: "November 2021"
 ordering: 4
 ---
 
+<style>
+    h1, h3, h4 {color: #b52f65;}
+    div {text-align: center;}
+</style>
+
 At the office, I tried to take off\
                         my ears & hand them back to the white\
 palms.        They no longer fit.        Notes from the doctor's teeth:\
@@ -49,4 +54,14 @@ my fingers. My ears            throbbed as if stifling\
 
 ![](/assets/zine/z5/DSC_0034.jpg)
 
-This piece contains formatting that may vary depending on screen size. To view the intended formatting, [please refer to this PDF](/assets/zine/z5/EverAfter-HZ.pdf).
+*This piece contains formatting that may vary depending on screen size. To view the intended formatting, [please refer to this PDF](/assets/zine/z5/EverAfter-HZ.pdf).*
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z5/03-epicurus">back</a> /
+<a href="/zine/z5">contents</a> /
+<a href="/zine/z5/05-brahms">forth</a> →
+</div>
+<br>

@@ -5,6 +5,11 @@ pubDate: "November 2021"
 ordering: 9
 ---
 
+<style>
+    h1, h3, h4 {color: #994545;}
+    div {text-align: center;}
+</style>
+
 Let's say your heart was broken two weeks ago. You're not yet well again, but you want to have a functional day—maybe even a good day, if that'll be allowed. You don't want to howl along to Adele's "Someone Like You" and obliterate your tenuous sense of peace, but you're also not in the mood to blast Whitney Houston's "I Wanna Dance with Somebody (Who Loves Me)" and force a greater joy than you can manage.
 
 You want something that will allow you to feel your feelings without falling apart. You want music that will acknowledge your sorrows in a way that lightens rather than intensifies them. As indie pop singer Caroline Rose says, "sometimes a sad song just needs a cocktail."
@@ -64,3 +69,13 @@ That is the hallmark of sad songs with cocktails: they do not exacerbate; they s
 "More Of The Same" and "Slide Tackle" allow you to probe burnout and mental illness without making you want to give up and hide in a dark room. "Cry" and "Stayaway" make it seem possible to be good to yourself when others were cruel. While their lyrics may not be cheerful, these songs nevertheless sound upbeat enough that you can listen to them even when you don't need their unique brand of healing. Like the good friend witnessing the chorus of "Cry," these songs make good days better and bad days easier.
 
 The bar at which these songs serve their cocktails is a sort of hybrid space in which one half offers a mahogany and velvet lounge with a fireplace and the other half sparkles with a disco ball and a light-up dancefloor. You can sit comfortably with emotions that usually cause pain, knowing that good times are across the room. This is a capacious place where you are neither rushed to feel better nor trapped in wallowing. That extraordinary resilience that an ordinary life requires? At this bar, it's all around you.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z5/08-pitchfork">back</a> /
+<a href="/zine/z5">contents</a> /
+<a href="/zine/z5/10-circling-back">forth</a> →
+</div>
+<br>

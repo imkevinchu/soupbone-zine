@@ -5,6 +5,11 @@ pubDate: "November 2021"
 ordering: 6
 ---
 
+<style>
+    h1, h3, h4 {color: rgb(54, 94, 201);}
+    div {text-align: center;}
+</style>
+
 ##### A Tone Poem in Twelve Frequencies
 
 1.
@@ -54,3 +59,13 @@ Sounds that have passed through me: firecrackers; spit-roast; boots on grass; bo
 12.
 
 In Puerto Rico, there is an aluminum dish of a thousand feet in diameter, built inside the remains of a karst sinkhole. The dish is a part of the Arecibo Observatory, a radio telescope once employed in the search for extraterrestrial intelligence program. In 2020, the National Aeronautics and Space Administration decommissioned the telescope after its support structure buckled. Far off, the Voyager I spacecraft had already exited the orbit of our solar system. On it resides a golden record containing sounds, voices, and music of the planet. Had the Arecibo dish maintained its integrity, perhaps they would have heard us before the record arrived. Or perhaps we would have heard them first. To be a golden disk in space seems terribly lonely. Are there drive-thru cafes? Movie theaters? Disco parties? What does space sound like? A hundred years down the line, even after they have found it, listened to it, acknowledged all its beautiful and difficult and unlikely resonances, they will say, *it sounds lovely*, and they will ask, but *what is it*?
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z5/05-brahms">back</a> /
+<a href="/zine/z5">contents</a> /
+<a href="/zine/z5/07-record-collection">forth</a> →
+</div>
+<br>

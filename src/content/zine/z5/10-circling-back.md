@@ -5,6 +5,11 @@ pubDate: "November 2021"
 ordering: 10
 ---
 
+<style>
+    h1, h3, h4 {color: #5d8f9c;}
+    div {text-align: center;}
+</style>
+
 I am twenty-three years old. Statistically, on average, the music I like most is already behind me.[^1] I might be in-the-know about the latest hits, but rarely am I of them, it feels. This frustrates me because of my residual entitlement: I’m still coming off the high of having been within the music industry’s most commercially catered-to age bracket. Maybe, here and there, I’m able to place my finger on the pulse of the sound of today and quip a diagnosis, but to actually sense any of it beating within my own chest? Unlikely.
 
 At least there’s a flip side: now I can place my favorite music within hindsight. Sure, memories deteriorate and sentimentalize, but to behold something fully in frame it helps to have distance from it. Without it, narrative collapses into play-by-play. And when are we prompted to look back? When we fall, tripping on some paradox in a story we’ve been telling ourselves, a skip in the record. Or when we sense something has left us, and are unsure if it slipped from our lives just now or much earlier, its fading presence unseen. My favorite music, since I was a teen, is—to an extent, to some people—labeled “alternative R&B,” and with all the maybe-misguided authority of a twenty-three-year-old male music fan, let me try to convince you (and myself along the way) that we got it wrong, just a bit wrong, that what this term refers to used to be sort of nothing, and now is sort of everything.
@@ -115,3 +120,15 @@ To close this out, I feel like I owe you a little bit about why I like R&B so mu
 [^46]: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74?si=39dd8002a6284f71
 [^47]: https://open.spotify.com/playlist/0eeKZp7perkDfgJQt4pc6I?si=b470e6eb146b43ec
 [^48]: https://open.spotify.com/playlist/37i9dQZF1DX6KOz8PNkOlS?si=0e48c8ab8f984464
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z5/09-tackling-the-void">back</a> /
+<a href="/zine/z5">contents</a> /
+<a href="/zine/z5/11-home-video">forth</a> →
+</div>
+<br>
+<hr>
+<br>

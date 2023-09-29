@@ -5,6 +5,11 @@ pubDate: "November 2021"
 ordering: 3
 ---
 
+<style>
+    h1, h3, h4 {color: rgb(112, 88, 88);}
+    div {text-align: center;}
+</style>
+
 He deemed *what's real\
 is what we sense* but let's\
 be real what if
@@ -56,3 +61,13 @@ from the bathroom sink stack them
 for the rats downstairs I wake\
 my dreams to silence I try I\
 try I try & I am
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z5/02-listen">back</a> /
+<a href="/zine/z5">contents</a> /
+<a href="/zine/z5/04-ever-after">forth</a> →
+</div>
+<br>

@@ -5,6 +5,11 @@ pubDate: "November 2021"
 ordering: 8
 ---
 
+<style>
+    h1, h3, h4 {color: rgb(224, 165, 45);}
+    div {text-align: center;}
+</style>
+
 Up until a couple of decades ago, it was difficult to get immediate information on new albums without purchasing them yourself. Platforms like *Spin* and *Rolling Stone* played a concrete role in helping potential listeners decide where to spend their money, and in the process, also contributed to the buzzy atmosphere around an album release. Now, if you're quick, you might listen to a new Spotify release before the professional reviews of them are edited and up on a website. And so the critic's power seems to have run a little dry.
 
 And what's wrong with that, one might ask. Music has never been defined by professional critics (who are frequently not musicians themselves). All art has a history of deriding critics as talentless killjoys, brimming either with ressentiment or overeager admiration. Of all the arts though, music and film probably evoke the fiercest protectiveness in their consumers: neither medium requires literacy (in the narrowest sense) as a precondition for pleasure, and we experience both in the fragile bliss of real time while still allowing for repeated encounters. And while I've found that the film bro often successfully intimidates people, the music nerd's power rarely trumps the persistence of a melody, the seductiveness of a groove, or the gut-thump of a beat. No surprise then that fanzines steeped in subculture like *Creem* ("America's only Rock 'n' Roll magazine") or *Punk!* never seemed less sophisticated than the music critic, whose main job was to mediate between the market and music lovers.
@@ -40,3 +45,13 @@ _Things Take Time, Take Time_, studio album by Courtney Barnett (Nov 2021): We k
 *Haru to Shura* (also written *harutosyura*), studio album by Haru Nemuri (2018): Haru, you were my voice for the angstiest pandemic days of 2020. I found your album on Bandcamp where a few critics gushed about it, calling it an exuberant "fever-dream." I'm part of that dreamscape now. When I listen to the album, I am flooded with memories of blasting it while moving around to mundane chores in my room at the end of the day. Looking out of the seventh-floor windows of my campus housing into wintry night skies, I felt buoyed by the most perfect union of anger and euphoria in sound that I'd ever heard. Everything was electric, from my freshly laundered clothes to the yellow moon. The internet tells me you're some kind of underground child of J-Pop. If this is what J-Pop can be---frantic spoken word swerving into anthemic chants, English tossed around and pulled into the arms of Japanese, a swirl of synthetic sound that somehow seethes with emotion---then please give me more J-Pop. I've been following your recent work eagerly. I notice it's getting slicker in sound, more explicitly political in its messaging. You're covering Pussy Riot, [quoting Derrida](http://www.harunemuri.love/) (!!!), appearing on KEXP to the bemusement and horror of several listeners (and the ecstasy of others). I'd be slightly worried if it wasn't all driven by an energy I can recognize from *Haru to Shura*. When you run around on stage tottering in pigtails like a drunken teen, people might be tempted to scoff, but those unearthly screams that punctuate your performances should set them straight. Here's to more *DISTORTION DISTORTION DISTORTION DISTORTION!!!!*
 
 _Nobody Wants to Be Here and Nobody Wants to Leave_, studio album by the Twilight Sad (2014): I actually discovered this album from a guest recommendation on James Acaster's album and fell deeply in love. Its sound is squarely in the territory of post-punk and alternative rock; basically, indie rock before it became a thing. The atmosphere isn't industrial as much as urban decline, ghostly, but with such a strongly grounded sense of melody that it draws you in through the pervasive fog of sad sounds. It also sounds unmistakably Scottish, which gives it a regional and not just temporal rootedness (the urge to identify music mostly by time is partially tied to music's own reliance on time but also based on the assumption that we all know where it's coming from). Some sad music makes you stew in its subterranean depths before you come up gasping for air; some sad music is cathartic in its anguish. This is neither; it's a tribute to the sheer melancholic beauty of the twilight zone. You don't have to be self-indulgent to revel in it.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z5/07-record-collection">back</a> /
+<a href="/zine/z5">contents</a> /
+<a href="/zine/z5/09-tackling-the-void">forth</a> →
+</div>
+<br>

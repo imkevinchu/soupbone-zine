@@ -5,6 +5,11 @@ pubDate: "November 2021"
 ordering: 11
 ---
 
+<style>
+    h1, h3, h4 {color: rgb(161, 98, 156);}
+    div {text-align: center;}
+</style>
+
 If you'd asked me earlier this year what the key to understanding contemporary indie music was, my answer would've been simple: the internet. The indie scene is increasingly stuffed with early-career musicians whose adulthoods---and thus musical careers---have been indelibly shaped by the onset of the internet age. They announce album releases through [pithy tweets](https://twitter.com/Jbrekkie/status/1366765067245678594?s=20). They play on Jimmy Kimmel Live or NPR's TinyDesk series from [their own bedrooms (and bathrooms)](https://www.facebook.com/watch/?v=632033517528956). Their songs embody the kind of personal confession that could only have come from an internet culture in which we curate, stage, and perform those spectres called our "selves" with sharp and unending precision.
 
 But Lucy Dacus' *Home Video*, released this June by Matador Records, is insistently analog---right down to its promotional tactics. "When you get a VHS tape in the mail from @lucydacus," *The Alternative* [tweeted](https://twitter.com/GetAlternative/status/1365369302258483201) on February 26th, "you find a VHS player and you watch it asap!!!" In the attached video, a disembodied hand pushes the tape into place. The opening bars of Dacus' single "Thumbs" filter through, made fuzzier and somehow more ethereal by the player's lo-fi speakers.
@@ -42,3 +47,12 @@ In all of the above senses, *Home Video* subtly collapses and meddles with tim
 Even Dacus' VHS tape is, in the end, a digital advertising strategy: no matter how analog the object, it will be shared and propagated over social media. It also begs the question: whose nostalgia, and for what? Dacus was born in 1995; by the early 2000s, when she (and her fans) would have been old enough to remember listening to music, analog audio and video equipment were on their way out. Instead, the strategy taps into music critics' nostalgia---and our culture's broader fascination with all things old.
 
 What I took away from *Home Video* was a lesson in how to use nostalgia generously; to look back at our mistakes and old embarrassments with a gentle eye and the knowledge that it did, after all, pass---that, as Dacus sings in "First Time," "You can't feel it for the first time a second time." *Home Video* is an especially beautiful way to learn to shed our pandemic time-warp goggles---our nostalgia for a pre-lockdown past and insistent fixation on a future that will be brighter, lighter, anything other than this.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z5/10-circling-back">back</a> /
+<a href="/zine/z5">contents</a>
+</div>
+<br>
