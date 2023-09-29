@@ -4,6 +4,14 @@ author: "Phoebe Pan"
 pubDate: "December 2022"
 ordering: 1
 ---
+<style>
+    body {
+        background-image: url("/assets/zine/z7/p1.gif");
+        background-repeat: repeat;
+    } 
+    h1, h3, h4 {color: #454B1B;}
+    div {text-align: center;}
+</style>
 
 > **Block** is a letter-writing role-playing game (RPG) about moving through a creative block with tarot cards as your guide; think of it as a cross between a farm life simulator and an artist's residency. A source of inspiration for the letter-writing system that I'm using is Tyler Crumrine's [Grandpa's Farm](https://possible-worlds-games.itch.io/grandpas-farm).
 >
@@ -36,3 +44,12 @@ Establish the setting of your game: a quiet residency, a haunted cabin, an inter
 4.  **Completing a letter is considered one turn**. If you're playing with someone else, you can either wait until you've received their letter to begin your turn, or agree upon a time when you will both share your turn's letters simultaneously, or play at your own polyrhythmic paces.
 
 5.  After each turn, place the cards you used in a discard pile and redraw from the Major and Minor Arcana decks, repeating from step one. Based on the number of Major Arcana cards in a tarot deck, you should end up with a total of 22 letters. Have fun!
+
+<br>
+<hr>
+<br>
+<div>
+<a href="/zine/z7">contents</a> /
+<a href="/zine/z7/02-wordplays">forth</a> →
+</div>
+<br>

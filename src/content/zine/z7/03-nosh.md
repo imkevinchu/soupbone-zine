@@ -5,6 +5,15 @@ pubDate: "December 2022"
 ordering: 3
 ---
 
+<style>
+    body {
+        background-image: url("/assets/zine/z7/p3.gif");
+        background-repeat: repeat;
+    } 
+    h1, h3, h4 {color: #8B4000;}
+    div {text-align: center;}
+</style>
+
 **Game Pieces**:
 
 - Baguette loaves / breadsticks
@@ -149,6 +158,18 @@ Before gameplay, have people bring a food that can be portioned into small sizes
 
 49. What are your thoughts on naptime?
 
+---
+
 Further references:
 
 [181 Prompts to Inspire Writing and Discussion, NY Times](https://www.nytimes.com/2019/06/11/learning/181-prompts-to-inspire-writing-and-discussion.html)
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z7/02-wordplays">back</a> /
+<a href="/zine/z7">contents</a> /
+<a href="/zine/z7/04-youth-group">forth</a> →
+</div>
+<br>

@@ -5,6 +5,14 @@ pubDate: "December 2022"
 ordering: 4
 ---
 
+<style>
+    body {
+        background-image: url("/assets/zine/z7/p4.jpg.gif");
+        background-repeat: repeat;
+    } 
+    div {text-align: center;}
+</style>
+
 **Executive Summary**
 
 The concept for Youth Group has been bouncing around in my head for a while, just because of how ridiculous it is, yet also how genius. Whenever I talk to people who were a part of the youth group I attended in high school, after a good amount of trauma-bonding and asking ourselves, "what the hell was that about?", we always reminisce over the games we played. So, I wondered, how come we never get the chance to play those games as an adult?
@@ -36,3 +44,13 @@ Other bars that provide entertainment and bands would be the primary competition
 As of now, [29% of millennials have no religious affiliation](https://www.cnbc.com/2021/12/29/millennials-lead-shift-away-from-organized-religion-as-pandemic-tests-faith.html), an increase of 6 points since 2016. This shows a growing number of the population of people who may have grown up in the church, participating in youth groups and games, but have since left.
 
 However, the market of people missing out on "youth group games" extends beyond current and former church-goers. The types of group games played in youth groups across the country often overlap with other childhood activities such as scout troups and summer camps. This gives Youth Group a valuable opportunity to provide a place for adults to reconnect with their inner child.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z7/03-nosh">back</a> /
+<a href="/zine/z7">contents</a> /
+<a href="/zine/z7/05-lucky-charms">forth</a> →
+</div>
+<br>

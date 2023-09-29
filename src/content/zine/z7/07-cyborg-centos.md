@@ -5,7 +5,17 @@ pubDate: "December 2022"
 ordering: 7
 ---
 
+<style>
+    body {
+        background-image: url("/assets/zine/z7/p7.gif");
+        background-repeat: repeat;
+    } 
+    h1, h3, h4 {color: #51414F;}
+    div {text-align: center;}
+</style>
+
 > _Centos collaged from the following song lyrics: "Cyber Stockholm Syndrome" by Rina Sawayama; "Faceshopping" by SOPHIE; "Immaterial" by SOPHIE; "Simulation Swarm" by Big Thief; "Spud Infinity" by Big Thief; "Femmebot" by Charli XCX; "home with you" by fka twigs; "Sci-fi Silence" by Florist; "N.E.O." by CHAI; "Take A Byte" by Janelle Monáe; "The Princess and the Clock" by Kero Kero Bonito._
+
 
 **_Cyborg Cento (Tiffany's Version)_**
 
@@ -78,3 +88,13 @@ Tell me, where do I exist?
                                                                         *that silеnce, sci-fi silence*
 
 *I'll love you in this space and time*
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z7/06-stop-drop-collage">back</a> /
+<a href="/zine/z7">contents</a> /
+<a href="/zine/z7/08-promise-burden">forth</a> →
+</div>
+<br>

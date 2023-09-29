@@ -5,6 +5,15 @@ pubDate: "December 2022"
 ordering: 5
 ---
 
+<style>
+    body {
+        background-image: url("/assets/zine/z7/p5.png");
+        background-repeat: repeat;
+    } 
+    h1, h3, h4 {color: #5D3FD3;}
+    div {text-align: center;}
+</style>
+
 My partner (who goes by Lucky) has recently amassed a steady following on his Twitch channel, and asked me if I'd be willing to draw some proprietary digital emotes for his stream chats. I thought it was a perfect opportunity to include the six emotes in our "Play" issue, as not only do they embody frivolity, creativity, and a happy-go-lucky air, but they also represent an aspect of our relationship I love---reconnecting with my inner child and not taking ourselves too seriously!
 
 1) **"Fancy L"**
@@ -44,3 +53,13 @@ Empoleon is a majestic Pokémon with an arresting presence (and weirdly also loo
 ![](/assets/zine/z7/empoleon.jpg)
 
 _All drawn by hand using ProCreate on iPad._
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z7/04-youth-group">back</a> /
+<a href="/zine/z7">contents</a> /
+<a href="/zine/z7/06-stop-drop-collage">forth</a> →
+</div>
+<br>

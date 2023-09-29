@@ -6,9 +6,15 @@ ordering: 6
 ---
 
 <style>
+  body {
+        background-image: url("/assets/zine/z7/p6.gif");
+        background-repeat: repeat;
+    } 
+    h1, h3, h4 {color: #AA336A;}
+    div {text-align: center;}
+  
   .chatbox {
   padding: 0.5rem;
-  background: white;
   font-family: sans-serif;
   }
 
@@ -318,9 +324,13 @@ ordering: 6
 <div class="image-gallery">
 <a target="_blank" href="https://galleryviewer.com/en/artwork/11035/tampan-tree-of-life-in-blossom" class="image-link"><img width="1140" height="1200" width_o="1140" height_o="1200" src="/assets/zine/z7/afeie7gv1vdqstssu5cd.jpg" data-mid="162214333" border="0" alt="Jennifer Tee, Tampan Tree of Life in Blossom, 2019" data-caption="Jennifer Tee, Tampan Tree of Life in Blossom, 2019"/></a>
 </div><br>
+
 <br>
+<hr>
 <br>
+<div>
+← <a href="/zine/z7/05-lucky-charms">back</a> /
+<a href="/zine/z7">contents</a> /
+<a href="/zine/z7/07-cyborg-centos">forth</a> →
+</div>
 <br>
-<div style="text-align: center">←&nbsp;<a href="Lucky-Charms-Emote-Collection" rel="history">back</a>&nbsp;⭐️&nbsp;<a href="Z7-Play" rel="history">home</a>&nbsp;⭐️&nbsp;<a href="Cyborg-Centos" rel="history">forth</a> →</div><br>
-<br>
-<br></div>

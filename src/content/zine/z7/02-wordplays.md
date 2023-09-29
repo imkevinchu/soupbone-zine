@@ -5,6 +5,15 @@ pubDate: "December 2022"
 ordering: 2
 ---
 
+<style>
+    body {
+        background-image: url("/assets/zine/z7/p2.gif");
+        background-repeat: repeat;
+    } 
+    h1, h3, h4 {color: #0047AB;}
+    div {text-align: center;}
+</style>
+
 > Explanation: Last year, when I was in Oxford and Clark was in Boston, we got into the practice of playing improv games together during video calls. Neither of us are particularly gifted in the theatrical arts, so the games we ended up playing the most were more like simple guides to collaborative storytelling. Now that we're both living in Boston, we'll often strike up a game during an empty moment: waiting in line, walking to a friend's place, passing the minutes before a concert starts. Our go-to's are "ABC" and "fortunately/unfortunately," whose rules we'll explain below.
 >
 > Improv games have a number of innately appealing characteristics: they're portable; require absolutely no materials besides your mind (and maybe that of a pal or two); and---this is an essential ingredient that virtually guarantees an enjoyable "play" session, I'd argue---they often turn out to be hilarious. We urge you to grab a friend, or a benevolent roommate, or your mom, or a pet, or your bus-seat partner, and give these a whirl.
@@ -69,3 +78,13 @@ Unfortunately, this frustrates Echo, and she's frozen my debit card until I prom
 Fortunately, the girl has mad good taste.\
 Unfortunately, I zeroed out my savings after she had me cover my house's walls and windows in tasteful '70s decor.\
 Fortunately, the library down the road is hiring...
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z7/01-block">back</a> /
+<a href="/zine/z7">contents</a> /
+<a href="/zine/z7/03-nosh">forth</a> →
+</div>
+<br>
