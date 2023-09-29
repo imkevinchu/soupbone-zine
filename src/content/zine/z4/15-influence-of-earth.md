@@ -65,11 +65,12 @@ _Title taken after Thoreau._
 [^6]: Zambelitch, Ariel. “In Their Own Words: The ‘Water Protectors’ of Standing Rock”, wbur, Dec 11, 2016.
 [^7]: Delio, Ila, OSF. “Francis of Asissi, nature’s mystic”, Washington Post, March 20, 2013.
 
-<br>
 <hr>
 <br>
 <div>
 ← <a href="/zine/z4/14-lukang">retrace</a> /
 <a href="/zine/z4">contents</a>
 </div>
+<br>
+<hr>
 <br>

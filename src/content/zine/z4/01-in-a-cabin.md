@@ -1,5 +1,5 @@
 ---
-title: "In a Cabin and Moment in the Mourning"
+title: ""In a Cabin" and "Moment in the Mourning""
 author: "Genevieve Marvin"
 pubDate: "May 2021"
 ordering: 1
@@ -39,6 +39,8 @@ on the ground, waiting
 patiently to become soil\
 for God’s next planting?
 
+<br>
+<br>
 ### Moment in the Mourning
 
 Bird sings its repetitive call by the pond,\

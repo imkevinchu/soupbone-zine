@@ -176,11 +176,11 @@ Maybe it's also true that I do search for the big doors—through music, through
 [^4]: Anne Helen Petersen, “Consider the Quasi-Commune,” Culture Study, March 14th, 2021, <https://annehelen.substack.com/p/consider-the-quasi-commune>
 
 <br>
-<hr>
-<br>
 <div>
 ← <a href="/zine/z4/01-in-a-cabin">retrace</a> /
 <a href="/zine/z4">contents</a> /
 <a href="/zine/z4/03-offering">onward</a> →
 </div>
+<br>
+<hr>
 <br>
