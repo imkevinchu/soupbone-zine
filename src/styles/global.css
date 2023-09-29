@@ -108,3 +108,7 @@ figcaption {
   font-size: 0.7em;
   text-align: center;
 }
+audio {
+  width: 100%;
+  height: auto;
+}
