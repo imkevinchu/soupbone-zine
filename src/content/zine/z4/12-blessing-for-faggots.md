@@ -6,6 +6,9 @@ ordering: 12
 ---
 
 <style>
+    body {background: rgba(152, 220, 193, 0.03);}
+    h1, h3, h4 {color: rgb(237, 145, 109);}
+    div {text-align: center;}
     figure {
         text-align: center;
     }
@@ -175,3 +178,13 @@ Blessed be He who builds Heaven in Darkness! Blessed Blessed Blessed be He! Bles
 [^15]: Nguyen, Tan Hoang, and William Higgins. K.I.P. Vancouver, B.C.: Video Out Distribution, 2002.
 [^16]: Freeman. Time Binds. 2010, pg 9.
 [^17]: Freeman. pg 13.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z4/11-ear-to-ear">retrace</a> /
+<a href="/zine/z4">contents</a> /
+<a href="/zine/z4/13-guided-meditation">onward</a> →
+</div>
+<br>

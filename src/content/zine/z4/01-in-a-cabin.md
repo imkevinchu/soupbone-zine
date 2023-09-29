@@ -4,6 +4,11 @@ author: "Genevieve Marvin"
 pubDate: "May 2021"
 ordering: 1
 ---
+<style>
+body {background: rgba(245, 255, 251, 1);}
+h1, h3, h4 {color: rgb(17, 140, 93);}
+div {text-align: center;}
+</style>
 
 ### In a Cabin
 
@@ -67,3 +72,12 @@ Snails wriggle along lavender stems —\
 hunting for a sweet sip in the tiny purple cups —
 
 in this moment I've taken to mourn.
+
+<br>
+<hr>
+<br>
+<div>
+<a href="/zine/z4">contents</a> /
+<a href="/zine/z4/02-listen-with-me">onward</a> →
+</div>
+<br>

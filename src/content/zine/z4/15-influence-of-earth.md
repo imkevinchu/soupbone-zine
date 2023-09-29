@@ -5,6 +5,12 @@ pubDate: "May 2021"
 ordering: 15
 ---
 
+<style>
+    body {background: rgba(101, 73, 51, 0.08);}
+    h1, h3, h4 {color: rgb(102, 73, 51);}
+    div {text-align: center;}
+</style>
+
 Sometimes, while I walk through the woods in the summer or the fall, light filters through the trees and refracts onto the grass and mud in the same way that light filters through the stained glass windows of a church. I invariably stop and listen to the quietness around me, only disturbed by the occasional bird or squirrel.
 
 *With muscles artificially tight, (from minutes and hours cramped inside a metal-plastic box hurtling down the highway) the cobwebs across my soul stretch and blow away. The air outside the car is clean and different-smelling, and all I can see are leaves and trees and green and brown—and it is not concrete and grey—and I see the sun and feel the wind and track the clouds and think that *this* is baptism.*
@@ -58,3 +64,12 @@ _Title taken after Thoreau._
 [^5]: Wichita and Affiliated Tribes, “People of the Grass House: 1750-1820”. Accessed April 19, 2021. https://wichitatribe.com/history/people-of-the-grass-house-1750-1820.aspx
 [^6]: Zambelitch, Ariel. “In Their Own Words: The ‘Water Protectors’ of Standing Rock”, wbur, Dec 11, 2016.
 [^7]: Delio, Ila, OSF. “Francis of Asissi, nature’s mystic”, Washington Post, March 20, 2013.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z4/14-lukang">retrace</a> /
+<a href="/zine/z4">contents</a>
+</div>
+<br>

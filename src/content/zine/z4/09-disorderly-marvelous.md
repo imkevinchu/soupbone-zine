@@ -47,6 +47,7 @@ ordering: 9
     color: black;
     background-color: #fff;
     }
+    div {text-align: center;}
 </style>
 
 <div class="messages">
@@ -311,4 +312,10 @@ Thank you Thalia, Clark, Damon, Katherine, Kevin, and Lauren for helpful feedbac
 <br>
 <hr>
 <br>
-←  retrace / contents / onward  →
+<br>
+<div>
+← <a href="/zine/z4/08-new-gods">retrace</a> /
+<a href="/zine/z4">contents</a> /
+<a href="/zine/z4/10-this-too-prayer">onward</a> →
+</div>
+<br>

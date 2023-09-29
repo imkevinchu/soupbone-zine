@@ -5,6 +5,11 @@ pubDate: "May 2021"
 ordering: 10
 ---
 
+<style>
+    h1, h3, h4 {color: rgb(84, 107, 171);}
+    div {text-align: center;}
+</style>
+
 These days, I’m trying to gather life;
 not the best, nor the worst
 just something to get me by.
@@ -61,3 +66,13 @@ hear hope in every catch and sigh of your breath—
 didn’t I tell you?
 
 This, too, is prayer.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z4/09-disorderly-marvelous">retrace</a> /
+<a href="/zine/z4">contents</a> /
+<a href="/zine/z4/11-ear-to-ear">onward</a> →
+</div>
+<br>

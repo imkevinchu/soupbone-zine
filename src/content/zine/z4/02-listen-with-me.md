@@ -6,6 +6,9 @@ ordering: 2
 ---
 
 <style>
+    body {background: #f8f8f8;}
+    h1, h3, h4 {color: #595959;}
+    div {text-align: center;}
     figure {
         text-align: center;
     }
@@ -171,3 +174,13 @@ Maybe it's also true that I do search for the big doors—through music, through
 [^2]: Esther Perel, “We Are All Burnt Out,” The Cut, April 14th, 2021, transcript accessed via <https://www.thecut.com/2021/04/the-cut-podcast-we-are-all-burned-out.html>
 [^3]: Ibid
 [^4]: Anne Helen Petersen, “Consider the Quasi-Commune,” Culture Study, March 14th, 2021, <https://annehelen.substack.com/p/consider-the-quasi-commune>
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z4/01-in-a-cabin">retrace</a> /
+<a href="/zine/z4">contents</a> /
+<a href="/zine/z4/03-offering">onward</a> →
+</div>
+<br>

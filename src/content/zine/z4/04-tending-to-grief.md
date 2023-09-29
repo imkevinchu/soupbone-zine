@@ -5,6 +5,12 @@ pubDate: "May 2021"
 ordering: 4
 ---
 
+<style>
+    body {background: rgba(60, 58, 133, 0.06);}
+    h1, h3, h4 {color: rgb(61, 58, 133);}
+    div {text-align: center;}
+</style>
+
 ![](/assets/zine/z4/cenotes/1.jpg)
 
 _All stills from Cenote, 2019_
@@ -71,3 +77,13 @@ There is an opening and there is light.
 
 [^1]: 「花束は綺麗だよ」is Japanese for ‘The flowers are beautiful.’
 [^2]: ‘Ojīchan’ [おじいちゃん] is ‘grandfather’ in Japanese.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z4/03-offering">retrace</a> /
+<a href="/zine/z4">contents</a> /
+<a href="/zine/z4/06-learning-to-cycle">onward</a> →
+</div>
+<br>

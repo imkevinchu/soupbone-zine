@@ -5,6 +5,12 @@ pubDate: "May 2021"
 ordering: 7
 ---
 
+<style>
+    body {background: rgba(48, 141, 156, 0.04);}
+    h1, h3, h4 {color: #308d9c;}
+    div {text-align: center;}
+</style>
+
 I grew up going to church on Sundays. My parents sang in the praise band, and sometimes I'd join them, harmonizing with my mom to worship music from the '90s. The setlist remains unchanged to this day. If I'm being honest, as I got older, I spent less and less time in service and more time goofing off with my friends in the youth group room in the basement.
 
 Still, the patterns and rituals of Sunday service are deeply embedded in me. Now, when I go back for holidays, I get a kick out of mouthing along with the pastor's benediction (which has also never changed) to my childhood friends across the aisle from me, our eyes lighting up with recognition, mockery, and nostalgia. Though I avoided church as much as I could growing up, complained endlessly about its routine nature, and wrestled with my discomfort with spirituality, I look back and find it comforting how, even as numbers dwindle and the congregation gets older, the routine remains the same.
@@ -158,3 +164,13 @@ If you haven't been listening through already, I highly recommend turning on thi
 > I plant a cedar tree\
 > The best...\
 > The best we ever had..._
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z4/06-learning-to-cycle">retrace</a> /
+<a href="/zine/z4">contents</a> /
+<a href="/zine/z4/08-new-gods">onward</a> →
+</div>
+<br>

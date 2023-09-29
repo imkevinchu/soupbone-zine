@@ -6,6 +6,9 @@ ordering: 8
 ---
 
 <style>
+    body {background: rgba(184, 166, 96, 0.1);}
+    h1, h3, h4 {color: rgb(184, 166, 95)}
+    div {text-align: center;}
     figure {
         text-align: center;
         margin-top: 3rem;
@@ -89,3 +92,13 @@ And increasingly, that fleeting feeling can be purchased. This unsettled spiritu
 Hamid, Shadi. "America Without God." *The Atlantic*, 10 March 2021, <https://www.theatlantic.com/magazine/archive/2021/04/america-politics-religion/618072/>.
 
 Isabella Burton, Tara. *Strange Rites: New Religions for a Godless World.* May 19th 2020.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z4/07-rites-of-passage">retrace</a> /
+<a href="/zine/z4">contents</a> /
+<a href="/zine/z4/09-disorderly-marvelous">onward</a> →
+</div>
+<br>

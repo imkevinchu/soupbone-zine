@@ -6,6 +6,7 @@ ordering: 6
 ---
 
 <style>
+    div {text-align: center;}
     hr:not(:first-of-type):not(:last-of-type) {
         margin-top: 12rem;
         margin-bottom: 28rem;
@@ -221,3 +222,13 @@ Ajahn Sumedho, _The Four Noble Truths_, 1992.
 Henry Lefebrve, _Rhythmanalysis: Space, Time, and Everyday Life_, 1992.
 
 Terry Barensten, [dangerous & meditative NYC cycling](https://www.youtube.com/watch?v=Atkp8mklOh0)
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z4/04-tending-to-grief">retrace</a> /
+<a href="/zine/z4">contents</a> /
+<a href="/zine/z4/07-rites-of-passage">onward</a> →
+</div>
+<br>

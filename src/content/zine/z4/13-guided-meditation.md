@@ -5,6 +5,12 @@ pubDate: "May 2021"
 ordering: 13
 ---
 
+<style>
+    body {background: rgba(152, 220, 193, 0.03);}
+    h1, h3, h4 {color: rgb(237, 145, 109);}
+    div {text-align: center;}
+</style>
+
 A 15-minute meditation that guides the individual towards a more elevated and clarified state of being that cultivates awareness, self-love and gratitude, and compassion for all beings. This practice emphasizes the deep listening typically attributed to musicians in the midst of their craft, using musical interludes to allow the listener to enter a state of heightened meditative flow. Deep listening in music involves listening from a receptive, empathetic, and attentive place to complex and subtle textures of sound and meaning. This meditation is suitable for individuals of all experience levels, and includes suggestions for plants that the listener may practice next to.
 
 <audio controls src="/assets/zine/z4/Guided Meditation for Mindful Listening to the Self.mp3">
@@ -65,3 +71,13 @@ Breathe in and breathe out.
 Now, slowly open your eyes. Notice the calm you feel in your mind and body. Carry this with you throughout your day, and wherever life may lead you, knowing that you can return to it anytime, anywhere.
 
 Namaste.
+
+<br>
+<hr>
+<br>
+<div>
+← <a href="/zine/z4/12-blessing-for-faggots">retrace</a> /
+<a href="/zine/z4">contents</a> /
+<a href="/zine/z4/14-lukang">onward</a> →
+</div>
+<br>
