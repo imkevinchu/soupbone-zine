@@ -45,6 +45,14 @@ const issues: Zine[] = [
       ul li a:visited {
         color: #8e32dc;
       }
+      @media (max-width: 768px) {
+        ul {
+          display: grid;
+          grid-template-columns: 1fr;
+          column-gap: 0em;
+          row-gap: 1em;
+        }
+      }
     </style>
   </head>
   <body>
