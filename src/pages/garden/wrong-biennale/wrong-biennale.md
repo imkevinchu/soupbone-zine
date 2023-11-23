@@ -1,5 +1,5 @@
 ---
-title: "wrong biennale"
+title: "you do not have to log on your knees"
 ---
 
 A pavillion for the wrong biennale no. 5 (November 1, 2021 - May 1, 2022).
