@@ -1,11 +1,21 @@
 ---
 import ZineTableOfContents from "../../../layouts/ZineTableOfContents.astro";
 ---
+
 <style>
-body {
-  font-family: "Baskervville", serif;
+.button {
+  background-color: #fff;
+  border: #D22B2B solid 2px;
+  border-radius: 5px;
+  color: #D22B2B;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Inter, sans-serif;
+  font-size: 16px;
+  margin: 4px 2px;
 }
-div {text-align: center;}
 </style>
 
 <ZineTableOfContents zineIssue="z9" zineTitle="Zine 9: Craft">
@@ -18,16 +28,10 @@ div {text-align: center;}
   </p>
   <p style="font-style: italic;">
     Published August 2024 | Edited by Lauren Ehrmann, Tiffany Xie, and H.Z.
-    <br />
   </p>
-  <br>
-  <hr>
   <p>
-  <div>
-  <a href="/assets/zine/z9/soupbonecraftzineprintout.pdf">Click here to download the print version!</a>
-  </div>
+  <a href="/assets/zine/z9/soupbonecraftzineprintout.pdf" class="button">CLICK HERE TO DOWNLOAD THE PRINT VERSION!</a>
   </p>
-  <hr>
   <br>
   <h3>Contents</h3>
 </ZineTableOfContents>
