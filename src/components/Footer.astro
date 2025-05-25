@@ -1,12 +1,22 @@
 ---
-const today = new Date();
+const year = new Date().getFullYear();
 ---
 
+{
+  /* Reference for dynamic footer date: https://astro-tips.dev/recipes/dynamic-footer-date-for-static-websites/
+   */
+}
+
 <footer>
-  &copy; {today.getFullYear()} Soupbone: A Humanities Collective
+  &copy; <span id="footer-year">{year}</span> Soupbone: A Humanities Collective
   <br />
   <img src="/assets/footer-icon.png" alt="" />
 </footer>
+
+<script is:inline>
+  document.getElementById("footer-year").innerText = new Date().getFullYear();
+</script>
+
 <style>
   footer {
     padding: 25px;
