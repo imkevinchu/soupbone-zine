@@ -1,5 +1,5 @@
 ---
-title: "Lists of 10"
+title: "Lists of Ten"
 author: "Soupbone Collective"
 pubDate: "August 2025"
 ordering: 7
@@ -10,7 +10,7 @@ h1, h3, h4 {color: #0047AB;}
 div {text-align: center;}
 </style>
 
-_To celebrate our tenth zine, we asked each other to contribute "lists of 10" and share what we've been thinking about or tending to lately._
+_Lists of 10 to celebrate our tenth issue, as well as a small nod to the "Lately" section of our very first zine!_
 
 <div>*</div>
 
@@ -121,3 +121,12 @@ Debuting Tharp’s “Sinatra Suite” at a 1983 performance at the Kennedy Cent
 10. [La La La Human Steps: Human Sex Duo No. 1](https://www.youtube.com/watch?v=aXx8pHpeDZs)
 
 A most memorable contemporary choreography. La La La Human Steps, a now-shuttered Montreal-based contemporary dance company, shared with its Québécois neighbors Cirque du Soleil a lively acrobatic heritage. The physicality and athleticism put on display in *Human Sex* (1985) is mesmerizing. What a body can do!
+
+<br>
+<div>*</div>
+<br>
+<div>
+← <a href="/zine/z10/06-filial-piety">Previous</a> |
+<a href="/zine/z10">Contents</a>
+</div>
+<br>

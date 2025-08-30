@@ -73,3 +73,13 @@ This year, I wanted to grow a proper vegetable garden, something a little bigger
 When I first moved to Chicago, I was horribly overwhelmed and ended up crying on my new apartment floor because I bought the wrong kind of cheese from the grocery store. People don’t always tolerate transplanting, but we move anyway. I spent a lot of time after high school saying how much I wanted to leave the Midwest, how scared I was that I would be trapped here forever. Now that I’m a little older, but not that much older, and having chosen to stay in the Midwest for the time being, I’m realizing that there is a cost to moving away. 
 
 Transplantation is a risk. Moving an organ, a plant, yourself—knowing it might not take—trying anyway. And when a transplant takes, it unsettles the boundaries between us. One person’s heart can beat in another’s body. The act of transplantation questions the idea that any person has a rightful place. After all, this is a country that erases indigeneity. Nobody belongs in one place more than another.
+
+<br>
+<div>*</div>
+<br>
+<div>
+← <a href="/zine/z10/03-a-summer-spent-at-home">Previous</a> |
+<a href="/zine/z10">Contents</a> |
+<a href="/zine/z10/05-hotpot-tea">Next</a> →
+</div>
+<br>

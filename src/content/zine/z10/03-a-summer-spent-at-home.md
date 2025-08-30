@@ -25,8 +25,21 @@ In this project, I tried to capture both the frustration and loneliness of study
 
 By making art and sharing good food, we are making the world a more beautiful place and imagining a better future.
 
--	Thalia Taylor, J.D. (August 2025)
+—Thalia Taylor, J.D.
 
-Further Reading:
-Mark Arax, *The Dreamt Land: Chasing Water and Dust Across California*, Vintage Books (2020).
-Mariet Westermann, *A Worldly Art: The Dutch Republic 1585-1718*, Yale University Press (2005).
+<br>
+
+### Further Reading
+
+- Mark Arax, *The Dreamt Land: Chasing Water and Dust Across California*, Vintage Books (2020).
+- Mariet Westermann, *A Worldly Art: The Dutch Republic 1585-1718*, Yale University Press (2005).
+
+<br>
+<div>*</div>
+<br>
+<div>
+← <a href="/zine/z10/02-out-of-the-soup">Previous</a> |
+<a href="/zine/z10">Contents</a> |
+<a href="/zine/z10/04-transplants">Next</a> →
+</div>
+<br>

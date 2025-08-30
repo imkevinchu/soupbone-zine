@@ -244,6 +244,16 @@ Most days, I want to be alive, or am at least confident that I can make it work.
 
 If you read this far, thank you. I ended up being long-winded even though I didn’t want to be, but I think that’s the writer in me more than the depressive. That’s all for now. I love you! I believe in you! Thank you!
 
+<br>
+<div>*</div>
+<br>
+<div>
+← <a href="/zine/z10/01-never-gone">Previous</a> |
+<a href="/zine/z10">Contents</a> |
+<a href="/zine/z10/03-a-summer-spent-at-home">Next</a> →
+</div>
+<br>
+
 ---
 
 [^1]: The poet Lia Purpura, in an excellent essay in her 2006 collection *On Looking*, which I read in high school and convinced myself that I understood way more of than I actually did: “I’d seen how easily we open, our skin not at all the boundary we’re convinced of as we bump into each other and excuse ourselves.” 

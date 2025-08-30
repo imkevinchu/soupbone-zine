@@ -59,3 +59,10 @@ My piece also pays homage to how the standard for Chinese cooking is no recipes,
 > "Too many Chinese families caught in mid-century wars had to drop everything and run, abandoning their homes, cherished possessions, and even loved ones. Maybe this is why food takes on such significance for so many Chinese. Food is eminently portable. If the memory of a dish lingers on your tongue and you know how to cook the dishes of your family, the taste of home is never farther than your kitchen, wherever you have landed in life. Yet, in the same way, food is a fickle mistress: a poor approximation of a beloved dish may simply remind you of everything you have lost." —Michelle T. King, *Chop Fry Watch Learn: Fu Pei-Mei and the Making of Modern Chinese Food*
 
 <br>
+<br>
+<div>
+← <a href="/zine/z10/05-hotpot-tea">Previous</a> |
+<a href="/zine/z10">Contents</a> |
+<a href="/zine/z10/07-lists-of-ten">Next</a> →
+</div>
+<br>

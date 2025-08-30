@@ -16,12 +16,22 @@ Linocutting is a type of printmaking where you cut a mirrored design into a lino
 
 I took bits and pieces from the photographs to create these linocuts:
 
-![](/assets/zine/z10/hotpot/holly_linocut1.jpg)
+![](/assets/zine/z10/hotpot/holly_linocut1.jpeg)
 
 With the glorious and temporary freedom of my summer break, I spent a few full days in the library, carving the linoblocks, printing, and cutting. Most of the time, I was the only person in the workspace. There was a meditative rhythm to it—the squelching paint, my fists pressing the block to the paper, the guillotine cutter creaking up and down. 
 
-![](/assets/zine/z10/hotpot/holly_linocut2.jpg)
+![](/assets/zine/z10/hotpot/holly_linocut2.jpeg)
 
 I love making things, I hate having possessions, and I love giving things away, so linocutting happens to be an art form that satisfies this intersection of my wants. I made these with the intention of gifting them to you (my dear Soupbone friends). Drop me a line if you’d like one, and I will very happily mail you a print! Or perhaps I can send a bunch to Phoebe and y’all can receive it with the next Alphabet Soup installment <3
 
-![](/assets/zine/z10/hotpot/holly_linocut3.jpg)
+![](/assets/zine/z10/hotpot/holly_linocut3.jpeg)
+
+<br>
+<div>*</div>
+<br>
+<div>
+← <a href="/zine/z10/04-transplants">Previous</a> |
+<a href="/zine/z10">Contents</a> |
+<a href="/zine/z10/06-filial-piety">Next</a> →
+</div>
+<br>
