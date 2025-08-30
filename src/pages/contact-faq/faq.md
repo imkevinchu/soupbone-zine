@@ -16,4 +16,4 @@ Nope! We are currently an independent group of friends and peers, scattered acro
 
 **Where did Soupbone come from?**
 
-An [email newsletter](https://tinyletter.com/soupbone/letters/soupbone-an-introduction), to start. Kindred sources of inspiration include: [Prac Crit](http://www.praccrit.com), [Fermat's Library](https://fermatslibrary.com/journal_club), [SFPC](https://sfpc.study), [Slow Factory](https://slowfactory.foundation/), [Queer.Archive.Work](https://queer.archive.work/), [Real Life Mag](https://reallifemag.com/), [Pirate Care](https://syllabus.pirate.care), and [Interlude Docs](https://interludedocs.com).
+An email newsletter, to start, which spiraled into a zine, discussion groups, more zines, and eventually, the things you see on this site today. Kindred sources of inspiration include: [Prac Crit](http://www.praccrit.com), [Fermat's Library](https://fermatslibrary.com/journal_club), [SFPC](https://sfpc.study), [Slow Factory](https://slowfactory.foundation/), [Queer.Archive.Work](https://queer.archive.work/), [Real Life Mag](https://reallifemag.com/), [Pirate Care](https://syllabus.pirate.care), and [Interlude Docs](https://interludedocs.com).
