@@ -5,6 +5,11 @@ pubDate: "August 2025"
 ordering: 3
 ---
 
+<style>
+h1, h3, h4 {color: #954535;}
+div {text-align: center;}
+</style>
+
 In Dutch 17th century painting, still life straddled life and death. It often featured decay. The events of this summer and the trajectory of current events have left me feeling helpless and confined. I spent most of my time studying for an exam that is
 considered alternatively corrupt, useless, and (at best) bad. In the interim, I cannot be the advocate that I was trained to be because I do not have a license. I cannot march openly because I cannot be arrested without losing a license I do not yet have.
 This summer has been limbo. So, I have photographed fruit and my apartment. My pets and my partner.

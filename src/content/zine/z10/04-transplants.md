@@ -5,7 +5,14 @@ pubDate: "August 2025"
 ordering: 4
 ---
 
+<style>
+h1, h3, h4 {color: #5F8575;}
+div {text-align: center;}
+</style>
+
 *CW: rape, xenophobia, violence against immigrants, involuntary psychiatric care*
+
+<div>*</div>
 
 I was holding a sign on our way to a protest in the new neighborhood to which I had just moved. A man in a truck passing by rolled down his window: “Get that shit out of our neighborhood!” *I live here*, I wanted to say. Instead I said, “Have a good day, *sir*,” and went on my way.
 
@@ -29,7 +36,7 @@ My parents immigrated in the early '90s. My mom mailed her application to grad s
 
 My paternal grandmother only visited once, right after I (not the first grandchild, but the first American one) had been born. My father only saw his mother a handful more times before she passed away. I didn’t even move that far from my parents, just two states over, and it still scares me that the number of times I’ll get to see them is becoming more finite. Moving is a big fucking deal.
 
-* 
+<div>*</div>
 
 I just graduated from medical school. In training, and as a new physician, I’ve seen a lot of suffering. In fact, my motto from my first year of clinical rotations, when I would come back from the hospital and flop on my couch, was always: “Nobody told me about the suffering.”
 
@@ -41,7 +48,7 @@ So when the government decided it could pull medical records from Medicaid to tr
 
 There is so much suffering in the world and I see my job as trying my best to alleviate some of it. I don’t know if people are good by nature but I want to believe it.
 
-* 
+<div>*</div>
 
 “I used to be a psychiatric nurse. It was hard, but worth it. My best advice? Don’t take it personally.” The nurse told me during my pre-employment drug test.
 
@@ -51,7 +58,7 @@ I do not deport people as part of my job, but I do cause harm as part of my job 
 
 So I leave my patient in her room, and think about her more than I should when I go home. All she wants is to go home, and I don’t blame her, but I don’t think she is well. Frankly, I don’t know if I am well. There’s something icky but necessary about what I do. Sometimes I protest against policing and yet I wield police power. One of the other residents framed civil commitment by using medical ethics: first, do no harm. I try to ask myself if letting her go home would be a form of harm, of abandonment. Or maybe I’m just trying to convince myself of this.
 
-*
+<div>*</div>
 
 I was in the garden trying to transplant some borage to a sunnier spot. The internet told me not to do this, that borage doesn’t tolerate transplanting well, due to its large and delicate taproot beneath the soil. I tried anyway, digging wide and deep to account for the taproot. I left the plant to the side while I dug a new hole, for maybe five minutes, and when I looked over again, its leaves had wilted as if it hadn’t been watered for a week.
 
@@ -61,7 +68,7 @@ I looked at its sad, withered leaves, its stem flopped over the damp soil in whi
 
 This year, I wanted to grow a proper vegetable garden, something a little bigger than my balcony tomatoes and peppers in Chicago. With the help of the internet, I researched soil composition and learned how to drill fence pickets into a raised bed. When I started my vegetable garden, I thought I would be most excited about eating vegetables, but actually what I ended up being most excited about was watching seeds grow into plants that are now taller than me. I know it’s not a miracle but it feels like one.
 
-*
+<div>*</div>
 
 When I first moved to Chicago, I was horribly overwhelmed and ended up crying on my new apartment floor because I bought the wrong kind of cheese from the grocery store. People don’t always tolerate transplanting, but we move anyway. I spent a lot of time after high school saying how much I wanted to leave the Midwest, how scared I was that I would be trapped here forever. Now that I’m a little older, but not that much older, and having chosen to stay in the Midwest for the time being, I’m realizing that there is a cost to moving away. 
 

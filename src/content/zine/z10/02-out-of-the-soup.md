@@ -5,13 +5,18 @@ pubDate: "August 2025"
 ordering: 2
 ---
 
+<style>
+h1, h3, h4 {color: #32543d;}
+div {text-align: center;}
+</style>
+
 Since we last talked: New job. New home. New city, new partner, new hobbies, new goals (if I decide they’re goals; I take my time deciding, these days). 
 
 New—and this took many seasons, was not, in fact, so abrupt as it may appear to you now—new name. 
 
 Viv; nice to meet you. 
 
-*
+<div>*</div>
 
 Behind many of these changes is a small human accident, the sort of accident that happens to other people, not to you (I have you covered, karmically, by taking this one): on a random day in January of this year, I fell while rock climbing and hit my head. 
 
@@ -21,7 +26,7 @@ So: taking one for the cosmic team, my meat got hurt. My shit got rocked. And wh
 
 This is what happened, and how I dealt with it—am dealing with it—and what I’ve learned. 
 
-*
+<div>*</div>
 
 A disclaimer that will be longer than I want it to be: I’ve read my fair share of mental health memoirs and essays and poetry and autofiction, often in the hopes that they’ll save me from my own woes. In my experience, they actually read almost exclusively like one long vent. The implicit theses of this kind of writing are twofold: 1) it is a matter of moral urgency to know about the bad things happening to people in the world, and 2) the healing force of such writing resides in its ability to procure empathy, and empathy is, again, a moral and often political good.[^2] 
 
@@ -41,7 +46,7 @@ But: the surface is also a level. Depression pretends to paint a more accurate p
 
 Let’s take a chance, hazard a guess: that the way out is to resist depression’s promise that profundity is always what is called for, is always the key to the most accurate picture of the world. Let’s go open some tiny, very partial doorways into this infinite-feeling disease. 
 
-*
+<div>*</div>
 
 So: viva la maxim! Que vivan los lists! Here are some ideas, starting with one of my biggest kernels of wisdom. 
 
@@ -238,6 +243,8 @@ The depression has loosened its grip on me; or perhaps, more accurately, *I’ve
 Most days, I want to be alive, or am at least confident that I can make it work. I’m working to forget old rubrics of what my life should or could look like, and I’m proud of myself for that. I’m adapting. I’m searching for more and more and more reasons to keep going, and they arrive by the plateful every day. 
 
 If you read this far, thank you. I ended up being long-winded even though I didn’t want to be, but I think that’s the writer in me more than the depressive. That’s all for now. I love you! I believe in you! Thank you!
+
+---
 
 [^1]: The poet Lia Purpura, in an excellent essay in her 2006 collection *On Looking*, which I read in high school and convinced myself that I understood way more of than I actually did: “I’d seen how easily we open, our skin not at all the boundary we’re convinced of as we bump into each other and excuse ourselves.” 
 
