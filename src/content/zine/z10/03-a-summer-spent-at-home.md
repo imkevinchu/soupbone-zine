@@ -8,12 +8,19 @@ ordering: 3
 <style>
 h1, h3, h4 {color: #954535;}
 div {text-align: center;}
-.container {
-        display: grid; 
-        grid-template-columns: repeat(2, 1fr);
-        grid-auto-rows: 1fr;
-        gap: 1.5rem;
+.flex-container {
+        display: flex; 
+        flex-direction: row;
+        grid-template-columns: 20em 20em;
+        gap: 1.5em;
+        padding: 0.5em;
+        justify-content: center;
     }
+@media (max-width: 1000px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
 </style>
 
 ![](/assets/zine/z10/still_life/still_life_kitchen.jpg)
@@ -28,7 +35,7 @@ We are bearing witness to decay. One of the current administration’s more insi
 ![](/assets/zine/z10/still_life/still_life_crackers.jpg)
 
 <figure>
-<div class="container">
+<div class="flex-container">
     <img src="/assets/zine/z10/still_life/still_life_oranges.jpg">
     <img src="/assets/zine/z10/still_life/still_life_redwine.jpg">
 </div>
@@ -38,21 +45,21 @@ We are bearing witness to decay. One of the current administration’s more insi
 ![](/assets/zine/z10/still_life/still_life_coffee.jpg)
 
 <figure>
-<div class="container">
-    <img src="/assets/zine/z10/still_life/still_life_apriocts.jpg">
+<div class="flex-container">
+    <img src="/assets/zine/z10/still_life/still_life_apricots.jpg">
     <img src="/assets/zine/z10/still_life/still_life_companion.jpg">
 </div>
 </figure>
 
 <figure>
-<div class="container">
+<div class="flex-container">
     <img src="/assets/zine/z10/still_life/still_life_witness_II.jpg">
     <img src="/assets/zine/z10/still_life/still_life_white_wine.jpg">
 </div>
 </figure>
 
 <figure>
-<div class="container">
+<div class="flex-container">
     <img src="/assets/zine/z10/still_life/still_life_grapefruit.jpg">
     <img src="/assets/zine/z10/still_life/still_life_witness_I.jpg">
 </div>
