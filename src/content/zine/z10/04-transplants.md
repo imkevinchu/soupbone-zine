@@ -24,9 +24,9 @@ She was right. Although the cars zoomed past far below us, I could make out smal
 
 A man was playing *Pet Sounds* from a speaker on the back of a bike. I talked to him and found out Brian Wilson had just died. It was summery and felt right.
 
-I was at this protest against mass deportation because my parents are immigrants, naturalized American citizens after decades in this country. Children should not be scared at school and I people should not be afraid of going to the doctor. Schools and hospitals should be safer than that. It was summer. The sun was bright but the days were getting darker.
+I was at this protest against mass deportation because my parents are immigrants, naturalized American citizens after decades in this country. Children should not be scared at school and people should not be afraid of going to the doctor. Schools and hospitals should be safer than that. It was summer. The sun was bright but the days were getting darker.
 
-I just moved to this city and I’m thinking about whether I want to move out of this country as if removing myself from the situation somehow makes it more palatable, or at least make me feel less despair. I’m tempted to move somewhere “safer,” more human, but I’m not sure where that place would exist for me. My partner asked if we should move to Montreal and I looked into it, but I don’t want to take the Canadian board exams. Although I have the means to move, and I want to get away from here, I don’t want to.
+I just moved to this city and I’m thinking about whether I want to move out of this country, as if removing myself from the situation somehow makes it more palatable, or at least make me feel less despair. I’m tempted to move somewhere “safer,” more human, but I’m not sure where that place would exist for me. My partner asked if we should move to Montreal and I looked into it, but I don’t want to take the Canadian board exams. Although I have the means to move, and I want to get away from here, I don’t want to.
 
 The only astrologist I follow, Alice Sparkly Kat, writes that:
 
@@ -50,7 +50,7 @@ There is so much suffering in the world and I see my job as trying my best to al
 
 <div>*</div>
 
-“I used to be a psychiatric nurse. It was hard, but worth it. My best advice? Don’t take it personally.” The nurse told me during my pre-employment drug test.
+“I used to be a psychiatric nurse. It was hard, but worth it. My best advice? Don’t take it personally,” the nurse told me during my pre-employment drug test.
 
 Weeks later, after I had passed my drug screen and was deemed fit to work, I was facing my patient, dressed in paper scrubs and hair in a messy bun after days in the hospital. We were holding her involuntarily—as in, against her will—because I had testified in court to keep her here, saying that she was a danger to herself, and the judge had agreed. Predictably, our rapport was in shambles and she told me to fuck off. As I walked out of her room, I tried to remind myself that it’s her illness, that I shouldn’t take it personally. 
 

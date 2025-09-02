@@ -21,8 +21,8 @@ My piece also pays homage to how the standard for Chinese cooking is no recipes,
 *Makes 4 servings, or 2 if you’re feeling extra hungry/emo*
 
 1. A few cups of rice; 2-3 century eggs so pungent they make your eyes water; the fattiest pork butt you can find.
-2. The signature MSG richness bottled up from Big Wong on Mott Street in Chinatown, the restaurant your parents frequented 25 years ago. An “every occasion” restaurant–post-grocery run, anniversary, fulfilling a craving, etc.
-3. 1 cup of tears held back as you sit across from your parents on a warm spring day this past May, imagining them on a date back then inhaling the same congee you love now.
+2. The signature MSG richness bottled up from Big Wong on Mott Street in Chinatown, the restaurant your parents frequented 25 years ago. An “every occasion” restaurant: post-grocery run, for an anniversary, to fulfill a craving, etc.
+3. 1 cup of tears held back as you sit across from your parents on a warm spring day in May, imagining them on a date back then inhaling the same congee you love now.
 4. A few tablespoons each of scallion, ginger, white pepper, and salt.
 5. 2 dashes of light soy sauce, thinking of your dad saying, “this was once mommy’s and my favorite restaurant, and now it’s for all of us,” on his first visit to New York my freshman year of college.
 6. The ineffable sense of *return* after each hearty slurp—to where exactly, no one knows, just that the feeling of coming home can be contained even on the gentle curve of a soup spoon.
@@ -38,7 +38,7 @@ My piece also pays homage to how the standard for Chinese cooking is no recipes,
 3. 6-8 dried jujubes (one of my favorite words & ingredients)
 4. Sporadic memories, vivid and tenacious, of you and your mother in an eternal dance of push-and-pull, like one is always attempting to outdo the other in proving the depth of their love. At times bitter and tough, yet ultimately as sweet and comforting as a bowl of soup.
 5. 2 tbsps goji berries.
-6. A sprinkling of ginseng for *~health~*
+6. A sprinkling of ginseng for *~*health*~*
 7. Salt to taste.
 
 > “There’s something in the East Asian tradition at large that resists exposition. The imagistic impulse is much more common and seen as superior. The image and experience of a person is much more privileged and precious to us. I think it’s something that’s very distinct in Asian traditions. Part of the ‘aesthetic’ of Asian literature and art is that image reigns supreme, and that can be expanded as service. Rather than saying it through exposition (‘I love you’), I’m going to make you this thing that would not let you deny it.” —Ocean Vuong

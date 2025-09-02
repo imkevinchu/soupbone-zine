@@ -22,11 +22,11 @@ Linocutting is a type of printmaking where you cut a mirrored design into a lino
 
 ![](/assets/zine/z10/hotpot/holly_hotpot1.jpeg)
 
-![](/assets/zine/z10/hotpot/holly_hoptpot2.jpeg)
+![](/assets/zine/z10/hotpot/holly_hotpot2.jpeg)
 
-![](/assets/zine/z10/hotpot/holly_hoptpot3.png)
+![](/assets/zine/z10/hotpot/holly_hotpot3.png)
 
-![](/assets/zine/z10/hotpot/holly_hoptpot4.png)
+![](/assets/zine/z10/hotpot/holly_hotpot4.png)
 
 I took bits and pieces from the photographs to create these linocuts:
 

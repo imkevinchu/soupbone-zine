@@ -20,7 +20,7 @@ Viv; nice to meet you.
 
 Behind many of these changes is a small human accident, the sort of accident that happens to other people, not to you (I have you covered, karmically, by taking this one): on a random day in January of this year, I fell while rock climbing and hit my head. 
 
-When I hit my head, I got a concussion, and depression along with it. This was, the Internet and to a lesser extent doctors told me, not uncommon. Consider it your quarterly reminder that the thing that determines our entire experience of the world and everything in it, including ourselves and all of the people we love, is a real, not-invincible lump of meat in a not-too-sturdy bowl.[^1] 
+When I hit my head, I got a concussion, and depression along with it. This was, the Internet and to a lesser extent doctors told me, not uncommon. Consider it your quarterly reminder that the thing that determines our entire experience of the world and everything in it, including ourselves and all of the people we love, is a real, not-invincible lump of meat in a not-too-sturdy bowl.[^1]
 
 So: taking one for the cosmic team, my meat got hurt. My shit got rocked. And when my concussion healed, my depression didn’t. 
 
@@ -174,6 +174,7 @@ You know what delights you, but depression might be making it hard to remember. 
 - *Make Some Noise*, which I hinted at loving earlier—side-achingly funny improv. 
 
 **Eat**
+
 Okay. Here’s another hard truth: every body is different, but you will probably feel way better if you eat plants and whole grains than if you eat small gobs of sugar all day.  
 
 When I was super depressed, all I wanted to eat was small gobs of sugar, which I think is pretty natural—my body was exhausted and wanted an easy, quick hit of energy. But it threw me through the wringer of sugar highs and crashes and never kept me full for long, meaning that I boomeranged the Sisyphisean task of feeding myself back to myself even faster. 
@@ -193,6 +194,7 @@ Here are some things that helped me feed my body when I was operating on zero en
     - [Red cabbage pasta](https://drive.google.com/file/d/1A8IAUld2ezJftXVTLd8-65Nd6BhHWMwB/view?usp=sharing) (you would think this would never come in handy but on multiple occasions I have been craving red cabbage, badly, and yes I’m mentally ill but this meets those cravings with an alacrity and wisdom unmatched by, god forbid, a “thai peanut noodle salad” where a white lady insists you throw handfuls of the stuff in raw). 
 
 **Play**
+
 I know less about this than my hashtag gamer friends, but I *do* know that on a night when I was absolutely positively certain that I could not go on, and was so dissociated that I got lost on my way to my girlfriend’s house, which was not an unfamiliar location by that point, and was starving but nauseous and weepy and vacant and not even the boba I was carrying to her could afford me a modicum of pleasure, she sat me down and guided me to play *Monument Valley*, and I played the game the entire way through in one sitting and felt awe and excitement and curiosity and was able to eat a whole plate of stir-fry afterwards (this is perhaps unrelated).
 
 The point is: distraction isn’t always a bad thing. I used to feel really guilty about trying to distract myself from my depressed thoughts and feelings, because they felt so *real*—the world is dying! it is entirely the fault of the human race! the most vulnerable are suffering while the rich base policies around not giving a fuck about other people! etc., ad infinitum. 
@@ -209,6 +211,7 @@ So, yes, my game recs:
 - [Hello Kitty Island Adventure](https://hellokittyislandadventure.wiki.gg/). I have not played this, nor do I own a Nintendo Switch, which is where I think you play this, and as I write that I realize the audacity of including a “gaming” section in my “depression essay” despite having “little to no actual gaming experience,” but anyway my girlfriend loves it and her taste is immaculate, so. 
 
 **Apps**
+
 **(Sorry this one isn’t a verb. Again, **_practice being disappointing_**, my beleaguered ducklings.)**
 - You already have a Notes app or equivalent on your phone, and I want you to:
     - Post an Instagram story or other community-board-esque way of reaching many people in your life asking them to tap “yes” if you can cold-call them when you’re feeling down. 
@@ -226,14 +229,15 @@ So, yes, my game recs:
 1. Hang out with old people and listen to their stories. Engage in political activism with them (many of them are very good at this, because they have a lot of time and a lot of passion). Visit museums and look at the long arc of human history, and the small particulars of certain places at certain times. Volunteer at a lesbian archive; I did this when I still lived in Boston and it fucking rocked.  
 2. Try talking about your sadness in another language. Does it change character in Spanish? Is it as convincing?
 3. Depression narrows your view so much. It gives you horse blinders for joy. More than that: it colors *everything* in its image, giving you Taylor’s Version of everything, if Taylor was depression personified. That’s not all there is. It’s simply not true. SO: try making a list of other things that exist in the world. They don’t have to be happy things. They just have to be things outside of your little corner of life. For instance:
-    a. Somewhere a hockey team is practicing, and the rink smells like sweat and nacho cheese.
-    b. Somewhere someone is thrilled with the blueberry plant in their home garden, and a little afraid of the vast quantity of blueberries now in their possession, and is plopping blueberries into little containers to give to their neighbors.
-    c. Somewhere a teenager is discovering, slowly, that they might be trans.
-    d. Someone’s dying their hair with box dye. 
-    e. A budding writer is writing fanfiction about a movie you’ve never watched and will never watch.
-    f. And so on and so forth.
+    - Somewhere a hockey team is practicing, and the rink smells like sweat and nacho cheese.
+    - Somewhere someone is thrilled with the blueberry plant in their home garden, and a little afraid of the vast quantity of blueberries now in their possession, and is plopping blueberries into little containers to give to their neighbors.
+    - Somewhere a teenager is discovering, slowly, that they might be trans.
+    - Someone’s dying their hair with box dye. 
+    - A budding writer is writing fanfiction about a movie you’ve never watched and will never watch.
+    - And so on and so forth.
 
 **Where we are now**
+
 And by “we” I mean me, but also by proxy mean people who consider and sometimes follow the above advice. 
 
 I moved in with my sister in Gainesville, Florida and am taking a leave of absence from my PhD program to work at a bookstore. I’m long-distance from my girlfriend and have left so many of my friends behind, but I’m slowly building something here. I hang out with a retired crazy-smart rail-thin poet, and a married lesbian couple only a little older than me but maternal in their higher-paycheck-y home and dogs, and my sister, who has turned into (has always been) a really cool person, and a trans filmmaker who loves lifting weights, and my queer billiards team (this is a thing that is possible to do in the world). It’s worth being alive just to witness how beautiful they all are, to try to tell you about it. 
