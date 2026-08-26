@@ -2,7 +2,7 @@
 title: "Anosmia"
 author: "Tiffany Xie"
 pubDate: "August 2026"
-ordering: 2
+ordering: 7
 ---
 
 did you know          people with Alzheimer’s start 
