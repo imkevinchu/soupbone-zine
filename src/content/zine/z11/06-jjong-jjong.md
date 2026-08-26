@@ -7,7 +7,7 @@ ordering: 6
 
 ~*Our fur baby who has changed our lives so utterly and beautifully that we can’t imagine a day without her*~
 
-![](/assets/zine/z11/cindy/1.jpeg)
+![](/assets/zine/z11/cindy/cindy1.jpg)
 
 *Since adopting my dog a year ago, I’m constantly reminded of all that is dear and true: community is what will ultimately save and heal us. That animals show us unconditional love in ways we can all learn from. That everyone deserves safety and a home. It has been one of the most meaningful and rewarding experiences to watch my dog’s personality, confidence, and joy bloom every day.*
 
@@ -25,7 +25,7 @@ MEEAAATTTTT!!! YUMMY MEAT NOMNOMNOM COOKIE GET IN MY BELLY NOWWW I AM SO HUNGRY 
 
 IF YOU DON’T FEED ME IMMEDIATELY I TURN INTO THIS
 
-![](/assets/zine/z11/cindy/2.jpeg)
+![](/assets/zine/z11/cindy/cindy2.jpg)
 
 **Morning/Afternoon Nap**
 
@@ -36,13 +36,13 @@ mlem mlem I luv to smell treats and replay the scrumptious scents from my mornin
 I know we just walked this route yesterday…and the day before…and the day before that but I PROMISE it’s different this time!! It’s in the scents themselves, can’t you tell?? Everything from the takeout strewn on the ground that I sneakily scavenge (daddy always catches me tho…), the trails my friends leave for me to find, the weeds poking out from the grates that I love to greet with a lil’ sniff.
 My pawrents sometimes end our afternoon family walks with something called a “pup cup” which is quite literally the BEST thing I’ve ever ever ever smelled, it awakens something entirely feral within me. I yearn for it every walk and live for the hope of turning the corner where this magical fluffy scent resides. I make myself as cute as possible to manipulate them into giving me one, which isn’t hard at all since my pawrents are the weakest hoomans ever and crumple the second they see my face.
 
-![](/assets/zine/z11/cindy/3.jpeg)
+![](/assets/zine/z11/cindy/cindy3.jpg)
 
 **Dinner**
 
 MEEAAATTTTT!!! YUMMY MEAT NOMNOMNOM COOKIE GET IN MY BELLY NOWWW I AM SO HUNGRY IF YOU DONT FEED ME RIGHT AWAY I WILL CRASH OUTTTTT AND REPORT U TO THE ASPCA
 
-![](/assets/zine/z11/cindy/4.jpeg)
+![](/assets/zine/z11/cindy/cindy4.jpg)
 
 **Evening Walk**
 
@@ -52,16 +52,16 @@ There’s only one thing that matters to me right now and that’s rats. Rats ra
 
 When I’m ready to curl up for the night and burrow myself between my pawrents, I do a few mlem mlems and secrete my signature Frito smell. Thousands of years of evolution mean my paw’s microbiome bacteria is delicious and nutritious. My warmth in sleep generates more bacteria and signal to my friends that it’s safe to sleep here. Night night!
 
-![](/assets/zine/z11/cindy/5.jpeg)
+![](/assets/zine/z11/cindy/cindy5.jpg)
 
 *I recently read Jenny Odell’s marvelous Saving Time: Discovering a Life Beyond the Clock, and was struck by how much Odell’s idea of “gardening time” (where gardening itself is an act which contains infinite possibilities) applies to spending my days with Jjong Jjong.* 
 
 *Odell interrogates how we experience time through the meaning and value of presence–which is to say, life itself–and I have noticed that scent informs Jjong Jjong’s concept of time. Smells certainly hold memory and her sense of the past as well, but nowhere is there a stronger link than that between her embodiment of the present and her sense of smell. Indeed, they’re completely inextricable from each other, and by observing this, I am also reminded to drop into greater awareness of this astonishing miracle of presence, of being alive, of now.* 
 
-![](/assets/zine/z11/cindy/6.jpeg)
+![](/assets/zine/z11/cindy/cindy6.jpg)
 
 *I am fascinated by this literal alternative timeline my dog lives in. We might objectively be experiencing the same minutes on a clock, but for Jjong Jjong, each moment contains the universe. She may walk the same paths and go through the same routine every day, but she nevertheless seems completely enthralled each time, as if these were all day 1 encounters. The urgency of the present moment and the thrill of the future exist simultaneously, blossoming and converging until they are virtually indistinguishable, made tangible through a veritable perfume of scents and sensibility ;-)).*
 
 *Both Odell’s work and witnessing Jjong Jjong go through life have recalibrated my view of mortality and seemingly mundane moments. If it is true that infinite possibilities constitute the entirety of being alive, of our precious time on this planet, then I choose to revel in this joy, to smother myself in ever more luscious scents in this garden of earthly delights.*
 
-![](/assets/zine/z11/cindy/7.jpeg)
+![](/assets/zine/z11/cindy/cindy7.jpg)
