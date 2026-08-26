@@ -5,13 +5,17 @@ pubDate: "August 2026"
 ordering: 3
 ---
 
+<style>
+div {text-align: center;}
+</style>
+
 > The scent of production: not entirely human, yet not wholly industrial. Hints of petrochemicals and bleach. Clean and impersonal. Production as synonym for scent: one can never truly see the means by which it emerges, or how it operates, though its effects and results linger in the material world. The scent of production is not of any one object or entity, but of a process. It strives to overcome its own afternote: decay.
 
 Over the past decade, I’ve acquired three hardcover box sets: *Nausicaä of the Valley of the Wind* (Hayao Miyazaki, published by VIZ Media), *Dungeon Meshi* (Ryoko Kui, published by Yen Press), and *Stonetop*, a TTRPG setting and system (Jeremy Strandberg, published by Lampblack & Brimstone). I bought the *Nausicaä* box set at the end of high school as a graduation gift for myself; *Dungeon Meshi* was gifted to me last Christmas; *Stonetop* was a recent splurge in my search for an alternative to a D&D campaign framework. Three different authors, three different publishers. Why, then, do all three of these box sets smell *identical*? 
 
 The paper varies across each of the sets, so my conclusion, at first, was that the shared scent profile must come from the binding glue, as well as the way the books are contained in each box. Since the pages are enclosed, the paper has a slower oxidation rate, which allows the sets to retain a “new book” scent. Now, you may be thinking—*duh, so that means they’re from the same printer! Or they use the same glue!* To which I say: Unsettling! Materially, there’s nothing distinct or unique in the scent of each of these sets. The *Nausicaä* books, which I’ve lugged through countless cross-country moves and cracked open frequently, still smell the same as they did over ten years ago. The scent had been nostalgic until I acquired *Dungeon Meshi* and *Stonetop*, realizing that it was not, in fact, a product of memory, but a product of some unseen printing process I had yet to acknowledge. Scent, which Proust and perfume companies describe as intimately individual, slipped out of the realm of my own grasp, into the anonymous collective: the scent of production. 
 
-***
+<div>***</div>
 
 Paper strips are often described as a “clinical” way to examine and test perfumes, since paper has a more “neutral” odor than your skin and body. When I first heard about this, I thought it an odd way to describe paper, as *clinical*. Any paper aficionado could rave about the signature “musty yet pleasant” scent of secondhand books, or the wonders of washi made from radish leaves, or the notes of sandalwood and hibiscus one might find in vats of pulp. But now, I’m starting to wonder if *clinical* is an apt description of paper at a larger scale: clinical, as in detached, as in smoothed of its unique defining characteristics to serve as a template for more general applications of capital. 
 
@@ -27,6 +31,16 @@ I think, too, about the distance between the material scent of a modern book ver
 
 What *is*, indeed, the scent of production? 
 
-***
+<div>***</div>
 
 The “smelliest” book I own is my copy of Anne Carson’s *Autobiography of Red*, which I’ve lent to countless friends, which I’ve stained with strawberry juice, which is slightly waterlogged in one corner, which I’ve left in suitcases, which I’ve read under the shade of a tree on the lakefront as the wind brought the scent of goose shit to my nose. The copy isn’t specially printed or bound: it is the same generic mass market paperback, published by Knopf, with thin margins and yellowing paper, that everyone else owns. Perhaps I’m simply speeding up the inevitable and aging the book horribly through its materiality, but perhaps, too, it is in decay that things take on their proof of meaning. The scent of production is not made for humans or individuals—it is made for the leviathan of capitalism. We glimpse its notes, but that does not mean we must wear it, for there are other scents that so define our storied days: the flowers in the eaves, the sweat-stained armchair, the oil of your thumb on a page that changes your life.
+
+<br>
+<div>*</div>
+<br>
+<div>
+← <a href="/zine/z11/02-notes-of-parts">Previous</a> |
+<a href="/zine/z11">Contents</a> |
+<a href="/zine/z11/04-ulta">Next</a> →
+</div>
+<br>

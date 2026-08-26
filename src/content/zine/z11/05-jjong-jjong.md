@@ -2,8 +2,12 @@
 title: "My Little World: A Day in the Life of Jjong Jjong"
 author: "Cindy Liu"
 pubDate: "August 2026"
-ordering: 6
+ordering: 5
 ---
+
+<style>
+div {text-align: center;}
+</style>
 
 ~*Our fur baby who has changed our lives so utterly and beautifully that we can’t imagine a day without her*~
 
@@ -65,3 +69,13 @@ When I’m ready to curl up for the night and burrow myself between my pawrents,
 *Both Odell’s work and witnessing Jjong Jjong go through life have recalibrated my view of mortality and seemingly mundane moments. If it is true that infinite possibilities constitute the entirety of being alive, of our precious time on this planet, then I choose to revel in this joy, to smother myself in ever more luscious scents in this garden of earthly delights.*
 
 ![](/assets/zine/z11/cindy/cindy7.jpg)
+
+<br>
+<div>*</div>
+<br>
+<div>
+← <a href="/zine/z11/04-ulta">Previous</a> |
+<a href="/zine/z11">Contents</a> |
+<a href="/zine/z11/06-anosmia">Next</a> →
+</div>
+<br>

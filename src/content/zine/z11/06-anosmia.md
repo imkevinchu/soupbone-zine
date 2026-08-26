@@ -2,8 +2,12 @@
 title: "Anosmia"
 author: "Tiffany Xie"
 pubDate: "August 2026"
-ordering: 7
+ordering: 6
 ---
+
+<style>
+div {text-align: center;}
+</style>
 
 did you know          people with Alzheimer’s start 
 losing          their sense of smell
@@ -32,3 +36,13 @@ except          somehow here	a whiff
 half a second in a stairwell	this
 shopping mall		cigarettes and piss
 and inexplicable familiarity
+
+<br>
+<div>*</div>
+<br>
+<div>
+← <a href="/zine/z11/05-jjong-jjong">Previous</a> |
+<a href="/zine/z11">Contents</a> |
+<a href="/zine/z11/07-fountain">Next</a> →
+</div>
+<br>

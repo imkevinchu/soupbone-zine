@@ -5,6 +5,10 @@ pubDate: "August 2026"
 ordering: 4
 ---
 
+<style>
+div {text-align: center;}
+</style>
+
 We gave ourselves thirty minutes exactly. As soon as the caffeine hit my veins, everything became of the utmost importance and seriousness.
 
 **SNIF**
@@ -102,3 +106,14 @@ We started really vibing in this section.
 *Devotion for Men* - Expired peppercorns. 
 
 *Light Blue Pour Homme* -  Tragically, this didn't preserve any of the things I liked about *Light Blue*. It smelled like spicy sour baby powder. 
+
+
+<br>
+<div>*</div>
+<br>
+<div>
+← <a href="/zine/z11/03-scent-of-production">Previous</a> |
+<a href="/zine/z11">Contents</a> |
+<a href="/zine/z11/05-jjong-jjong">Next</a> →
+</div>
+<br>
