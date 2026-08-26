@@ -37,9 +37,7 @@ half a second in a stairwell	this/
 shopping mall		cigarettes and piss/
 and inexplicable familiarity/
 
-
-<br>
-*This piece contains formatting that may vary depending on screen size. To view the intended formatting, [please refer to this PDF](/assets/zine/z11/Anosmia.pdf).*
+This piece contains formatting that may vary depending on screen size. To view the intended formatting, [please refer to this PDF](/assets/zine/z11/Anosmia.pdf).
 
 <br>
 <div>*</div>
