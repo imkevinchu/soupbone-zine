@@ -13,11 +13,11 @@ Dark leaves nearby scratch out their verdance.
 A falling constellation betrays some thousand fates.  
 The whole buzz is heirless, blazing, it’s non-directional.  
 
-	There’s an array of receptors on a cavern’s far wall,  
-	each in salute for a signature along the scroll-current  
-
-	but it’s not too ordered, it’s chords, rumors, surmise,  
-	hair, egg drop, drool: nothing counts on reciprocity.   
+    There’s an array of receptors on a cavern’s far wall,  
+    each in salute for a signature along the scroll-current  
+    
+    but it’s not too ordered, it’s chords, rumors, surmise,  
+    hair, egg drop, drool: nothing counts on reciprocity.   
 
 There’s no one walking by now to admire its stranded labor.  
 Aerated greeting, its subtraction from itself for some tell.  
