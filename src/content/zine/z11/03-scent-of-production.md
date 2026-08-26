@@ -2,7 +2,7 @@
 title: "The Scent of Production"
 author: "Phoebe Pan"
 pubDate: "August 2026"
-ordering: 6
+ordering: 3
 ---
 
 > The scent of production: not entirely human, yet not wholly industrial. Hints of petrochemicals and bleach. Clean and impersonal. Production as synonym for scent: one can never truly see the means by which it emerges, or how it operates, though its effects and results linger in the material world. The scent of production is not of any one object or entity, but of a process. It strives to overcome its own afternote: decay.
@@ -25,7 +25,7 @@ If scent is intimately tied to place and time, then what does it mean to lose th
 
 I think, too, about the distance between the material scent of a modern book versus what perfume companies, time and again, have tried to reproduce as the enigmatic and romantic “book scent”—based more on atmospheres of reading than on actual paper pulp, as if the scent was never about the books themselves but about the environments that they appear in. If scent is tied to memory, then memory must be tied to decay, for memory takes shape not in the exact verisimilitude of a scene but in the small errors and misprints that make it *your* memory and not simply a photographic reproduction. Imagine, then, a book made against decay: does it affect the afterimage of memories that emerge? Does it render memory more uniform? Does it depersonalize memory, so that what I truly remember is not the experience of reading it but the printing house that produced it, which I have never seen or visited? 
 
-What is, indeed, the scent of production? 
+What *is*, indeed, the scent of production? 
 
 ***
 
