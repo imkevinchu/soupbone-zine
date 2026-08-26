@@ -17,11 +17,11 @@ Dark leaves nearby scratch out their verdance.<br>
 A falling constellation betrays some thousand fates.<br>
 The whole buzz is heirless, blazing, it’s non-directional.<br> 
 
-&emsp;&emsp;There’s an array of receptors on a cavern’s far wall,<br>
-&emsp;&emsp;each in salute for a signature along the scroll-current<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There’s an array of receptors on a cavern’s far wall,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;each in salute for a signature along the scroll-current<br>
     
-&emsp;&emsp;but it’s not too ordered, it’s chords, rumors, surmise,<br>
-&emsp;&emsp;hair, egg drop, drool: nothing counts on reciprocity.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;but it’s not too ordered, it’s chords, rumors, surmise,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hair, egg drop, drool: nothing counts on reciprocity.<br>
 
 There’s no one walking by now to admire its stranded labor.<br>
 Aerated greeting, its subtraction from itself for some tell.<br>
