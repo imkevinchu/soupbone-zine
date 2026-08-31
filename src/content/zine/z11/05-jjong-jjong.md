@@ -44,8 +44,8 @@ mlem mlem I luv to smell treats and replay the scrumptious scents from my mornin
 
 **Afternoon Walk**
 
-I know we just walked this route yesterday…and the day before…and the day before that but I PROMISE it’s different this time!! It’s in the scents themselves, can’t you tell?? Everything from the takeout strewn on the ground that I sneakily scavenge (daddy always catches me tho…), the trails my friends leave for me to find, the weeds poking out from the grates that I love to greet with a lil’ sniff.
-My pawrents sometimes end our afternoon family walks with something called a “pup cup” which is quite literally the BEST thing I’ve ever ever ever smelled, it awakens something entirely feral within me. I yearn for it every walk and live for the hope of turning the corner where this magical fluffy scent resides. I make myself as cute as possible to manipulate them into giving me one, which isn’t hard at all since my pawrents are the weakest hoomans ever and crumple the second they see my face.
+- I know we just walked this route yesterday…and the day before…and the day before that but I PROMISE it’s different this time!! It’s in the scents themselves, can’t you tell?? Everything from the takeout strewn on the ground that I sneakily scavenge (daddy always catches me tho…), the trails my friends leave for me to find, the weeds poking out from the grates that I love to greet with a lil’ sniff.
+- My pawrents sometimes end our afternoon family walks with something called a “pup cup” which is quite literally the BEST thing I’ve ever ever ever smelled, it awakens something entirely feral within me. I yearn for it every walk and live for the hope of turning the corner where this magical fluffy scent resides. I make myself as cute as possible to manipulate them into giving me one, which isn’t hard at all since my pawrents are the weakest hoomans ever and crumple the second they see my face.
 
 <figure>
     <img src="/assets/zine/z11/cindy/cindy3.jpg">
