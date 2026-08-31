@@ -28,6 +28,18 @@ div {text-align: center;}
 
 ***
 
+**PHOEBE**
+
+1. Fresh, Woody, Spicy, Floral, Fruity, Gourmand.
+
+2. Concrete and mold; dusty books; pork floss; Salonpas; tomato vines.
+
+3. Some kind of "crafter's scent": a fresh stack of cardstock, bottled ink, pine, tulsi, honey. 
+
+4. No perfume, post-shower.
+
+***
+
 **CINDY**
 
 1. Fresh, Fruity, Gourmand, Floral, Woody, Spicy
@@ -37,6 +49,7 @@ div {text-align: center;}
 3. Oohhh I love this. The first thought that comes to mind is how the amortentia potion works in the HP universe, smelling different to each person based on what reminds them of their beloved. For me, that would be McDonald's, dim sum, and Old Spice Fiji 😅
 
 4. [Funyuns, Zendaya-fied](https://www.tiktok.com/@inspirationaleditss/video/7234192812307238145) ;-)
+
 
 <br>
 <div>*</div>
