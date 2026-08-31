@@ -33,7 +33,7 @@ MEEAAATTTTT!!! YUMMY MEAT NOMNOMNOM COOKIE GET IN MY BELLY NOWWW I AM SO HUNGRY 
 IF YOU DON’T FEED ME IMMEDIATELY I TURN INTO THIS
 
 <figure>
-    <img src="/assets/zine/z11/cindy/cindy2.jpg">
+    <img src="/assets/zine/z11/cindy/cindy2.gif">
 </figure>
 
 **Morning/Afternoon Nap**
@@ -54,7 +54,7 @@ My pawrents sometimes end our afternoon family walks with something called a “
 MEEAAATTTTT!!! YUMMY MEAT NOMNOMNOM COOKIE GET IN MY BELLY NOWWW I AM SO HUNGRY IF YOU DONT FEED ME RIGHT AWAY I WILL CRASH OUTTTTT AND REPORT U TO THE ASPCA
 
 <figure>
-    <img src="/assets/zine/z11/cindy/cindy4.jpg">
+    <img src="/assets/zine/z11/cindy/cindy4.gif">
 </figure>
 
 **Evening Walk**
