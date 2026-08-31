@@ -11,7 +11,7 @@ figure {text-align: center;}
 figcaption {font-style: italic;}
 </style>
 
-*Our fur baby who has changed our lives so utterly and beautifully that we can’t imagine a day without her*
+*Our fur baby who has changed our lives so utterly and beautifully that we can’t imagine a day without her:*
 
 <figure>
     <img src="/assets/zine/z11/cindy/cindy1.jpg">
